@@ -6,4 +6,4 @@ description: >-
 
 # Catalyst-Audit-Circle
 
-This GitBook documents the development of a Catalyst-Audit-Circle (hereafter "Audit Circle") focused is on problem sensing prioritisation of problems surrounding auditing for funded proposals.
+Here is the text of a proposal entitled "Catalyst-Audit-Circle" that was submitted in Fund 7 under the Improve and Grow Auditability Challenge.
