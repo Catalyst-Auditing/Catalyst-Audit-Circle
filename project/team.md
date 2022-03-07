@@ -1,25 +1,25 @@
-# Team
+# Page 1
 
-## Fund 7
+### Fund 7
 
-### Bi-weekly Meetings
+#### Bi-weekly Meetings
 
-#### Alphabetical Order
+**Alphabetical Order**
 
-| Name                 | Role | Status                |
-| -------------------- | ---- | --------------------- |
-| Allison Fromm        |      | Confirmed             |
-| Harris Warren        |      | TBA                   |
-| Jo Allum             |      | TBA                   |
-| Kenric Nelson        |      | Confirmed             |
-| Matthias Sieber      |      | TBA - 17th March 2022 |
-| Phil Khoo            |      | Confirmed             |
-| Stephen Whitenstall  |      | Confirmed             |
-| Tevo Saks            |      | Confirmed             |
-| Vanessa Cardui       |      | Confirmed             |
-|                      |      |                       |
+| Name                | Role | Status                |
+| ------------------- | ---- | --------------------- |
+| Allison Fromm       |      | Confirmed             |
+| Harris Warren       |      | TBA                   |
+| Jo Allum            |      | TBA                   |
+| Kenric Nelson       |      | Confirmed             |
+| Matthias Sieber     |      | TBA - 17th March 2022 |
+| Phil Khoo           |      | Confirmed             |
+| Stephen Whitenstall |      | Confirmed             |
+| Tevo Saks           |      | Confirmed             |
+| Vanessa Cardui      |      | Confirmed             |
+|                     |      |                       |
 
-#### Second Choice
+**Second Choice**
 
 | Name               | Role | Status        |
 | ------------------ | ---- | ------------- |
@@ -27,23 +27,19 @@
 | Thorsten Pottebaum |      | Second Choice |
 |                    |      |               |
 
-### Surveys
+#### Surveys
 
+#### Facilitation
 
+#### **Reports**
 
-### Facilitation
+***
 
+#### **Preparation for a Fund 8 proposal**
 
+***
 
-### **Reports**
-
-****
-
-### **Preparation for a Fund 8 proposal**
-
-****
-
-### Treasury & Administration&#x20;
+#### Treasury & Administration
 
 | Name                | Role           | Status    |
 | ------------------- | -------------- | --------- |
@@ -51,6 +47,4 @@
 | Miroslav Rajh       | Treasury       | Confirmed |
 | Stephen Whitenstall | Proposal Admin | Confirmed |
 
-
-
-##
+###
