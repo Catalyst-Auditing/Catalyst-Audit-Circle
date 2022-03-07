@@ -19,3 +19,4 @@
 ***
 
 * [Team](team.md)
+* [Timetable](timetable.md)
