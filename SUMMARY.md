@@ -10,3 +10,8 @@
 ***
 
 * [Feedback](feedback.md)
+
+## Project
+
+* [overview](project/overview.md)
+* [Meetings](project/meetings.md)
