@@ -29,7 +29,10 @@ description: Catalyst Audit Circle Team Commitments
 
 ### **Preparation for a Fund 8 proposal**
 
-***
+| Name                | Role           | Status    |
+| ------------------- | -------------- | --------- |
+| Andre Diamond       | Treasury       | Confirmed |
+| Stephen Whitenstall | Proposal Admin | Confirmed |
 
 ### Treasury & Administration
 
