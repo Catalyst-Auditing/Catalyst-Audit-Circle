@@ -4,11 +4,11 @@
 
 ### Bi-weekly Meetings
 
-**Alphabetical Order**
+#### Starting 1800 UTC on Thursday 17th March 2022&#x20;
 
 | Name                | Role | Status    |
 | ------------------- | ---- | --------- |
-| Jo Allum            |      | TBA       |
+| Jo Allum            |      | Confirmed |
 | Phil Khoo           |      | Confirmed |
 | Stephen Whitenstall |      | Confirmed |
 | Vanessa Cardui      |      | Confirmed |
