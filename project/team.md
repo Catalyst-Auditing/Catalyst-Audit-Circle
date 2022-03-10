@@ -1,3 +1,7 @@
+---
+description: Catalyst Audit Circle Team Commitments
+---
+
 # Team
 
 ## Fund 7 Commitments
