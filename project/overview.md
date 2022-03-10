@@ -6,19 +6,21 @@ Welcome to the project management section of Catalyst Audit Circle
 Here you will find information on :&#x20;
 {% endhint %}
 
-## Team
+## Our Team
 
 Who is committed and to what deliverables
 
-## Process
+## The Process
 
 How we work
+
+## The Timetable
+
+A record of our meetings
 
 ## Meetings & Town Halls
 
 What we have achieved and what we are doing next
 
-## Timetable
-
-A record of our meetings
+##
 
