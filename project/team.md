@@ -1,45 +1,33 @@
-# Page 1
+# Team
 
-### Fund 7
+## Fund 7 Commitments
 
-#### Bi-weekly Meetings
+### Bi-weekly Meetings
 
 **Alphabetical Order**
 
-| Name                | Role | Status                |
-| ------------------- | ---- | --------------------- |
-| Allison Fromm       |      | Confirmed             |
-| Harris Warren       |      | TBA                   |
-| Jo Allum            |      | TBA                   |
-| Kenric Nelson       |      | Confirmed             |
-| Matthias Sieber     |      | TBA - 17th March 2022 |
-| Phil Khoo           |      | Confirmed             |
-| Stephen Whitenstall |      | Confirmed             |
-| Tevo Saks           |      | Confirmed             |
-| Vanessa Cardui      |      | Confirmed             |
-|                     |      |                       |
+| Name                | Role | Status    |
+| ------------------- | ---- | --------- |
+| Jo Allum            |      | TBA       |
+| Phil Khoo           |      | Confirmed |
+| Stephen Whitenstall |      | Confirmed |
+| Vanessa Cardui      |      | Confirmed |
+| Ron Hill            |      | Confirmed |
+| Thorsten Pottebaum  |      | Confirmed |
 
-**Second Choice**
+### Surveys
 
-| Name               | Role | Status        |
-| ------------------ | ---- | ------------- |
-| Ron Hill           |      | Second Choice |
-| Thorsten Pottebaum |      | Second Choice |
-|                    |      |               |
+### Facilitation
 
-#### Surveys
-
-#### Facilitation
-
-#### **Reports**
+### **Reports**
 
 ***
 
-#### **Preparation for a Fund 8 proposal**
+### **Preparation for a Fund 8 proposal**
 
 ***
 
-#### Treasury & Administration
+### Treasury & Administration
 
 | Name                | Role           | Status    |
 | ------------------- | -------------- | --------- |
