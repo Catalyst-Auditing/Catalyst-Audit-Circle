@@ -15,5 +15,6 @@
 
 * [Overview](project/overview.md)
 * [Team](project/team.md)
+* [Process](project/process.md)
 * [Meetings](project/meetings.md)
 * [Timetable](project/timetable.md)
