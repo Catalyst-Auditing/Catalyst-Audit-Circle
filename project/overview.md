@@ -14,7 +14,7 @@ Who is committed and to what deliverables
 
 How we work
 
-## Meetings
+## Meetings & Town Halls
 
 What we have achieved and what we are doing next
 
