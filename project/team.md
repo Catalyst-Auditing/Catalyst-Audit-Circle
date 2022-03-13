@@ -19,6 +19,7 @@ description: Catalyst Audit Circle Team Commitments
 | Ron Hill            |      | Confirmed |
 | Thorsten Pottebaum  |      | Confirmed |
 | George Lovegrove    |      | Confirmed |
+| Eric Helms          |      | Confirmed |
 
 ### Surveys
 
