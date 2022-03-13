@@ -18,6 +18,7 @@ description: Catalyst Audit Circle Team Commitments
 | Vanessa Cardui      |      | Confirmed |
 | Ron Hill            |      | Confirmed |
 | Thorsten Pottebaum  |      | Confirmed |
+| George Lovegrove    |      | Confirmed |
 
 ### Surveys
 
