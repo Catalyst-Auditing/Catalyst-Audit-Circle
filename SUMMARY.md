@@ -18,4 +18,5 @@
 * [Process](project/process.md)
 * [Timetable](project/timetable.md)
 * [Meetings](project/meetings/README.md)
+  * [Pre-planning](project/meetings/pre-planning.md)
   * [Audit Circle Meeting #1](project/meetings/audit-circle-meeting-1.md)

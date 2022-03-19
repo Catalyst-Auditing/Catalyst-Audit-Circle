@@ -1,14 +1,4 @@
-# Meetings
-
-### Timeline
-
-| Date | Meeting |   |
-| ---- | ------- | - |
-|      |         |   |
-|      |         |   |
-|      |         |   |
-
-### March 2022
+# Pre-planning
 
 ### 3rd March 2022 - Pre-planning
 
@@ -21,13 +11,3 @@
 [Link to Slides](https://docs.google.com/presentation/d/1tTm19KzxpjRfN\_VOLhdQYhVoEEd5e5SjMpS7lOSM9Y0/edit?usp=sharing)
 
 {% embed url="https://docs.google.com/presentation/d/1tTm19KzxpjRfN_VOLhdQYhVoEEd5e5SjMpS7lOSM9Y0/edit?usp=sharing" %}
-
-## 17th March 2022 - Audit Circle #1
-
-{% embed url="https://youtu.be/qobDilFrls8" %}
-Audit Circle Meeting #1
-{% endembed %}
-
-### Agenda
-
-## 31st March 2022 - Audit Circle #2
