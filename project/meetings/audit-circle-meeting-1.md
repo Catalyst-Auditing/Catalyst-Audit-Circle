@@ -83,7 +83,7 @@ This focus will form the basis of our Fund 7 proposal reporting.
 
 Action : Decide an area to focus on.&#x20;
 
-### Deliverables
+### 6) Deliverables
 
 All members - Given a decision or direction on scope what deliverables do members wish to commit to ? - 15 minutes
 
@@ -138,27 +138,25 @@ Evolve naturally - Stephen
 
 Action : Members commit to a deliverable
 
-### &#x20;Fund 7 Proposal Reporting
+### 7) Fund 7 Proposal Reporting
 
 All members - A decision on scope and deliverables will be reported to IOG in this proposals first monthly report on 24th March 2022 - 5 minutes
 
 Action : What should our initial report include ?
 
-### Any Other Business
+### 8) Any Other Business
 
 Over run time - - 5 minutes
-
-\
-
 
 include the voter perspective - what do voters want to know in terms of audit re the proposals they voted for?
 
 Should a survey also include voters’ perspective on audit?
 
-\
+### Next Meeting
 
-
-Next Meeting : 1800 UTC, 31st March 2022
+{% hint style="info" %}
+1800 UTC, 31st March 2022
+{% endhint %}
 
 \
 \
