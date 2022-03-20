@@ -36,45 +36,31 @@ Audit Circle Meeting #1 - YouTube Recording
 | Audit Circle F8 Ideascale Proposal  | [https://cardano.ideascale.com/c/idea/399163](https://cardano.ideascale.com/c/idea/399163) |
 | GitBook                             | https://quality-assurance-dao.gitbook.io/catalyst-audit-circle/                            |
 
-## Proposed Agenda
+## Agenda
 
-(Please amend or comment)
-
-### Audit Circle Treasury
+### 1) Audit Circle Treasury
 
 Andre & Mirolav - updates on Treasury setup, member payments, costs & expenses.- 5 minutes
 
-### Meeting Times
+### 2) Meeting Times
 
 Stephen - 1800 UTC is too late for Eric Helms - is an earlier time possible ? - 5 minutes
 
-\
-
-
 1700 UTC ?
 
-\
-
-
-### Town Hall Slides
+### 3) Town Hall Slides
 
 Stephen - The Town Hall Slides should alternate between Governance Oversight & Audit Circle. With slides for the Audit Circle presented the day before the meeting. This week due to proposal workload slides were skipped. - 5 minutes
-
-\
-
 
 Action :  Who would like to present Audit Circle Slides at the Town Hall of the 30th March 2022 ?
 
 Jo, George or Ron
 
-### Fund 8 - Audit Circle Proposal
+### 4) Fund 8 - Audit Circle Proposal
 
 Stephen - The Fund 8 Audit Circle Proposal has been submitted ([https://cardano.ideascale.com/c/idea/399163](https://cardano.ideascale.com/c/idea/399163)) and is based on the Fund 7 proposal.  - 5 minutes
 
-\
-
-
-### Scope of Audit Circle
+### 5) Scope of Audit Circle
 
 All members - The present summary of Audit Circle’s scope is :
 
