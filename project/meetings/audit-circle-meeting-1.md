@@ -68,10 +68,10 @@ All members - The present summary of Audit Circle’s scope is :
 
 Possible areas to focus on :
 
-* The reporting system - common tools - open source - access to data - George / amount of funded proposals - maximize ROI - incentive careful planning - Matthias
-* Challenge Setting / Teams ? Oversight of Challenge Teams ? Check methods & processes  - Phil - Agree - George - Extend invite CT team on circle - Specific rep for CT  Phil&#x20;
-* Auditing how we audit ? Common knowledge - Jo
-* Auditing what is already in place - intro of CT - new form - Vanessa / echo - defining what these methods / process are we should overseeing - Ron / IOG thinking on changing report formats - George & Stephen - reference the Audit GitBook / things we can audit - George - collab with Matthias to establish real world concerns
+* **The reporting system** - _George_ highlighted looking at common, open-source tools and access to funded proposal reporting data. _Matthias_ - a survey of the amount of funded proposals, how to maximize Return on Intention and incentivize careful planning.
+* &#x20;**Oversight of Challenge Teams** (CT) - _Phil_ - In particular to check their methods & processes  - _George_ - Agrees. We should extend an invite to CT team members on Audit Circle. _Phil_ - Perhaps a specific rep for CT. _Stephen_ - A few Audit Circle members are already on CT. (But we could invite specfic guests ?).
+* **Auditing how we audit**. Common knowledge - _Jo_
+* **Auditing processes that are already in place** - _Vanessa_  - such as how CTs operate and the new reporting form. _Ron_ - echo - defining what these methods / process are we should overseeing. _George & Stephen_ - track IOG thinking on changing report formats. Reference the Audit GitBook / things we can audit - George - collab with Matthias to establish real world concerns
 * Proposal financials -&#x20;
 
 NOT : Auditing individual proposals&#x20;
