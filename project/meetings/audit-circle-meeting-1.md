@@ -4,7 +4,9 @@ description: 'Scheduled date/time of meeting : 1800 UTC, Thursday, 17th March 20
 
 # Audit Circle Meeting #1
 
-## Agenda - Audit Circle Meeting #1
+{% embed url="https://youtu.be/qobDilFrls8" %}
+Audit Circle Meeting #1 - YouTube Recording
+{% endembed %}
 
 ### Attendees:&#x20;
 
