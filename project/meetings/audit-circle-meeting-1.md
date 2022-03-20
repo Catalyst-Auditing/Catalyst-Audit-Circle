@@ -1,45 +1,30 @@
-# Page 1
+---
+description: 'Scheduled date/time of meeting : 1800 UTC, Thursday, 17th March 2022'
+---
 
-Agenda - Audit Circle Meeting #1
+# Audit Circle Meeting #1
 
-\
+## Agenda - Audit Circle Meeting #1
 
+### Attendees:&#x20;
 
-Scheduled date/time of meeting : 1800 UTC, Thursday, 17th March 2022
+| Name                 | Organisation                        | Status |
+| -------------------- | ----------------------------------- | ------ |
+| Andre Diamond        | Treasury                            |        |
+| George Lovegrove     | PACE                                |        |
+| Jo Allum             | F7 Auditability Challenge Team Lead |        |
+| Matthias Sieber      | CEO Loxe Inc                        |        |
+| Miroslav Rajh        |  Treasury                           |        |
+| Phil Khoo            |  AIM                                |        |
+| Ron Hill             |  CEO of SPOCRA                      |        |
+| Stephen Whitenstall  |  QADAO                              |        |
+| Vanessa Cardui       |  QADAO                              |        |
 
-## Invitees :
+### Apologies:
 
-Eric Helms - SCATDAO
-
-\
-
-
-George Lovegrove - PACE
-
-\
-
-
-Jo Allum - Auditability Challenge Team Lead
-
-Matthias Sieber - CEO Loxe Inc
-
-\
-
-
-Ron Hill - CEO of SPOCRA
-
-\
-
-
-Phil Khoo - AIM
-
-Stephen Whitenstall - QADAO
-
-Vanessa Cardui - QADAO
-
-Andre Diamond - Treasury
-
-Miroslav Rajh - Treasury
+| Name       | Organization  | Status |
+| ---------- | ------------- | ------ |
+| Eric Helms | SCATDAO       |        |
 
 ## Information
 
