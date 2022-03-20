@@ -64,7 +64,7 @@ Stephen - The Fund 8 Audit Circle Proposal has been submitted ([https://cardano.
 
 All members - The present summary of Audit Circle’s scope is :
 
-“The Audit Circle will survey, facilitate retrospectives and report on funded proposal audit processes,” - 15 minutes
+“_The Audit Circle will survey, facilitate retrospectives and report on funded proposal audit processes,_” - **15 minutes**
 
 Possible areas to focus on :
 
@@ -76,16 +76,13 @@ Possible areas to focus on :
 
 NOT : Auditing individual proposals&#x20;
 
-\
-
-
 This focus will form the basis of our Fund 7 proposal reporting.
 
 Action : Decide an area to focus on.&#x20;
 
 ### 6) Deliverables
 
-All members - Given a decision or direction on scope what deliverables do members wish to commit to ? - 15 minutes
+_All members - Given a decision or direction on scope what deliverables do members wish to commit to ?_ - **15 minutes**
 
 Examples :
 
