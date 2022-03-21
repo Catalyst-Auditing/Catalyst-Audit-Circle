@@ -20,6 +20,7 @@ Audit Circle Meeting #1 - YouTube Recording
 | Phil Khoo            |  AIM                                |        |
 | Ron Hill             |  CEO of SPOCRA                      |        |
 | Stephen Whitenstall  |  QADAO                              |        |
+| Thorsten Pottebaum   |                                     |        |
 | Vanessa Cardui       |  QADAO                              |        |
 
 ### Apologies:
@@ -151,7 +152,7 @@ All members - A decision on scope and deliverables will be reported to IOG in th
 
 Over run time - - 5 minutes
 
-include the voter perspective - what do voters want to know in terms of audit re the proposals they voted for?
+_Thorsten Pottebaum_ - Include the voter perspective - what do voters want to know in terms of audit re the proposals they voted for?&#x20;
 
 Should a survey also include voters’ perspective on audit?
 
