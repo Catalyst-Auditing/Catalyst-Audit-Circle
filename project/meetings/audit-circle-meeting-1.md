@@ -38,17 +38,17 @@ Audit Circle Meeting #1 - YouTube Recording
 
 ## Agenda
 
-### 1) Audit Circle Treasury
+## 1) Audit Circle Treasury
 
 Andre & Mirolav - updates on Treasury setup, member payments, costs & expenses.- 5 minutes
 
-### 2) Meeting Times
+## 2) Meeting Times
 
 Stephen - 1800 UTC is too late for Eric Helms - is an earlier time possible ? - 5 minutes
 
 1700 UTC ?
 
-### 3) Town Hall Slides
+## 3) Town Hall Slides
 
 Stephen - The Town Hall Slides should alternate between Governance Oversight & Audit Circle. With slides for the Audit Circle presented the day before the meeting. This week due to proposal workload slides were skipped. - 5 minutes
 
@@ -56,11 +56,11 @@ Action :  Who would like to present Audit Circle Slides at the Town Hall of the 
 
 Jo, George or Ron
 
-### 4) Fund 8 - Audit Circle Proposal
+## 4) Fund 8 - Audit Circle Proposal
 
 Stephen - The Fund 8 Audit Circle Proposal has been submitted ([https://cardano.ideascale.com/c/idea/399163](https://cardano.ideascale.com/c/idea/399163)) and is based on the Fund 7 proposal.  - 5 minutes
 
-### 5) Scope of Audit Circle
+## 5) Scope of Audit Circle
 
 All members - The present summary of Audit Circle’s scope is :
 
@@ -72,21 +72,23 @@ Possible areas to focus on :
 * &#x20;**Oversight of Challenge Teams** (CT) - _Phil_ - In particular to check their methods & processes  - _George_ - Agrees. We should extend an invite to CT team members on Audit Circle. _Phil_ - Perhaps a specific rep for CT. _Stephen_ - A few Audit Circle members are already on CT. (But we could invite specfic guests ?).
 * **Auditing how we audit**. Common knowledge - _Jo_
 * **Auditing processes that are already in place** - _Vanessa_  - such as how CTs operate and the new reporting form. _Ron_ - echo - defining what these methods / process are we should overseeing. _George & Stephen_ - track IOG thinking on changing report formats. Reference the Audit GitBook / things we can audit - George - collab with Matthias to establish real world concerns
-* Proposal financials -&#x20;
+* **Proposal financials** -&#x20;
 
 NOT : Auditing individual proposals&#x20;
 
 This focus will form the basis of our Fund 7 proposal reporting.
 
-Action : Decide an area to focus on.&#x20;
+{% hint style="info" %}
+**Action** : Decide an area to focus on.&#x20;
+{% endhint %}
 
-### 6) Deliverables
+## 6) Deliverables
 
 _All members - Given a decision or direction on scope what deliverables do members wish to commit to ?_ - **15 minutes**
 
 Examples :
 
-* Survey design, implementation & execution -&#x20;
+### Survey design, implementation & execution -&#x20;
 
 1. Gather more qualitative data - what should be on the funded proposal monthly reporting form - go out to other funded proposers - gather informal feedback - Matt
 
@@ -95,7 +97,7 @@ Using survey feedback funded proposal monthly reporting form - Ron
 1. Google form - short & easy to complete esp in a meeting where funded proposers gather - e.g. co-ordinator meetings or even Town Hall - and needs to have sufficient responses to be valid.  Vanessa / Phil  - After Matt has done some sensing - how can reporting for better ROI - Matt -&#x20;
 2. Where do I go ? - human resources - Jo - “where is the human” - shape a deliverable - CT 1 to 1 mentoring - Phil - CT good suggestion for oversight - Matt
 
-* Organizing retrospectives or workshops -&#x20;
+### Organizing retrospectives or workshops -&#x20;
 
 Audit Circle - Office Hours - conversation with Pacific TH or other THs or communities - Matt
 
@@ -127,11 +129,11 @@ NB : Funded Proposal Sub Circle can also get involved - Vanessa
 
 Use coordinator meetings to do breakout sessions retrospectives - asking about peoples experience - attach survey - so quantitative / qualitative accommodated for - Phil
 
-* Researching, preparing and presenting a report -&#x20;
+### Researching, preparing and presenting a report -&#x20;
 
 Evolve naturally - Stephen
 
-* Preparing a Fund 9 Audit Circle proposal
+### Preparing a Fund 9 Audit Circle proposal
 
 Action : Members commit to a deliverable
 
