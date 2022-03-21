@@ -135,13 +135,17 @@ Evolve naturally - Stephen
 
 ### Preparing a Fund 9 Audit Circle proposal
 
-Action : Members commit to a deliverable
+{% hint style="info" %}
+**Action** : Members commit to a deliverable
+{% endhint %}
 
 ### 7) Fund 7 Proposal Reporting
 
 All members - A decision on scope and deliverables will be reported to IOG in this proposals first monthly report on 24th March 2022 - 5 minutes
 
-Action : What should our initial report include ?
+{% hint style="info" %}
+**Action :** What should our initial report include ?
+{% endhint %}
 
 ### 8) Any Other Business
 
