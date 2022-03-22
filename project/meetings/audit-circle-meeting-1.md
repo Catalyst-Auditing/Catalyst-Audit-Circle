@@ -97,9 +97,9 @@ I would like to gather more qualitative data to establish what should be on the 
 
 #### _Survey Options_
 
-Using survey feedback funded proposal monthly reporting form - Ron
+We could use the funded proposal monthly reporting form to gather feedback ? - _Ron_
 
-Google form - short & easy to complete esp in a meeting where funded proposers gather - e.g. co-ordinator meetings or even Town Hall - and needs to have sufficient responses to be valid.  Vanessa / Phil  - After Matt has done some sensing - how can reporting for better ROI - Matt -&#x20;
+A Google form that is short & easy to complete. In a meeting where funded proposers gather - e.g. co-ordinator meetings or a Town Hall breakout. But needs to have sufficient responses to be valid.  Vanessa / Phil  - After Matt has done some sensing - how can reporting for better ROI - Matt -&#x20;
 
 Where do I go ? - human resources - Jo - “where is the human” - shape a deliverable - CT 1 to 1 mentoring - Phil - CT good suggestion for oversight - Matt
 
