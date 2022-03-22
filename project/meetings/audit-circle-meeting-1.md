@@ -129,7 +129,9 @@ NB : Funded Proposal Sub Circle can also get involved - Vanessa
 
 Use coordinator meetings to do breakout sessions retrospectives - asking about peoples experience - attach survey - so quantitative / qualitative accommodated for - Phil
 
-### Researching, preparing and presenting a report -&#x20;
+### Researching, preparing and presenting a report
+
+#### Due - 26th May 2022&#x20;
 
 Evolve naturally - Stephen
 
@@ -137,7 +139,11 @@ Evolve naturally - Stephen
 
 ### Preparing a Fund 8 Audit Circle proposal
 
+#### Due - 17th March 2022
+
+{% hint style="info" %}
 Completed & Submitted by Stephen
+{% endhint %}
 
 {% embed url="https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/29" %}
 
