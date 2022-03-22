@@ -95,6 +95,8 @@ _All members - Given a decision or direction on scope what deliverables do membe
 
 I would like to gather more qualitative data to establish what should be on the funded proposal monthly reporting form. Will go out to other funded proposers and gather informal feedback - _Matthias_
 
+#### _Survey Options_
+
 Using survey feedback funded proposal monthly reporting form - Ron
 
 Google form - short & easy to complete esp in a meeting where funded proposers gather - e.g. co-ordinator meetings or even Town Hall - and needs to have sufficient responses to be valid.  Vanessa / Phil  - After Matt has done some sensing - how can reporting for better ROI - Matt -&#x20;
