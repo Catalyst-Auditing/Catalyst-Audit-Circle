@@ -72,7 +72,7 @@ Possible areas to focus on :
 * **The reporting system** - _George_ highlighted looking at common, open-source tools and access to funded proposal reporting data. _Matthias_ - a survey of the amount of funded proposals, how to maximize Return on Intention and incentivize careful planning.
 * &#x20;**Oversight of Challenge Teams** (CT) - _Phil_ - In particular to check their methods & processes  - _George_ - Agrees. We should extend an invite to CT team members on Audit Circle. _Phil_ - Perhaps a specific rep for CT. _Stephen_ - A few Audit Circle members are already on CT. (But we could invite specfic guests ?).
 * **Auditing how we audit**. Common knowledge - _Jo_
-* **Auditing processes that are already in place** - _Vanessa_  - such as how CTs operate and the new reporting form. _Ron_ - echo - defining what these methods / process are we should overseeing. _George & Stephen_ - track IOG thinking on changing report formats. Reference the Audit GitBook / things we can audit - George - collab with Matthias to establish real world concerns
+* **Auditing processes that are already in place** - _Vanessa_  - such as how CTs operate and the new reporting form. _Ron_ - echo - defining what these methods / process are we should overseeing. _George & Stephen_ - track IOG thinking on changing report formats. Reference the Audit GitBook / things we can audit - _George_ - collab with Matthias to establish real world concerns
 * **Proposal financials** -&#x20;
 
 NOT : Auditing individual proposals&#x20;
@@ -87,16 +87,15 @@ This focus will form the basis of our Fund 7 proposal reporting.
 
 _All members - Given a decision or direction on scope what deliverables do members wish to commit to ?_ - **15 minutes**
 
-Examples :
-
 ### Survey design, implementation & execution -&#x20;
 
-1. Gather more qualitative data - what should be on the funded proposal monthly reporting form - go out to other funded proposers - gather informal feedback - Matt
+I would like to gather more qualitative data to establish what should be on the funded proposal monthly reporting form. Will go out to other funded proposers and gather informal feedback - _Matthias_
 
 Using survey feedback funded proposal monthly reporting form - Ron
 
-1. Google form - short & easy to complete esp in a meeting where funded proposers gather - e.g. co-ordinator meetings or even Town Hall - and needs to have sufficient responses to be valid.  Vanessa / Phil  - After Matt has done some sensing - how can reporting for better ROI - Matt -&#x20;
-2. Where do I go ? - human resources - Jo - “where is the human” - shape a deliverable - CT 1 to 1 mentoring - Phil - CT good suggestion for oversight - Matt
+Google form - short & easy to complete esp in a meeting where funded proposers gather - e.g. co-ordinator meetings or even Town Hall - and needs to have sufficient responses to be valid.  Vanessa / Phil  - After Matt has done some sensing - how can reporting for better ROI - Matt -&#x20;
+
+Where do I go ? - human resources - Jo - “where is the human” - shape a deliverable - CT 1 to 1 mentoring - Phil - CT good suggestion for oversight - Matt
 
 ### Organizing retrospectives or workshops -&#x20;
 
