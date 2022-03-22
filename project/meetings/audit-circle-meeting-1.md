@@ -147,10 +147,6 @@ Completed & Submitted by Stephen
 
 {% embed url="https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/29" %}
 
-{% hint style="info" %}
-**Action** : Members commit to a deliverable
-{% endhint %}
-
 ### 7) Fund 7 Proposal Reporting
 
 All members - A decision on scope and deliverables will be reported to IOG in this proposals first monthly report on 24th March 2022 - 5 minutes
