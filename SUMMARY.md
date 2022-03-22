@@ -15,7 +15,7 @@
 
 * [Overview](project/overview.md)
 * [Team](project/team.md)
-* [Process](project/process.md)
+* [Planning Process](project/planning-process.md)
 * [Timetable](project/timetable.md)
 * [Meetings](project/meetings/README.md)
   * [Pre-planning](project/meetings/pre-planning.md)
