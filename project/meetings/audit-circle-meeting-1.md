@@ -133,6 +133,8 @@ Use coordinator meetings to do breakout sessions retrospectives - asking about p
 
 Evolve naturally - Stephen
 
+{% embed url="https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/28" %}
+
 ### Preparing a Fund 8 Audit Circle proposal
 
 Completed & Submitted by Stephen
