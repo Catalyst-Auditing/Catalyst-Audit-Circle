@@ -133,7 +133,7 @@ Use coordinator meetings to do breakout sessions retrospectives - asking about p
 
 Evolve naturally - Stephen
 
-### Preparing a Fund 9 Audit Circle proposal
+### Preparing a Fund 8 Audit Circle proposal
 
 {% hint style="info" %}
 **Action** : Members commit to a deliverable
