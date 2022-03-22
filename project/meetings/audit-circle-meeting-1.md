@@ -87,7 +87,11 @@ This focus will form the basis of our Fund 7 proposal reporting.
 
 _All members - Given a decision or direction on scope what deliverables do members wish to commit to ?_ - **15 minutes**
 
-### Survey design, implementation & execution -&#x20;
+### Survey design, implementation & execution
+
+#### Due - 26th May 2022
+
+#### Gather more qualitative data
 
 I would like to gather more qualitative data to establish what should be on the funded proposal monthly reporting form. Will go out to other funded proposers and gather informal feedback - _Matthias_
 
@@ -97,7 +101,9 @@ Google form - short & easy to complete esp in a meeting where funded proposers g
 
 Where do I go ? - human resources - Jo - “where is the human” - shape a deliverable - CT 1 to 1 mentoring - Phil - CT good suggestion for oversight - Matt
 
-### Organizing retrospectives or workshops -&#x20;
+### Organizing retrospectives or workshops
+
+#### Due - 26th May 2022
 
 Audit Circle - Office Hours - conversation with Pacific TH or other THs or communities - Matt
 
