@@ -135,6 +135,10 @@ Evolve naturally - Stephen
 
 ### Preparing a Fund 8 Audit Circle proposal
 
+Completed & Submitted by Stephen
+
+{% embed url="https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/29" %}
+
 {% hint style="info" %}
 **Action** : Members commit to a deliverable
 {% endhint %}
