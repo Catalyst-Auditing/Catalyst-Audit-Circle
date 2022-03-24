@@ -1,3 +1,7 @@
+---
+description: Registration of Fund 7 Audit Circle Proposal
+---
+
 # Fund 7 On-Boarding
 
 **Proposal** - [Audit Circle](https://cardano.ideascale.com/c/idea/381354)
