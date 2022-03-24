@@ -25,3 +25,4 @@
 
 * [Fund 7 Proposal](proposal-reporting/fund-7-proposal.md)
 * [Fund 7 On-Boarding](proposal-reporting/fund-7-on-boarding.md)
+* [F7 Monthly Reports](proposal-reporting/f7-monthly-reports.md)
