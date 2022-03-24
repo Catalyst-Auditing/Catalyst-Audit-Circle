@@ -20,3 +20,7 @@
 * [Meetings](project-management/meetings/README.md)
   * [Pre-planning](project-management/meetings/pre-planning.md)
   * [Audit Circle Meeting #1](project-management/meetings/audit-circle-meeting-1.md)
+
+## Proposal Reporting
+
+* [Fund 7 Proposal](proposal-reporting/fund-7-proposal.md)
