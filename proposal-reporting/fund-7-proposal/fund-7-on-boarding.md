@@ -90,7 +90,7 @@ This is to ensure of a back in case of unavailability of primary contact.
 
 #### Please, provide your project's public website URL (if you have one).
 
-[https://quality-assurance-dao.gitbook.io/community-governance-oversight/](https://quality-assurance-dao.gitbook.io/community-governance-oversight/)
+[https://quality-assurance-dao.gitbook.io/audit-circle/](https://quality-assurance-dao.gitbook.io/audit-circle/)
 
 #### Telegram username \*
 
