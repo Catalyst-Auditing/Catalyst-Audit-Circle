@@ -24,3 +24,4 @@
 ## Proposal Reporting
 
 * [Fund 7 Proposal](proposal-reporting/fund-7-proposal.md)
+* [Fund 7 On-Boarding](proposal-reporting/fund-7-on-boarding.md)
