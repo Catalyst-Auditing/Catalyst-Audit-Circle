@@ -11,12 +11,12 @@
 
 * [Feedback](feedback.md)
 
-## Project
+## Project Management
 
-* [Overview](project/overview.md)
-* [Team](project/team.md)
-* [Planning Process](project/planning-process.md)
-* [Timetable](project/timetable.md)
-* [Meetings](project/meetings/README.md)
-  * [Pre-planning](project/meetings/pre-planning.md)
-  * [Audit Circle Meeting #1](project/meetings/audit-circle-meeting-1.md)
+* [Overview](project-management/overview.md)
+* [Team](project-management/team.md)
+* [Planning Process](project-management/planning-process.md)
+* [Timetable](project-management/timetable.md)
+* [Meetings](project-management/meetings/README.md)
+  * [Pre-planning](project-management/meetings/pre-planning.md)
+  * [Audit Circle Meeting #1](project-management/meetings/audit-circle-meeting-1.md)
