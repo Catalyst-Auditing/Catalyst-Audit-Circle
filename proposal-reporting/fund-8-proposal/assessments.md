@@ -71,3 +71,20 @@ Given the information provided, this proposal is highly likely to be successfull
 ### Auditability
 
 Given the information provided, this proposal is highly auditable. The proposers have listed a gitbook where they will deposit their records of progress. These records will include meeting records and summaries, analysis of funded proposal audit processes, and retrospectives and final reports, just to name a few. The proposers also included some end goals of the group, which can be used as metrics of success, albeit a bit more subjectively. For example, they aim to ensure that the auditing process remains decentralized and equitable, as well as stable, legitimate, and lively. Although there are no quantitative KPIs given, I don’t think they are necessary for this proposal because the group created has many roles that can’t necessarily be predetermined. Thus, I give this proposal a full auditability rating. (score given: 5)
+
+## Assessment 6
+
+### Impact / Alignment
+
+Improving transparency and creating an efficient mechanism to help the ecosystem move forward is exactly what this proposal aims to do ad therefore is on point in terms of meeting the challenge. We have seen other sub groups start to form and add value (eg in the CA and vCA space). Telegram and Discord are great 'talking shops' but drilling down to actions and owners takes a bit more coordination. In terms or sustainability and growth i would like to have seen how the proposers envisages the long term need for this circle and possibly more importantly how/if they intend to make it more inclusive and representative of the Catalyst community. The current proposed team seems to be a quite a narrow demographic (ie mainly european origin)
+
+### Feasibility
+
+On the basis that the working group has been up and running for some time the proposal is feasible. The outcomes of the piece of work have been clearly detailed each with its own budget breakdown and timeline. Based on personal experience having done similar work for the past 20 years the activities are reasonable within the timelines suggested. The only piece missing is the answer to the comments left by some few days ago on what has this work group achieved so far. What the community needs to see is action not words!!!
+
+### Auditability
+
+Use of gitbook and presentations at the town halls should provide most of the information the community needs to track this proposals. Again, there was a question asked in the comments on ????. Answering this will help the voters understand the bigger picture and will add value to this proposal
+
+
+
