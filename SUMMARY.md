@@ -26,8 +26,5 @@
 * [Fund 7 Proposal](proposal-reporting/fund-7-proposal/README.md)
   * [Fund 7 On-Boarding](proposal-reporting/fund-7-proposal/fund-7-on-boarding.md)
   * [F7 Monthly Reports](proposal-reporting/fund-7-proposal/f7-monthly-reports.md)
-* [Fund 8 Proposal](fund-8-proposal.md)
-
-***
-
-* [Assessments](assessments.md)
+* [Fund 8 Proposal](proposal-reporting/fund-8-proposal/README.md)
+  * [Assessments](proposal-reporting/fund-8-proposal/assessments.md)
