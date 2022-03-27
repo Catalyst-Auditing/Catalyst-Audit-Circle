@@ -15,3 +15,17 @@ The proposing team is well presented and very experienced in the Catalyst ecosys
 ### Auditability
 
 The auditability of the project is ensured by records on github that will consist of all documents, analysis, surveys, research, etc. that the circle will create. Unfortunately the proposers have not explicitly stated milestones and benchmarks and deadlines against which the progress could be measured. However since the end of this project is in 3 months with a closing report (that is stated) there is not much leeway for procrastination. I agree that this proposal provides me with sufficient information to assess the progress in attaining its stated goals.
+
+## Assessment 2
+
+### Impact / Alignment
+
+As Cardano transitions towards a system run by the community, there are various projects pursued by the community that try to enhance governance mechanisms towards independence from their initial creators. Here we have another example where the Catalyst Audit Circle process is asking for continuation funds for a project already funded in prior rounds. Being a process spearheaded by active members of the Catalyst ecosystem, I am confident that their proposed activity is already beneficial to the community and can definitely be scaled towards other systems in need of similar improvements if the need arises.
+
+### Feasibility
+
+The proposers are all active members of the Cardano community, so in terms of the skills and competencies they possess, I have no worry whatsoever that they will be able to deliver on their promises. The project has received funding under previous rounds, so current work is due to continue until May 2022. Funding it for the future would extend the work until September this year. Remuneration for members is roughly 1k USD / person (up to 10 members max) for 1.5 days of work. The rest of the budget shall be used towards deliverables, for instance research, polls, survey or reports and other fixed costs.
+
+### Auditability
+
+Being an initiative already live, the community has a good idea on what kind of work the Circle performs, what their tasks are and what deliverables look like. There is of course public information available of past work and this project would be tracked and put in practice / communicated in a similar fashion. Success factors are measured by excellent indicators, and here a few below: - Lack of a central entity that controls improvements or innovations to auditing of funding proposals - participants performing audits of funded proposals are indeed accountable to the community - the audit processes are clear and transparent - audit culture is legitime (personal note - very important! - i know since i am intimately involved in audits myself) In conclusion, this Catalyst mechanism is extremely important, and if you wish to increase its activity over time, do vote for this proposal
