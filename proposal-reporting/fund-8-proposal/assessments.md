@@ -100,5 +100,19 @@ The description of the activities is good, but it would be more interesting if t
 
 The auditability of progress is perfect. Proponents state that reports will be made including the following questions: “Meeting recordings and summaries + Analysis of audit processes of funded proposals + Research design, execution and results + Workshop recordings and summaries + Retrospectives and Final Reports + Community Research ”. In this way, we will have a wide range of information available on the progress of the phases, so that we can fully monitor the development process. In fact, there is no criticism to be made here, the proponents have already committed to giving very complete gradual feedback to the Cardano community, in addition to a final report, through which we can verify everything that has been done in this project. Regarding the final results, the proponents explain at length and in rich detail what the Audotira Circle will be aiming at, that is, the specific objectives of the group. With this, we have enough data to monitor if the project has reached its goals, making the auditability of the success scenario fully possible. It is enough for a member of the Cardano community to establish contact with the team in order to investigate these issues, or perhaps this is not even necessary, since they said that they will provide a final report where all this data should already be included. Therefore, both the auditability of the process and the results are perfectly contemplated, with the maximum score being more than deserved in this part of the proposal.
 
+## Assessment 8
+
+### Impact / Alignment
+
+It is clear that to tackle a problem, we must first find its weak points. This proposal offers to study the failures in this field and to resolve them effectively, guaranteeing transparency. It seems to me that I could successfully approach the challenge.
+
+### Feasibility
+
+It seems that behind this project there is a large number of professionals in the sector willing to invest a great deal of time in resolving incidents in order to obtain greater auditability. They also provide a very detailed plan of the idea, with very marked tasks in each quarter and taking into account all the factors that could occur during the development of the proposal. I think that with all the points so well studied, this project will be very successful.
+
+### Auditability
+
+The proposal has a very solid foundation. This makes me think that the promoters have clear ideas and know how to carry out the project. They explain step by step how they will work and what their ultimate goal is, describing it with a timeline and specifying the training and experience of their members. I think the information is enough to ensure that it is a great design.
+
 
 
