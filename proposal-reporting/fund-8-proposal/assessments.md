@@ -29,3 +29,17 @@ The proposers are all active members of the Cardano community, so in terms of th
 ### Auditability
 
 Being an initiative already live, the community has a good idea on what kind of work the Circle performs, what their tasks are and what deliverables look like. There is of course public information available of past work and this project would be tracked and put in practice / communicated in a similar fashion. Success factors are measured by excellent indicators, and here a few below: - Lack of a central entity that controls improvements or innovations to auditing of funding proposals - participants performing audits of funded proposals are indeed accountable to the community - the audit processes are clear and transparent - audit culture is legitime (personal note - very important! - i know since i am intimately involved in audits myself) In conclusion, this Catalyst mechanism is extremely important, and if you wish to increase its activity over time, do vote for this proposal
+
+## Asssessment 3
+
+### Impact / Alignment
+
+This Proposal addresses the challenge setting. The proposal seeks to increase the audibility of the Cardano community. The problems of audibility are listened to and identified such as reporting system, confusion in the process and identifying bad actors by the team that will work as the proposal is funded, and finding a way they can work to solve the problem. the risk of the proposal is also identified. They have talked about the lack of liaison with IOG and the lack of awareness and all of these have been given a clear description and a solution.
+
+### Feasibility
+
+The is a well-defined resource allocation and experience that will be suitable for the proposal. This proposal has taken listed meetings, report procedures, output, and much other relevant information to show how the proposal will be carried out. The budget lineup has also been presented in detail and sources uses are have been accounted for for the success of the proposal. Given experience and plans presented, it is highly likrly this proposal will be implemented successfully.
+
+### Auditability
+
+This proposal has been laid out in an organized manner. The is a chronological schedule of activities. all activities are directed at a specific time making it easy to track the process and success if funded. There is a detailed budget that allows easy tracking of the use of funds. The key metrics follow that of the campaign and therefore can be used to assess the success of the proposal.
