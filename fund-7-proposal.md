@@ -4,7 +4,7 @@ description: 'F7: Improve and Grow Auditability - Catalyst Audit Circle'
 
 # Fund 7 Proposal
 
-Here is the text of a proposal entitled "Catalyst Audit Circle" that was submitted in Fund 7 under the _Improve and Grow Auditability_ Challenge.
+Here is the text of a proposal entitled "[Catalyst Audit Circle](https://cardano.ideascale.com/c/idea/381354)" that was submitted in Fund 7 under the _Improve and Grow Auditability_ Challenge.
 
 ## **Problem statement :**
 
@@ -31,8 +31,6 @@ The Audit Circle will consist of members from the Catalyst Audit Community. See 
 _(Conceived by George Lovegrove. Adapted by Stephen Whitenstall.)_
 
 The Catalyst Circle has been an effective way to help problem sense and prioritise problems that can be solved by the community. This form of coordination and governance can also be applied to the auditing process of the Project Catalyst ecosystem.
-
-
 
 Since October 2021 community members with an interest in auditing and oversight have initiated research into reporting and participated in the **Catalyst Auditing working group** ( see [https://catalyst-swarm.gitbook.io/catalyst-auditing/admin/meetings](https://catalyst-swarm.gitbook.io/catalyst-auditing/admin/meetings) ).
 
@@ -65,8 +63,6 @@ _The Catalyst Audit Circle (up to 8 paid members) including :_
 **Phil Khoo** - experience as an accountant, UI/UX frontend and graphic design and business advisor amongst numerous other pursuits. He currently has a lead position in the development and direction of Cardano AIM and is co-creator of the Community Tools.
 
 **Stephen Whitenstall** (@swhitenstall) - Quality-Assurance DAO, Circle V2 representative for funded proposers. Funded proposer in F6: Improve and Grow Auditability.
-
-
 
 ### **Roadmap**
 
