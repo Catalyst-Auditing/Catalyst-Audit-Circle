@@ -107,7 +107,11 @@ Where do I go ? - human resources - Jo - “where is the human” - shape a deli
 
 #### Due - 26th May 2022
 
+#### Audit Circle - Office Hours
+
 Audit Circle - Office Hours - conversation with Pacific TH or other THs or communities - Matt
+
+#### Using Tik Tok for async updates
 
 Using Tik Tok for async updates - suggested by Nori - Matt -When you do not meet milestones - weekly check-ins - coordinator meeting not fit for purpose - long form not accessible - Matt
 
