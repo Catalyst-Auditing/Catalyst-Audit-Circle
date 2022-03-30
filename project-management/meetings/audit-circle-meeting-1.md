@@ -115,6 +115,8 @@ Audit Circle - Office Hours - conversation with Pacific TH or other THs or commu
 
 Using Tik Tok for async updates - suggested by Nori - Matt -When you do not meet milestones - weekly check-ins - coordinator meeting not fit for purpose - long form not accessible - Matt
 
+#### Using Coordinator meetings
+
 Next Tuesday Coordinator meeting - go from room to room - Vanessa
 
 How many people go to a coordinator meeting usually? we should try and keep a note
