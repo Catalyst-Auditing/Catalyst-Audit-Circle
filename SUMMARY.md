@@ -20,6 +20,7 @@
 * [Meetings](project-management/meetings/README.md)
   * [Pre-planning](project-management/meetings/pre-planning.md)
   * [Audit Circle Meeting #1](project-management/meetings/audit-circle-meeting-1.md)
+  * [Audit Circle Meeting #2](project-management/meetings/audit-circle-meeting-2.md)
 
 ## Proposal Reporting
 
@@ -28,7 +29,3 @@
   * [F7 Monthly Reports](proposal-reporting/fund-7-proposal/f7-monthly-reports.md)
 * [Fund 8 Proposal](proposal-reporting/fund-8-proposal/README.md)
   * [Assessments](proposal-reporting/fund-8-proposal/assessments.md)
-
-***
-
-* [Audit Circle Meeting #2](audit-circle-meeting-2.md)
