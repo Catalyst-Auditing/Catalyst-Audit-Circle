@@ -28,3 +28,7 @@
   * [F7 Monthly Reports](proposal-reporting/fund-7-proposal/f7-monthly-reports.md)
 * [Fund 8 Proposal](proposal-reporting/fund-8-proposal/README.md)
   * [Assessments](proposal-reporting/fund-8-proposal/assessments.md)
+
+***
+
+* [Audit Circle Meeting #2](audit-circle-meeting-2.md)
