@@ -49,7 +49,9 @@ Updates - possible secretary role to be filled. Can we share minutes updates tod
 
 System has been set up and people are paid for meeting attendance
 
-### 3) Town Hall Slides - 5 minutes
+### 3) Town Hall Slides
+
+#### 5 minutes
 
 **Stephen -** The Town Hall Slides should alternate between Governance Oversight & Audit Circle. With slides for the Audit Circle presented the day before the meeting.&#x20;
 
@@ -67,7 +69,9 @@ There was no one available to present yesterday - can someone commit to presenti
 **QUESTION:**  do we need an ATH for next few weeks to support the survey process? It’s not in scope of the proposal - Thorsten / Stephen
 {% endhint %}
 
-### 4) Project Catalyst Weekly Newsletter - 5 Minutes
+### 4) Project Catalyst Weekly Newsletter
+
+#### 5 Minutes
 
 \
 **Everyone** - Stephen is liaising with Daniel Ribar on including a summary/soundbites of the Audit Circle meetings in the Project Catalyst Weekly Newsletter. Can we take some time at the end of this meeting to suggest what we would like to focus on.
@@ -76,7 +80,9 @@ There was no one available to present yesterday - can someone commit to presenti
 **Action :** Suggest summary of this meeting at the end.
 {% endhint %}
 
-### 5) Fund 8 - Audit Circle F8 Proposal Assessments - 5 Minutes
+### 5) Fund 8 - Audit Circle F8 Proposal Assessments
+
+#### 5 Minutes
 
 All members - Review Fund 8 Proposal ([https://cardano.ideascale.com/c/idea/399163](https://cardano.ideascale.com/c/idea/399163)) Assessments [https://quality-assurance-dao.gitbook.io/audit-circle/proposal-reporting/fund-8-proposal/assessments](https://quality-assurance-dao.gitbook.io/audit-circle/proposal-reporting/fund-8-proposal/assessments)
 
@@ -84,18 +90,19 @@ One proposal flagged that basically said “idk”
 
 All to look at assessments - useful to see how the project is perceived
 
-### 6) Audit Circle Project Board Overview - 5 Minutes
+### 6) Audit Circle Project Board Overview
 
-\
+#### 5 Minutes
 
-
-Stephen - A brief review of the current Audit Circle Project Board
+**Stephen** - A brief review of the current Audit Circle Project Board
 
 [https://github.com/orgs/Catalyst-Auditing/projects/7/views/1](https://github.com/orgs/Catalyst-Auditing/projects/7/views/1)&#x20;
 
-### 7) Scope & Deliverables of Audit Circle - 25 Minutes
+### 7) Scope & Deliverables of Audit Circle
 
-All members - The present summary of Audit Circle’s scope is :
+#### 25 Minutes
+
+**All members** - The present summary of Audit Circle’s scope is :
 
 “The Audit Circle will survey, facilitate retrospectives and report on funded proposal audit processes,”
 
