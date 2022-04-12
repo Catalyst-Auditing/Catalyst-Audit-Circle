@@ -26,8 +26,6 @@ description: 'Scheduled date/time of meeting : 1700 UTC, Thursday, 17th March 20
 | Name     | Role                             |
 | -------- | -------------------------------- |
 | Jo Allum | Auditability Challenge Team Lead |
-|          |                                  |
-|          |                                  |
 
 ## Information
 
@@ -39,56 +37,46 @@ F8 Ideascale Proposal - https://cardano.ideascale.com/c/idea/399163
 
 GitBook - https://quality-assurance-dao.gitbook.io/catalyst-audit-circle/
 
-## Proposed Agenda
+## Agenda
 
-(Please amend or comment)
-
-\
-
-
-### Introduction
-
-\
-
+### 1) Introduction
 
 Updates - possible secretary role to be filled. Can we share minutes updates today for time being
 
-### Audit Circle Treasury
+### 2) Audit Circle Treasury
 
-Andre & Mirolav - updates on Treasury setup, member payments, costs & expenses.- 5 minutes
+**Andre & Mirolav** - updates on Treasury setup, member payments, costs & expenses.- 5 minutes
 
 System has been set up and people are paid for meeting attendance
 
-### Town Hall Slides - 5 minutes
+### 3) Town Hall Slides - 5 minutes
 
-Stephen - The Town Hall Slides should alternate between Governance Oversight & Audit Circle. With slides for the Audit Circle presented the day before the meeting.&#x20;
+**Stephen -** The Town Hall Slides should alternate between Governance Oversight & Audit Circle. With slides for the Audit Circle presented the day before the meeting.&#x20;
 
 There was no one available to present yesterday - can someone commit to presenting at Town Halls going forward ?.&#x20;
 
-Action :  Who will commit to presenting Audit Circle Slides at the Town Hall of the 13th April 2022 onwards ?
+{% hint style="warning" %}
+**Action :**  Who will commit to presenting Audit Circle Slides at the Town Hall of the 13th April 2022 onwards ?
+{% endhint %}
 
-&#x20;DECISION: Ron will present next time at Town Hall - Stephen has prepared a slide template, Ron and Stephen to work on it in Discord. It will need to be an intro to what we are as a group and what we do.
+{% hint style="info" %}
+&#x20;**DECISION:** Ron will present next time at Town Hall - Stephen has prepared a slide template, Ron and Stephen to work on it in Discord. It will need to be an intro to what we are as a group and what we do.
+{% endhint %}
 
-QUESTION:  do we need an ATH for next few weeks to support the survey process? It’s not in scope of the proposal
+{% hint style="warning" %}
+**QUESTION:**  do we need an ATH for next few weeks to support the survey process? It’s not in scope of the proposal - Thorsten / Stephen
+{% endhint %}
 
-\
-
-
-Question - ATH Audit Circle
-
-### Project Catalyst Weekly Newsletter - 5 Minutes
-
-\
-
-
-Everyone - Stephen is liaising with Daniel Ribar on including a summary/soundbites of the Audit Circle meetings in the Project Catalyst Weekly Newsletter. Can we take some time at the end of this meeting to suggest what we would like to focus on.
+### 4) Project Catalyst Weekly Newsletter - 5 Minutes
 
 \
+**Everyone** - Stephen is liaising with Daniel Ribar on including a summary/soundbites of the Audit Circle meetings in the Project Catalyst Weekly Newsletter. Can we take some time at the end of this meeting to suggest what we would like to focus on.
 
+{% hint style="warning" %}
+**Action :** Suggest summary of this meeting at the end.
+{% endhint %}
 
-Action :  Suggest summary of this meeting at the end.
-
-### Fund 8 - Audit Circle F8 Proposal Assessments - 5 Minutes
+### 5) Fund 8 - Audit Circle F8 Proposal Assessments - 5 Minutes
 
 All members - Review Fund 8 Proposal ([https://cardano.ideascale.com/c/idea/399163](https://cardano.ideascale.com/c/idea/399163)) Assessments [https://quality-assurance-dao.gitbook.io/audit-circle/proposal-reporting/fund-8-proposal/assessments](https://quality-assurance-dao.gitbook.io/audit-circle/proposal-reporting/fund-8-proposal/assessments)
 
@@ -96,7 +84,7 @@ One proposal flagged that basically said “idk”
 
 All to look at assessments - useful to see how the project is perceived
 
-### Audit Circle Project Board Overview - 5 Minutes
+### 6) Audit Circle Project Board Overview - 5 Minutes
 
 \
 
@@ -105,7 +93,7 @@ Stephen - A brief review of the current Audit Circle Project Board
 
 [https://github.com/orgs/Catalyst-Auditing/projects/7/views/1](https://github.com/orgs/Catalyst-Auditing/projects/7/views/1)&#x20;
 
-### Scope & Deliverables of Audit Circle - 25 Minutes
+### 7) Scope & Deliverables of Audit Circle - 25 Minutes
 
 All members - The present summary of Audit Circle’s scope is :
 
