@@ -39,17 +39,17 @@ GitBook - https://quality-assurance-dao.gitbook.io/catalyst-audit-circle/
 
 ## Agenda
 
-### 1) Introduction
+## 1) Introduction
 
 Updates - possible secretary role to be filled. Can we share minutes updates today for time being
 
-### 2) Audit Circle Treasury
+## 2) Audit Circle Treasury
 
 **Andre & Mirolav** - updates on Treasury setup, member payments, costs & expenses.- 5 minutes
 
 System has been set up and people are paid for meeting attendance
 
-### 3) Town Hall Slides
+## 3) Town Hall Slides
 
 #### 5 minutes
 
@@ -69,7 +69,7 @@ There was no one available to present yesterday - can someone commit to presenti
 **QUESTION:**  do we need an ATH for next few weeks to support the survey process? It’s not in scope of the proposal - Thorsten / Stephen
 {% endhint %}
 
-### 4) Project Catalyst Weekly Newsletter
+## 4) Project Catalyst Weekly Newsletter
 
 #### 5 Minutes
 
@@ -80,7 +80,7 @@ There was no one available to present yesterday - can someone commit to presenti
 **Action :** Suggest summary of this meeting at the end.
 {% endhint %}
 
-### 5) Fund 8 - Audit Circle F8 Proposal Assessments
+## 5) Fund 8 - Audit Circle F8 Proposal Assessments
 
 #### 5 Minutes
 
@@ -90,7 +90,7 @@ One proposal flagged that basically said “idk”
 
 All to look at assessments - useful to see how the project is perceived
 
-### 6) Audit Circle Project Board Overview
+## 6) Audit Circle Project Board Overview
 
 #### 5 Minutes
 
@@ -98,7 +98,7 @@ All to look at assessments - useful to see how the project is perceived
 
 [https://github.com/orgs/Catalyst-Auditing/projects/7/views/1](https://github.com/orgs/Catalyst-Auditing/projects/7/views/1)&#x20;
 
-### 7) Scope & Deliverables of Audit Circle
+## 7) Scope & Deliverables of Audit Circle
 
 #### 25 Minutes
 
@@ -106,9 +106,9 @@ All to look at assessments - useful to see how the project is perceived
 
 “The Audit Circle will survey, facilitate retrospectives and report on funded proposal audit processes,”
 
-#### Survey deliverables
+## Survey deliverables
 
-#### 1 The Funded Proposal reporting system - 10 minutes
+### 1 The Funded Proposal reporting system - 10 minutes
 
 **Qualitative data gathering (Survey deliverable)**
 
@@ -145,7 +145,7 @@ IOG & CT operate reports in secret - confidentiality issues ? - Phil
 
 Not in line in open discussion - Phil&#x20;
 
-**Google Form Design & Implementation (Survey deliverable)**
+### **Google Form Design & Implementation (Survey deliverable)**
 
 Planned Action : A Google form that is short & easy to complete. In a meeting where funded proposers gather - e.g. coordinator meetings or a Town Hall breakout. But needs to have sufficient responses to be valid. Commence after Matthias has done some sensing. Vanessa / Phil. -&#x20;
 
@@ -163,7 +163,7 @@ Invite Eric to Oversight Discord to join conversation - Stephen
 
 Action - deliver next 2 weeks (audit meeting 3) - Phil / Vanessa
 
-**Where do I go ?  (Survey deliverable)**
+### **Where do I go ?  (Survey deliverable)**
 
 Planned Action : Where do I go ? - “where is the human” - shape a deliverable - Jo. CT 1 to 1 mentoring - Phil - CT good suggestion for oversight - Matt
 
@@ -171,21 +171,21 @@ How to catch needs & expectations - interested parties - dialogue helps - survey
 
 Action - next two weeks ATH - Audit - Thorsten / Stephen/ Matt - survey prep&#x20;
 
-#### 2 Organizing retrospectives or workshops - 10 Minutes
+### 2 Organizing retrospectives or workshops - 10 Minutes
 
-**Audit Circle - Office Hours**
+### **Audit Circle - Office Hours**
 
 Planned Action : Audit Circle - Office Hours - conversation with Pacific TH or other THs or communities - Matthias
 
 Action - Start next week PTH - Matt - talk to Nori
 
-**Using Tik Tok for async updates**
+### **Using Tik Tok for async updates**
 
 Planned Action : Using Tik Tok for async updates - suggested by Nori - Matt -When you do not meet milestones - weekly check-ins
 
 As above - Loom mentioned in Gimbalabs TPBL work - what is the purpose of this aysnc - how fit into our deliverable - suggestions - Matt - next funding to pick up changes
 
-**Using Coordinator meetings for retrospectives**&#x20;
+### **Using Coordinator meetings for retrospectives**&#x20;
 
 Planned Action : How to approach and compile information
 
@@ -193,42 +193,26 @@ The direction of the coordinator - how can Audit Circle use - Vanessa
 
 Useful info - the status coord meetings - Stephen to clarify&#x20;
 
-#### 3 Researching, preparing and presenting a report - 5 minutes
+### 3 Researching, preparing and presenting a report - 5 minutes
 
 Planned Action : Prepare template & format for final F7 report
 
 Deadline : 26th May 2022&#x20;
 
-### Fund 7 Proposal Reporting - 5 Minutes
+## Fund 7 Proposal Reporting - 5 Minutes
 
-All members - The first monthly report was submitted on 24th March 2022 (https://quality-assurance-dao.gitbook.io/audit-circle/proposal-reporting/fund-7-proposal/f7-monthly-reports) - 5 minutes
+**All members -** The first monthly report was submitted on 24th March 2022 (https://quality-assurance-dao.gitbook.io/audit-circle/proposal-reporting/fund-7-proposal/f7-monthly-reports) - 5 minutes
 
-### Any Other Business - 5 Minutes
+## Any Other Business - 5 Minutes
 
 Over run time - - 5 minutes
 
-\
-
-
 Legitimacy & participation&#x20;
 
-\
-
-
-Incorporate in survey form -&#x20;
-
-\
-\
-
+Incorporate in survey form&#x20;
 
 Next Meeting : 1600 UTC, 14th April 2022
 
-\
-
-
 Leave Google invite as is&#x20;
-
-\
-
 
 Update with Randall’s email&#x20;
