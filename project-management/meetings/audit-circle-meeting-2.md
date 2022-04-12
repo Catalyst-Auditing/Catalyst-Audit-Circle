@@ -8,29 +8,21 @@ description: 'Scheduled date/time of meeting : 1700 UTC, Thursday, 17th March 20
 
 ## Attendees:
 
-Eric Helms - SCATDAO
+|                     |                                    |   |
+| ------------------- | ---------------------------------- | - |
+| Eric Helms          | - SCATDAO                          |   |
+| George Lovegrove    | - PACE                             |   |
+| Jo Allum            | - Auditability Challenge Team Lead |   |
+| Matthias Sieber     | CEO Loxe Inc                       |   |
+| Ron Hill            | CEO of SPOCRA                      |   |
+| Phil Khoo           | AIM                                |   |
+| Stephen Whitenstall | QADAO                              |   |
+| Thorsten Pottebaum  |                                    |   |
+| Vanessa Cardui      | QADAO                              |   |
+| Andre Diamond       | Treasury                           |   |
+| Miroslav Rajh       | Treasury                           |   |
 
-George Lovegrove - PACE
-
-Jo Allum - Auditability Challenge Team Lead
-
-Matthias Sieber - CEO Loxe Inc
-
-Ron Hill - CEO of SPOCRA
-
-Phil Khoo - AIM
-
-Stephen Whitenstall - QADAO
-
-Thorsten Pottebaum
-
-Vanessa Cardui - QADAO
-
-Andre Diamond - Treasury
-
-Miroslav Rajh - Treasury
-
-## Information
+## &#x20;Information
 
 ## Audit Circle
 
