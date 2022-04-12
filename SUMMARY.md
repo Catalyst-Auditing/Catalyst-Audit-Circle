@@ -21,7 +21,6 @@
   * [Pre-planning](project-management/meetings/pre-planning.md)
   * [Audit Circle Meeting #1](project-management/meetings/audit-circle-meeting-1.md)
   * [Audit Circle Meeting #2](project-management/meetings/audit-circle-meeting-2.md)
-  * [Audit Circle Meeting #3](project-management/meetings/audit-circle-meeting-3.md)
 
 ## Proposal Reporting
 
