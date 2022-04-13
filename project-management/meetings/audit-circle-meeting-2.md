@@ -62,11 +62,11 @@ There was no one available to present yesterday - can someone commit to presenti
 {% endhint %}
 
 {% hint style="info" %}
-&#x20;**DECISION:** Ron will present next time at Town Hall - Stephen has prepared a slide template, Ron and Stephen to work on it in Discord. It will need to be an intro to what we are as a group and what we do.
+&#x20;**Decision:** Ron will present next time at Town Hall - Stephen has prepared a slide template, Ron and Stephen to work on it in Discord. It will need to be an intro to what we are as a group and what we do.
 {% endhint %}
 
 {% hint style="warning" %}
-**QUESTION:**  do we need an ATH for next few weeks to support the survey process? It’s not in scope of the proposal - Thorsten / Stephen
+**Question:**  do we need an ATH for next few weeks to support the survey process? It’s not in scope of the proposal - Thorsten / Stephen
 {% endhint %}
 
 ## 4) Project Catalyst Weekly Newsletter
@@ -138,16 +138,13 @@ Call out blockers - solutions from others - collob - problem sensing - easy acce
 
 Proposer side - who engaged audience here ? - Voters want to see simple dashboard - Ron
 
-\
-
-
 IOG & CT operate reports in secret - confidentiality issues ? - Phil
 
 Not in line in open discussion - Phil&#x20;
 
 ### **Google Form Design & Implementation (Survey deliverable)**
 
-Planned Action : A Google form that is short & easy to complete. In a meeting where funded proposers gather - e.g. coordinator meetings or a Town Hall breakout. But needs to have sufficient responses to be valid. Commence after Matthias has done some sensing. Vanessa / Phil. -&#x20;
+Planned Action : A Google form that is short & easy to complete. In a meeting where funded proposers gather - e.g. coordinator meetings or a Town Hall breakout. But needs to have sufficient responses to be valid. Commence after Matthias has done some sensing. Vanessa / Phil.
 
 What are we surveying ? Community perception of auditing ? From proposers (external) - from IOG (internal) - from voter etc - current status of auditing - role of Audit oversight group - what could we be responsible for - Phil&#x20;
 
@@ -157,11 +154,13 @@ Different perspectives - good idea - regular quick & easy questions - Risk quest
 
 Audit purpose - mitigate risk or issue - potential problems with Cat - funded proposal - biggest concerns - how to improve auditing to address. Assurance of delivery - tabs on people - Eric
 
-Overall goal - successfully meeting challenge setting ? = Matt
+Overall goal - successfully meeting challenge setting ? - Matt
 
 Invite Eric to Oversight Discord to join conversation - Stephen
 
-Action - deliver next 2 weeks (audit meeting 3) - Phil / Vanessa
+{% hint style="info" %}
+**Action** - deliver next 2 weeks (audit meeting 3) - Phil / Vanessa
+{% endhint %}
 
 ### **Where do I go ?  (Survey deliverable)**
 
@@ -169,7 +168,9 @@ Planned Action : Where do I go ? - “where is the human” - shape a deliverabl
 
 How to catch needs & expectations - interested parties - dialogue helps - survey questions may be off mark - Thorsten
 
-Action - next two weeks ATH - Audit - Thorsten / Stephen/ Matt - survey prep&#x20;
+{% hint style="info" %}
+**Action -** next two weeks ATH - Audit - Thorsten / Stephen/ Matt - survey prep&#x20;
+{% endhint %}
 
 ### 2 Organizing retrospectives or workshops - 10 Minutes
 
@@ -177,7 +178,9 @@ Action - next two weeks ATH - Audit - Thorsten / Stephen/ Matt - survey prep&#x2
 
 Planned Action : Audit Circle - Office Hours - conversation with Pacific TH or other THs or communities - Matthias
 
-Action - Start next week PTH - Matt - talk to Nori
+{% hint style="info" %}
+**Action** - Start next week PTH - Matt - talk to Nori
+{% endhint %}
 
 ### **Using Tik Tok for async updates**
 
@@ -191,13 +194,15 @@ Planned Action : How to approach and compile information
 
 The direction of the coordinator - how can Audit Circle use - Vanessa
 
-Useful info - the status coord meetings - Stephen to clarify&#x20;
+{% hint style="info" %}
+**Action** - Useful info - the status coord meetings - Stephen to clarify&#x20;
+{% endhint %}
 
 ### 3 Researching, preparing and presenting a report - 5 minutes
 
-Planned Action : Prepare template & format for final F7 report
-
-Deadline : 26th May 2022&#x20;
+{% hint style="info" %}
+**Planned Action :** Prepare template & format for final F7 report. Deadline : 26th May 2022&#x20;
+{% endhint %}
 
 ## Fund 7 Proposal Reporting - 5 Minutes
 
@@ -211,7 +216,9 @@ Legitimacy & participation&#x20;
 
 Incorporate in survey form&#x20;
 
-Next Meeting : 1600 UTC, 14th April 2022
+{% hint style="info" %}
+**Next Meeting** : 1600 UTC, 14th April 2022
+{% endhint %}
 
 Leave Google invite as is&#x20;
 
