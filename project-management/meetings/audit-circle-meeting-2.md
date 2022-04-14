@@ -1,5 +1,5 @@
 ---
-description: 'Scheduled date/time of meeting : 1700 UTC, Thursday, 17th March 2022'
+description: 'Scheduled date/time of meeting : 1600 UTC, Thursday, 17th March 2022'
 ---
 
 # Audit Circle Meeting #2
