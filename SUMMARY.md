@@ -2,6 +2,7 @@
 
 * [Catalyst-Audit-Circle](README.md)
 * [Fund 7 Proposal](fund-7-proposal.md)
+* [Audit Circle 1 - Draft Report](audit-circle-1-draft-report.md)
 
 ## Background
 
