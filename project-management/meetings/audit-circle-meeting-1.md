@@ -31,11 +31,13 @@ Audit Circle Meeting #1 - YouTube Recording
 
 ## Information
 
-| Description                         | Link                                                                                       |
-| ----------------------------------- | ------------------------------------------------------------------------------------------ |
-| Audit Circle F7 Ideascale Proposal  | [https://cardano.ideascale.com/c/idea/381354](https://cardano.ideascale.com/c/idea/381354) |
-| Audit Circle F8 Ideascale Proposal  | [https://cardano.ideascale.com/c/idea/399163](https://cardano.ideascale.com/c/idea/399163) |
-| GitBook                             | https://quality-assurance-dao.gitbook.io/catalyst-audit-circle/                            |
+**Project Board** - [https://github.com/orgs/Catalyst-Auditing/projects/7/views/1](https://github.com/orgs/Catalyst-Auditing/projects/7/views/1)
+
+**F7 Ideascale Proposa**l - [https://cardano.ideascale.com/c/idea/381354](https://cardano.ideascale.com/c/idea/381354)
+
+**F8 Ideascale Proposal** - https://cardano.ideascale.com/c/idea/399163
+
+**GitBook** - https://quality-assurance-dao.gitbook.io/catalyst-audit-circle/
 
 ## Agenda
 
