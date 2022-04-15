@@ -40,7 +40,7 @@ description: 'Scheduled date/time of meeting : 1600 UTC, Thursday, 14th April 20
 
 **GitBook** - https://quality-assurance-dao.gitbook.io/catalyst-audit-circle/
 
-## Proposed Agenda
+## Agenda
 
 (Please amend or comment)
 
