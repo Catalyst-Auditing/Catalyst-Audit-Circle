@@ -1,11 +1,10 @@
+---
+description: 'Scheduled date/time of meeting : 1600 UTC, Thursday, 14th April 2022'
+---
+
 # Audit Circle Meeting #3
 
-Agenda - Audit Circle Meeting #3
-
-\
-
-
-Scheduled date/time of meeting : 1600 UTC, Thursday, 14th April 2022
+{% embed url="https://youtu.be/rwibnaJ0xOc" %}
 
 ## Attendees:
 
