@@ -64,13 +64,9 @@ Ron - to give an update on Town Hall Slide Presentation
 
 Link to slides used - [https://docs.google.com/presentation/d/1oeJD7hfa\_xACtviHhc\_f38-k3sudPBTxlOJbog8EqK4/edit?usp=sharing](https://docs.google.com/presentation/d/1oeJD7hfa\_xACtviHhc\_f38-k3sudPBTxlOJbog8EqK4/edit?usp=sharing)
 
-\
-
-
-Action : ADA payment due for 3 X TH Slide presentations at $75 each.
-
-\
-
+{% hint style="info" %}
+**Action :** ADA payment due for 3 X TH Slide presentations at $75 each.
+{% endhint %}
 
 Any updates, feedback or suggestions.
 
