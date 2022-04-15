@@ -162,9 +162,11 @@ Action from previous meetings : Useful info - the status coord meetings - Stephe
 
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/28](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/28)
 
-Planned Action : Prepare template & format for final F7 report
+{% hint style="info" %}
+**Planned Action :** Prepare template & format for final F7 report
 
-Deadline : 9th June 2022
+**Deadline :** 9th June 2022
+{% endhint %}
 
 ### 7) Fund 7 Proposal Reporting - 5 Minutes
 
