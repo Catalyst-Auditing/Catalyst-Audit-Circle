@@ -42,17 +42,9 @@ description: 'Scheduled date/time of meeting : 1600 UTC, Thursday, 14th April 20
 
 ## Agenda
 
-(Please amend or comment)
-
 Previous Meeting minutes : https://quality-assurance-dao.gitbook.io/audit-circle/project-management/meetings/audit-circle-meeting-2
 
-\
-
-
 ### Updates
-
-\
-
 
 Megan is here to help with taking minutes
 
