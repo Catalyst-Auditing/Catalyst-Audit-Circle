@@ -32,15 +32,13 @@ description: 'Scheduled date/time of meeting : 1600 UTC, Thursday, 14th April 20
 
 ## &#x20;Information
 
-## Audit Circle
+**Project Board** - [https://github.com/orgs/Catalyst-Auditing/projects/7/views/1](https://github.com/orgs/Catalyst-Auditing/projects/7/views/1)
 
-Project Board - [https://github.com/orgs/Catalyst-Auditing/projects/7/views/1](https://github.com/orgs/Catalyst-Auditing/projects/7/views/1)
+**F7 Ideascale Proposal** - [https://cardano.ideascale.com/c/idea/381354](https://cardano.ideascale.com/c/idea/381354)
 
-F7 Ideascale Proposal - [https://cardano.ideascale.com/c/idea/381354](https://cardano.ideascale.com/c/idea/381354)
+**F8 Ideascale Proposal** - https://cardano.ideascale.com/c/idea/399163
 
-F8 Ideascale Proposal - https://cardano.ideascale.com/c/idea/399163
-
-GitBook - https://quality-assurance-dao.gitbook.io/catalyst-audit-circle/
+**GitBook** - https://quality-assurance-dao.gitbook.io/catalyst-audit-circle/
 
 ## Proposed Agenda
 
