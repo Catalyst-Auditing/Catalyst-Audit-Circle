@@ -76,41 +76,21 @@ Thorsten - to give an update on last nights ATH “Audit Update”
 
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/56](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/56)
 
-\
-
-
-Action :
-
-\
-
+Action -
 
 Any updates, feedback or suggestions.
-
-\
-
 
 ### 4) Fund 8 - Audit Circle F8 Proposal - 5 Minutes
 
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/61](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/61)
 
-\
-
-
 Flash CA assessments completed&#x20;
 
-\
-
-
-Action : Promote F8 Audit Circle during Voting
-
-\
-
+{% hint style="info" %}
+**Action :** Promote F8 Audit Circle during Voting
+{% endhint %}
 
 Any updates, feedback or suggestions.
-
-\
-\
-
 
 ### 5) Project Board Review
 
@@ -118,18 +98,9 @@ A quick look at the state of the Audit Circle Project Board.
 
 [https://github.com/orgs/Catalyst-Auditing/projects/7/views/1](https://github.com/orgs/Catalyst-Auditing/projects/7/views/1)
 
-\
-
-
 Where we are with deliverables
 
-\
-
-
-Action :
-
-\
-
+Action -
 
 Any updates, feedback or suggestions.
 
