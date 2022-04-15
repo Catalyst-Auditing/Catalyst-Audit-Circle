@@ -60,7 +60,7 @@ Megan is here to help with taking minutes
 
 Andre & Mirolav - updates on Treasury setup, member payments, costs & expenses.- 5 minutes
 
-### “It's basically that we don't have enough to pay everyone for Audit Circle meetings, There are two options I can think of. One is to pay everyone $250 for now and the last $250 later. The other option is to pay only 6 people $500 and the other 2 people at a later stage. Miroslav will give this update tonight.”
+“It's basically that we don't have enough to pay everyone for Audit Circle meetings, There are two options I can think of. One is to pay everyone $250 for now and the last $250 later. The other option is to pay only 6 people $500 and the other 2 people at a later stage. Miroslav will give this update tonight.”
 
 Any updates, feedback or suggestions.
 
