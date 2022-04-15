@@ -60,11 +60,13 @@ Any updates, feedback or suggestions.
 
 Ron - to give an update on Town Hall Slide Presentation
 
+{% hint style="info" %}
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/33](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/33)
+{% endhint %}
 
 Link to slides used - [https://docs.google.com/presentation/d/1oeJD7hfa\_xACtviHhc\_f38-k3sudPBTxlOJbog8EqK4/edit?usp=sharing](https://docs.google.com/presentation/d/1oeJD7hfa\_xACtviHhc\_f38-k3sudPBTxlOJbog8EqK4/edit?usp=sharing)
 
-{% hint style="info" %}
+{% hint style="warning" %}
 **Action :** ADA payment due for 3 X TH Slide presentations at $75 each.
 {% endhint %}
 
