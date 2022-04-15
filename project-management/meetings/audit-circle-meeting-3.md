@@ -118,20 +118,11 @@ All members - The present summary of Audit Circle’s scope is :
 
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/30](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/30)
 
-\
-
-
 Action from previous meetings : Gather more qualitative data in respect of what should be on the funded proposal monthly reporting form. Go out to other funded proposers & gather informal feedback - Matthias
 
-Action :
-
-\
-
+Action -
 
 Any updates, feedback or suggestions.
-
-\
-
 
 **Google Form Design & Implementation (Survey deliverable)**
 
@@ -171,24 +162,15 @@ Action from previous meetings : Useful info - the status coord meetings - Stephe
 
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/28](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/28)
 
-\
-
-
 Planned Action : Prepare template & format for final F7 report
 
 Deadline : 9th June 2022
-
-\
-
 
 ### 7) Fund 7 Proposal Reporting - 5 Minutes
 
 All members - The second monthly report will be due on 24th April 2022 ([https://quality-assurance-dao.gitbook.io/audit-circle/proposal-reporting/fund-7-proposal/f7-monthly-reports](https://quality-assurance-dao.gitbook.io/audit-circle/proposal-reporting/fund-7-proposal/f7-monthly-reports))
 
 Action :
-
-\
-
 
 Any feedback, suggestions.
 
@@ -198,18 +180,14 @@ Any feedback, suggestions.
 
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/57](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/57)
 
-\
-
-
 Action :  Suggest summary of this meeting for Daniel Ribar’s weekly newsletter.
 
 #### Over run time - 5 minutes
 
 #### Next Meeting
 
-\
-
-
-Next Meeting : 1600 UTC, 28th April 2022
+{% hint style="info" %}
+**Next Meeting :** 1600 UTC, 28th April 2022
+{% endhint %}
 
 \
