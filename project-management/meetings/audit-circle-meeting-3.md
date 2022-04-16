@@ -177,11 +177,9 @@ Identified three possible approaches that we could take. Because I do not think 
 
 Questions for that could include -&#x20;
 
-What do proposers think about audit obligations?&#x20;
-
-What do you think they should be?&#x20;
-
-How do they perceive audit? Is it a burden?
+- What do proposers think about audit obligations?&#x20;
+- What do you think they should be?&#x20;
+- How do they perceive audit? Is it a burden?
 
 **The second approach is about monitoring & data gathering.**&#x20;
 
@@ -189,21 +187,12 @@ In the chat someone said that you can't audit if people don't gather data. From 
 
 Sample questions would be:&#x20;
 
-What are proposers measuring and counting?&#x20;
-
-How are they collecting and storing that data?&#x20;
-
-Do they feel confident that they know what to measure and how to store it?&#x20;
-
-Is it verifiable?
-
-Is there a developing consensus within Catalyst on best practice?
-
-Is that informed by the needs of all sorts of projects? Or does it seem to be geared towards a certain type of project, and people are feeling that it doesn't fit in? &#x20;
-
-
-
-
+- What are proposers measuring and counting?&#x20;
+- How are they collecting and storing that data?&#x20;
+- Do they feel confident that they know what to measure and how to store it?&#x20;
+- Is it verifiable?
+- Is there a developing consensus within Catalyst on best practice?
+- Is that informed by the needs of all sorts of projects? Or does it seem to be geared towards a certain type of project, and people are feeling that it doesn't fit in? &#x20;
 
 ### **6.1.3 - Where do I go ? (Survey deliverable)**
 
