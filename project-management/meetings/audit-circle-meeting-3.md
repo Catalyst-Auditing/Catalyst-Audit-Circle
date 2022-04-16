@@ -155,10 +155,6 @@ All members - The present summary of Audit Circle’s scope is :
 
 **16:24 - Matthias -** "I do not have any real updates. The Fund 8 process is closing out, and now we're in voting and there is the dread of having to do reporting going forward. I was in a Twitter space where someone mentioned that they increased the budget a lot more because of the dread of reporting. And wished they did not get funded. And that's so odd thing to hear for me."
 
-Action -
-
-Any updates, feedback or suggestions.
-
 ### **6.1.2 - Google Form Design & Implementation (Survey deliverable)**
 
 {% hint style="info" %}
