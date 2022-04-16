@@ -120,7 +120,7 @@ All members - The present summary of Audit Circle’s scope is :
 
 ## Survey deliverables
 
-### 1 The Funded Proposal reporting system - 10 minutes
+### 6.1 The Funded Proposal reporting system - 10 minutes
 
 ### **Qualitative data gathering (Survey deliverable)**
 
@@ -152,7 +152,7 @@ Thorsten / Stephen - After Town Halls
 
 Any updates, feedback or suggestions.
 
-### 2 Organizing retrospectives or workshops - 10 Minutes
+### 6.2 Organizing retrospectives or workshops - 10 Minutes
 
 ### **Audit Circle - Office Hours**
 
@@ -170,7 +170,7 @@ Planned Action : How to approach and compile information
 
 Action from previous meetings : Useful info - the status coord meetings - Stephen to clarify&#x20;
 
-### 3 Researching, preparing and presenting a report - 5 minutes
+### 6.3 Researching, preparing and presenting a report - 5 minutes
 
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/28](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/28)
 
