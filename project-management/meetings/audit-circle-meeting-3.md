@@ -65,6 +65,12 @@ Payment for Town Hall slides, doing minutes & meeting attendance&#x20;
 Post recommendation in Discord
 {% endhint %}
 
+{% hint style="info" %}
+**Update :** Recommend paying Megan $100 for minutes & Ron $ 75 for Town Hall Slides.
+
+Hold on meeting payments until ADA recovers to Fund release level
+{% endhint %}
+
 ## 2) Town Hall Slides - 5 minutes
 
 Ron - to give an update on Town Hall Slide Presentation
