@@ -175,11 +175,31 @@ Identified three possible approaches that we could take. Because I do not think 
 
 **The first approach is about proposal attitudes to audit in general.**&#x20;
 
-Questions for that could include, what do proposers think about audit obligations? What do you think they should be? How do they perceive audit? Is it a burden?
+Questions for that could include -&#x20;
+
+What do proposers think about audit obligations?&#x20;
+
+What do you think they should be?&#x20;
+
+How do they perceive audit? Is it a burden?
 
 **The second approach is about monitoring & data gathering.**&#x20;
 
-In the chat someone said that you can't audit if people don't gather data. From listening and talking to people I get the sense that many funded proposals don't have a clear idea of what data they must gather. A survey that asked whether that is true or not. Sample questions would be: What are proposers measuring and counting? How are they collecting and storing that data? Do they feel confident that they know what to measure and how to store it? Is it verifiable? Is there a developing consensus within Catalyst on best practice? Is that informed by the needs of all sorts of projects? Or does it seem to be geared towards a certain type of project, and people are feeling that it doesn't fit in? &#x20;
+In the chat someone said that you can't audit if people don't gather data. From listening and talking to people I get the sense that many funded proposals don't have a clear idea of what data they must gather. A survey that asked whether that is true or not.&#x20;
+
+Sample questions would be:&#x20;
+
+What are proposers measuring and counting?&#x20;
+
+How are they collecting and storing that data?&#x20;
+
+Do they feel confident that they know what to measure and how to store it?&#x20;
+
+Is it verifiable?
+
+Is there a developing consensus within Catalyst on best practice?
+
+Is that informed by the needs of all sorts of projects? Or does it seem to be geared towards a certain type of project, and people are feeling that it doesn't fit in? &#x20;
 
 
 
