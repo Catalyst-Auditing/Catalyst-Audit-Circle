@@ -148,7 +148,9 @@ Action from previous meetings : How to catch needs & expectations
 
 Thorsten / Stephen - After Town Halls
 
+{% hint style="info" %}
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/56](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/56)
+{% endhint %}
 
 Any updates, feedback or suggestions.
 
@@ -156,7 +158,9 @@ Any updates, feedback or suggestions.
 
 ### 6.2.1 - **Audit Circle - Office Hours**
 
+{% hint style="info" %}
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/60](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/60)
+{% endhint %}
 
 Planned Action : Audit Circle - Office Hours - conversation with Pacific TH or other THs or communities - Matthias
 
@@ -172,7 +176,9 @@ Action from previous meetings : Useful info - the status coord meetings - Stephe
 
 ### 6.3 Researching, preparing and presenting a report - 5 minutes
 
+{% hint style="info" %}
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/28](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/28)
+{% endhint %}
 
 {% hint style="info" %}
 **Planned Action :** Prepare template & format for final F7 report
