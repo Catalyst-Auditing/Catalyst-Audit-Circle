@@ -165,7 +165,9 @@ All members - The present summary of Audit Circle’s scope is :
 
 **18:34 - Vanessa - Updates**
 
-According to the Fund 7 proposal were to do an external and an internal survey.
+According to the Fund 7 proposal we are to do an external and an internal survey.
+
+**External survey**
 
 I'm taking an external survey as meaning the funded proposals. And the Fund 7 proposal foregrounds their needs as not whether they are delivering on audit but more what do they need?
 
@@ -194,16 +196,16 @@ Sample questions would be:
 * Is there a developing consensus within Catalyst on best practice?
 * Is that informed by the needs of all sorts of projects? Or does it seem to be geared towards a certain type of project, and people are feeling that it doesn't fit in?
 
-**The third approach would be the current audit process.**&#x20;
+**The third approach would be the current audit process.**
 
 This is a functional type of survey that asks -
 
-- How did your proposal account for auditability?
-- Are you doing that?
-- How do you feel about the change to monthly monitoring forms?
-- Any specific questions about the monitoring form? How do people feel about it?
-- Do people go to the coordinator meetings? And if not, why not?
-- Have they have contact with their challenge team or not? (People are perceiving Challenge teams as an audit process.)
+* How did your proposal account for auditability?
+* Are you doing that?
+* How do you feel about the change to monthly monitoring forms?
+* Any specific questions about the monitoring form? How do people feel about it?
+* Do people go to the coordinator meetings? And if not, why not?
+* Have they have contact with their challenge team or not? (People are perceiving Challenge teams as an audit process.)
 
 ### **6.1.3 - Where do I go ? (Survey deliverable)**
 
