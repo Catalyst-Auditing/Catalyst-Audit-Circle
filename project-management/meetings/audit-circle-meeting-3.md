@@ -198,17 +198,12 @@ Sample questions would be:
 
 This is a functional type of survey that asks -
 
-How did your proposal account for auditability?
-
-Are you doing that?
-
-How do you feel about the change to monthly monitoring forms?
-
-Any specific questions about the monitoring form? How do people feel about it?
-
-Do people go to the coordinator meetings? And if not, why not?
-
-Have they have contact with their challenge team or not? (People are perceiving Challenge teams as an audit process.)
+- How did your proposal account for auditability?
+- Are you doing that?
+- How do you feel about the change to monthly monitoring forms?
+- Any specific questions about the monitoring form? How do people feel about it?
+- Do people go to the coordinator meetings? And if not, why not?
+- Have they have contact with their challenge team or not? (People are perceiving Challenge teams as an audit process.)
 
 ### **6.1.3 - Where do I go ? (Survey deliverable)**
 
