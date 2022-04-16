@@ -139,7 +139,7 @@ A quick look at the state of the Audit Circle Project Board.
 
 All members - The present summary of Audit Circle’s scope is :
 
-“The Audit Circle will survey, facilitate retrospectives and report on funded proposal audit processes,”
+“_The Audit Circle will survey, facilitate retrospectives and report on funded proposal audit processes._”
 
 ## Survey deliverables
 
