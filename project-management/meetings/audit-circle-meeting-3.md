@@ -120,9 +120,9 @@ All members - The present summary of Audit Circle’s scope is :
 
 ## Survey deliverables
 
-### 6.1 The Funded Proposal reporting system - 10 minutes
+### 6.1 - The Funded Proposal reporting system - 10 minutes
 
-### **Qualitative data gathering (Survey deliverable)**
+### **6.1.1 - Qualitative data gathering (Survey deliverable)**
 
 {% hint style="info" %}
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/30](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/30)
@@ -134,7 +134,7 @@ Action -
 
 Any updates, feedback or suggestions.
 
-### **Google Form Design & Implementation (Survey deliverable)**
+### **6.1.2 - Google Form Design & Implementation (Survey deliverable)**
 
 {% hint style="info" %}
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/26](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/26)
@@ -142,7 +142,7 @@ Any updates, feedback or suggestions.
 
 Action from previous meetings : A Google form that is short & easy to complete. Vanessa / Phil. -&#x20;
 
-### **Where do I go ?  (Survey deliverable)**
+### **6.1.3 - Where do I go ?  (Survey deliverable)**
 
 Action from previous meetings : How to catch needs & expectations
 
@@ -152,9 +152,9 @@ Thorsten / Stephen - After Town Halls
 
 Any updates, feedback or suggestions.
 
-### 6.2 Organizing retrospectives or workshops - 10 Minutes
+### 6.2 - Organizing retrospectives or workshops - 10 Minutes
 
-### **Audit Circle - Office Hours**
+### 6.2.1 - **Audit Circle - Office Hours**
 
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/60](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/60)
 
@@ -164,7 +164,7 @@ Action - Start next week PTH - Matt - talk to Nori
 
 Any updates, feedback or suggestions.
 
-### **Using Coordinator meetings for retrospectives**&#x20;
+### 6.2.2 - **Using Coordinator meetings for retrospectives**&#x20;
 
 Planned Action : How to approach and compile information
 
