@@ -99,15 +99,11 @@ Link to slides used - [https://docs.google.com/presentation/d/1oeJD7hfa\_xACtviH
 
 **06:58 - Thorsten** - increase in standard for accountability, insurance. Community feels like the reporting … Concern that people will just take the money and run. How can quality assurance be tailored? Release funds according to achievement? Stacking of funds by Proposals - consider proposers with multiple proposals.
 
-An interest in standards or a framework for accountability or quality assurance as such.
-
-Reporting doesn’t substitute a more thorough assessment. There is still this concern that people will just take the money and run away with it, even doing the reporting.
-
-How quality assurance can be tailored. There was the recognition that not everything should be looked at with the same scrutiny,
-
-Release of funds according to achievement. Approval of what is spent based on time and fund
-
-The stacking of funds by proposal. Where someone has more than one proposal should be considered also in this context. If you have 300 proposals then the assessment should depend on the aggregated funds.
+- An interest in standards or a framework for accountability or quality assurance as such.
+- Reporting doesn’t substitute a more thorough assessment. There is still this concern that people will just take the money and run away with it, even doing the reporting.
+- How quality assurance can be tailored. There was the recognition that not everything should be looked at with the same scrutiny.
+- Release of funds according to achievement. Approval of what is spent based on time and fund.
+- The stacking of funds by proposal. Where someone has more than one proposal should be considered also in this context. If you have 300 proposals then the assessment should depend on the aggregated funds.
 
 (16:16) Reputation? If you don’t do assessments and audits, that might damage your reputation. Capability and qualification of the team to deliver
 
