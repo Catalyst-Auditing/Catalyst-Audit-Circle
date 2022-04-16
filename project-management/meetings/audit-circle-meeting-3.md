@@ -44,11 +44,11 @@ description: 'Scheduled date/time of meeting : 1600 UTC, Thursday, 14th April 20
 
 Previous Meeting minutes : https://quality-assurance-dao.gitbook.io/audit-circle/project-management/meetings/audit-circle-meeting-2
 
-### Updates
+## Updates
 
 Megan is here to help with taking minutes
 
-### 1) Audit Circle Treasury
+## 1) Audit Circle Treasury
 
 Andre & Mirolav - updates on Treasury setup, member payments, costs & expenses.- 5 minutes
 
@@ -56,7 +56,7 @@ Andre & Mirolav - updates on Treasury setup, member payments, costs & expenses.-
 
 Any updates, feedback or suggestions.
 
-### 2) Town Hall Slides - 5 minutes
+## 2) Town Hall Slides - 5 minutes
 
 Ron - to give an update on Town Hall Slide Presentation
 
@@ -72,7 +72,7 @@ Link to slides used - [https://docs.google.com/presentation/d/1oeJD7hfa\_xACtviH
 
 Any updates, feedback or suggestions.
 
-### 3) After Town Hall - Audit Update - 5 Minutes
+## 3) After Town Hall - Audit Update - 5 Minutes
 
 Thorsten - to give an update on last nights ATH “Audit Update”
 
@@ -84,7 +84,7 @@ Action -
 
 Any updates, feedback or suggestions.
 
-### 4) Fund 8 - Audit Circle F8 Proposal - 5 Minutes
+## 4) Fund 8 - Audit Circle F8 Proposal - 5 Minutes
 
 {% hint style="info" %}
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/61](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/61)
@@ -98,7 +98,7 @@ Flash CA assessments completed&#x20;
 
 Any updates, feedback or suggestions.
 
-### 5) Project Board Review
+## 5) Project Board Review
 
 A quick look at the state of the Audit Circle Project Board.
 
@@ -112,17 +112,17 @@ Action -
 
 Any updates, feedback or suggestions.
 
-### 6) Scope & Deliverables of Audit Circle - 25 Minutes
+## 6) Scope & Deliverables of Audit Circle - 25 Minutes
 
 All members - The present summary of Audit Circle’s scope is :
 
 “The Audit Circle will survey, facilitate retrospectives and report on funded proposal audit processes,”
 
-#### Survey deliverables
+## Survey deliverables
 
-#### 1 The Funded Proposal reporting system - 10 minutes
+### 1 The Funded Proposal reporting system - 10 minutes
 
-**Qualitative data gathering (Survey deliverable)**
+### **Qualitative data gathering (Survey deliverable)**
 
 {% hint style="info" %}
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/30](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/30)
@@ -134,7 +134,7 @@ Action -
 
 Any updates, feedback or suggestions.
 
-**Google Form Design & Implementation (Survey deliverable)**
+### **Google Form Design & Implementation (Survey deliverable)**
 
 {% hint style="info" %}
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/26](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/26)
@@ -142,7 +142,7 @@ Any updates, feedback or suggestions.
 
 Action from previous meetings : A Google form that is short & easy to complete. Vanessa / Phil. -&#x20;
 
-**Where do I go ?  (Survey deliverable)**
+### **Where do I go ?  (Survey deliverable)**
 
 Action from previous meetings : How to catch needs & expectations
 
@@ -152,9 +152,9 @@ Thorsten / Stephen - After Town Halls
 
 Any updates, feedback or suggestions.
 
-#### 2 Organizing retrospectives or workshops - 10 Minutes
+### 2 Organizing retrospectives or workshops - 10 Minutes
 
-**Audit Circle - Office Hours**
+### **Audit Circle - Office Hours**
 
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/60](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/60)
 
@@ -164,13 +164,13 @@ Action - Start next week PTH - Matt - talk to Nori
 
 Any updates, feedback or suggestions.
 
-**Using Coordinator meetings for retrospectives**&#x20;
+### **Using Coordinator meetings for retrospectives**&#x20;
 
 Planned Action : How to approach and compile information
 
 Action from previous meetings : Useful info - the status coord meetings - Stephen to clarify&#x20;
 
-#### 3 Researching, preparing and presenting a report - 5 minutes
+### 3 Researching, preparing and presenting a report - 5 minutes
 
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/28](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/28)
 
@@ -180,7 +180,7 @@ Action from previous meetings : Useful info - the status coord meetings - Stephe
 **Deadline :** 9th June 2022
 {% endhint %}
 
-### 7) Fund 7 Proposal Reporting - 5 Minutes
+## 7) Fund 7 Proposal Reporting - 5 Minutes
 
 All members - The second monthly report will be due on 24th April 2022 ([https://quality-assurance-dao.gitbook.io/audit-circle/proposal-reporting/fund-7-proposal/f7-monthly-reports](https://quality-assurance-dao.gitbook.io/audit-circle/proposal-reporting/fund-7-proposal/f7-monthly-reports))
 
@@ -188,7 +188,7 @@ Action :
 
 Any feedback, suggestions.
 
-### 8) Any Other Business - 5 Minutes
+## 8) Any Other Business - 5 Minutes
 
 #### Project Catalyst Weekly Newsletter - 5 Minutes
 
@@ -198,7 +198,7 @@ Action :  Suggest summary of this meeting for Daniel Ribar’s weekly newsletter
 
 #### Over run time - 5 minutes
 
-#### Next Meeting
+## Next Meeting
 
 {% hint style="info" %}
 **Next Meeting :** 1600 UTC, 28th April 2022
