@@ -103,7 +103,9 @@ Link to slides used - [https://docs.google.com/presentation/d/1oeJD7hfa\_xACtviH
 * Release of funds according to achievement. Approval of what is spent based on time and fund.
 * The stacking of funds by proposal. Where someone has more than one proposal should be considered also in this context. If you have 300 proposals then the assessment should depend on the aggregated funds.
 
-**09:25 - Thorsten -**  Discussion about reputation. If you don’t do assessments and audits, that might damage your reputation. Capability and qualification of the team to deliver
+**09:25 - Thorsten -**  Discussion about reputation. If you don’t do assessments and audits, that might damage your reputation. Capability and qualification of the team to deliver.
+
+**11:05 - Thorsten -** Discussion around training and whether auditability should be self governed by the proposer. And the KPI should help with that? Or is it something an external viewpoint is required.
 
 Action -
 
