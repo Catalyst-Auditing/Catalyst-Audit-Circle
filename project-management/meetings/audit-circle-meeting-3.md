@@ -54,7 +54,16 @@ Andre & Mirolav - updates on Treasury setup, member payments, costs & expenses.-
 
 “It's basically that we don't have enough to pay everyone for Audit Circle meetings, There are two options I can think of. One is to pay everyone $250 for now and the last $250 later. The other option is to pay only 6 people $500 and the other 2 people at a later stage. Miroslav will give this update tonight.”
 
-Any updates, feedback or suggestions.
+Payment for Town Hall slides, doing minutes & meeting attendance&#x20;
+
+**16:08 Phil** - payment in ADA as paid to treasury? Or in the future into a Stablecoin?\
+**16:09 Stephen** - Town Hall slides, doing minutes, paying for meeting attendance, deliverables, in that order
+
+{% hint style="warning" %}
+**Action :** Meet Treasury team on Friday 15th April 2022 to discuss options
+
+Post recommendation in Discord
+{% endhint %}
 
 ## 2) Town Hall Slides - 5 minutes
 
