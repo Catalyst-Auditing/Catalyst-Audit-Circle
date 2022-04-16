@@ -103,7 +103,7 @@ Link to slides used - [https://docs.google.com/presentation/d/1oeJD7hfa\_xACtviH
 * Release of funds according to achievement. Approval of what is spent based on time and fund.
 * The stacking of funds by proposal. Where someone has more than one proposal should be considered also in this context. If you have 300 proposals then the assessment should depend on the aggregated funds.
 
-**09:25 - Thorsten -**  Discussion about reputation. If you don’t do assessments and audits, that might damage your reputation. Capability and qualification of the team to deliver.
+**09:25 - Thorsten -** Discussion about reputation. If you don’t do assessments and audits, that might damage your reputation. Capability and qualification of the team to deliver.
 
 **11:05 - Thorsten -** Discussion around training and whether auditability should be self governed by the proposer. And the KPI should help with that? Or is it something an external viewpoint is required.
 
@@ -153,7 +153,7 @@ All members - The present summary of Audit Circle’s scope is :
 
 **Action from previous meetings :** Gather more qualitative data in respect of what should be on the funded proposal monthly reporting form. Go out to other funded proposers & gather informal feedback - Matthias
 
-**16:24 - Matthias -** "I do not have any real updates. The Fund 8 process is closing out, and now we're in voting and there is the dread of having to do reporting going forward. I was in a Twitter space where someone mentioned that they increased the budget a lot more because of the dread of reporting. And wished they did not get funded. And that's so odd thing to hear for me."
+**16:24 - Matthias -** "_I do not have any real updates. The Fund 8 process is closing out, and now we're in voting and there is the dread of having to do reporting going forward. I was in a Twitter space where someone mentioned that they increased the budget a lot more because of the dread of reporting. And wished they did not get funded. And that's so odd thing to hear for me._"
 
 ### **6.1.2 - Google Form Design & Implementation (Survey deliverable)**
 
@@ -173,26 +173,26 @@ What are their issues and problems? A kind of problem sensing.
 
 Identified three possible approaches that we could take. Because I do not think a Google form should be too long. It would be good to get from this meeting what would be the best angle to take?
 
-**The first approach is about proposal attitudes to audit in general.**&#x20;
+**The first approach is about proposal attitudes to audit in general.**
 
-Questions for that could include -&#x20;
+Questions for that could include -
 
-- What do proposers think about audit obligations?&#x20;
-- What do you think they should be?&#x20;
-- How do they perceive audit? Is it a burden?
+* What do proposers think about audit obligations?
+* What do you think they should be?
+* How do they perceive audit? Is it a burden?
 
-**The second approach is about monitoring & data gathering.**&#x20;
+**The second approach is about monitoring & data gathering.**
 
-In the chat someone said that you can't audit if people don't gather data. From listening and talking to people I get the sense that many funded proposals don't have a clear idea of what data they must gather. A survey that asked whether that is true or not.&#x20;
+In the chat someone said that you can't audit if people don't gather data. From listening and talking to people I get the sense that many funded proposals don't have a clear idea of what data they must gather. A survey that asked whether that is true or not.
 
-Sample questions would be:&#x20;
+Sample questions would be:
 
-- What are proposers measuring and counting?&#x20;
-- How are they collecting and storing that data?&#x20;
-- Do they feel confident that they know what to measure and how to store it?&#x20;
-- Is it verifiable?
-- Is there a developing consensus within Catalyst on best practice?
-- Is that informed by the needs of all sorts of projects? Or does it seem to be geared towards a certain type of project, and people are feeling that it doesn't fit in? &#x20;
+* What are proposers measuring and counting?
+* How are they collecting and storing that data?
+* Do they feel confident that they know what to measure and how to store it?
+* Is it verifiable?
+* Is there a developing consensus within Catalyst on best practice?
+* Is that informed by the needs of all sorts of projects? Or does it seem to be geared towards a certain type of project, and people are feeling that it doesn't fit in?
 
 ### **6.1.3 - Where do I go ? (Survey deliverable)**
 
