@@ -117,13 +117,13 @@ Any updates, feedback or suggestions.
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/61](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/61)
 {% endhint %}
 
+{% hint style="info" %}
 Flash CA assessments completed
+{% endhint %}
 
 {% hint style="info" %}
 **Action :** Promote F8 Audit Circle during Voting
 {% endhint %}
-
-Any updates, feedback or suggestions.
 
 ## 5) Project Board Review
 
@@ -133,11 +133,7 @@ A quick look at the state of the Audit Circle Project Board.
 **Audit Circle Project Board** - [https://github.com/orgs/Catalyst-Auditing/projects/7/views/1](https://github.com/orgs/Catalyst-Auditing/projects/7/views/1)
 {% endhint %}
 
-Where we are with deliverables
-
-Action -
-
-Any updates, feedback or suggestions.
+**12:40 - Stephen** - Where we are with deliverables
 
 ## 6) Scope & Deliverables of Audit Circle - 25 Minutes
 
