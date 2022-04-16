@@ -76,7 +76,9 @@ Any updates, feedback or suggestions.
 
 Thorsten - to give an update on last nights ATH “Audit Update”
 
+{% hint style="info" %}
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/56](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/56)
+{% endhint %}
 
 Action -
 
@@ -84,7 +86,9 @@ Any updates, feedback or suggestions.
 
 ### 4) Fund 8 - Audit Circle F8 Proposal - 5 Minutes
 
+{% hint style="info" %}
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/61](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/61)
+{% endhint %}
 
 Flash CA assessments completed&#x20;
 
@@ -98,7 +102,9 @@ Any updates, feedback or suggestions.
 
 A quick look at the state of the Audit Circle Project Board.
 
-[https://github.com/orgs/Catalyst-Auditing/projects/7/views/1](https://github.com/orgs/Catalyst-Auditing/projects/7/views/1)
+{% hint style="info" %}
+**Audit Circle Project Board** - [https://github.com/orgs/Catalyst-Auditing/projects/7/views/1](https://github.com/orgs/Catalyst-Auditing/projects/7/views/1)
+{% endhint %}
 
 Where we are with deliverables
 
@@ -118,7 +124,9 @@ All members - The present summary of Audit Circle’s scope is :
 
 **Qualitative data gathering (Survey deliverable)**
 
+{% hint style="info" %}
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/30](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/30)
+{% endhint %}
 
 Action from previous meetings : Gather more qualitative data in respect of what should be on the funded proposal monthly reporting form. Go out to other funded proposers & gather informal feedback - Matthias
 
@@ -128,7 +136,9 @@ Any updates, feedback or suggestions.
 
 **Google Form Design & Implementation (Survey deliverable)**
 
+{% hint style="info" %}
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/26](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/26)
+{% endhint %}
 
 Action from previous meetings : A Google form that is short & easy to complete. Vanessa / Phil. -&#x20;
 
