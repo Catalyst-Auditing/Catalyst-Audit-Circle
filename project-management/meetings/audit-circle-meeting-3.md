@@ -194,6 +194,22 @@ Sample questions would be:
 * Is there a developing consensus within Catalyst on best practice?
 * Is that informed by the needs of all sorts of projects? Or does it seem to be geared towards a certain type of project, and people are feeling that it doesn't fit in?
 
+**The third approach would be the current audit process.**&#x20;
+
+This is a functional type of survey that asks -
+
+How did your proposal account for auditability?
+
+Are you doing that?
+
+How do you feel about the change to monthly monitoring forms?
+
+Any specific questions about the monitoring form? How do people feel about it?
+
+Do people go to the coordinator meetings? And if not, why not?
+
+Have they have contact with their challenge team or not? (People are perceiving Challenge teams as an audit process.)
+
 ### **6.1.3 - Where do I go ? (Survey deliverable)**
 
 Action from previous meetings : How to catch needs & expectations
