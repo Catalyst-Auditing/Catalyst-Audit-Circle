@@ -8,19 +8,17 @@ description: 'Scheduled date/time of meeting : 1600 UTC, Thursday, 14th April 20
 
 ## Attendees:
 
-|                      |              |
-| -------------------- | ------------ |
-| Matthias Sieber      | CEO Loxe Inc |
-| Ron Hill             | SPOCRA       |
-| Phil Khoo            | AIM          |
-|  Stephen Whitenstall | QADAO        |
-| Thorsten Pottebaum   |              |
-| Vanessa Cardui       | QADAO        |
-| Andre Diamond        | Treasury     |
-| Miroslav Rajh        | Treasury     |
-| Megan                |              |
-
-
+|                     |              |
+| ------------------- | ------------ |
+| Matthias Sieber     | CEO Loxe Inc |
+| Ron Hill            | SPOCRA       |
+| Phil Khoo           | AIM          |
+| Stephen Whitenstall | QADAO        |
+| Thorsten Pottebaum  |              |
+| Vanessa Cardui      | QADAO        |
+| Andre Diamond       | Treasury     |
+| Miroslav Rajh       | Treasury     |
+| Megan               |              |
 
 ## Apologies
 
@@ -30,7 +28,7 @@ description: 'Scheduled date/time of meeting : 1600 UTC, Thursday, 14th April 20
 | George Lovegrove | PACE                             |
 | Jo Allum         | Auditability Challenge Team Lead |
 
-## &#x20;Information
+## Information
 
 **Project Board** - [https://github.com/orgs/Catalyst-Auditing/projects/7/views/1](https://github.com/orgs/Catalyst-Auditing/projects/7/views/1)
 
@@ -54,7 +52,7 @@ Andre & Mirolav - updates on Treasury setup, member payments, costs & expenses.-
 
 “_It's basically that we don't have enough to pay everyone for Audit Circle meetings, There are two options I can think of. One is to pay everyone $250 for now and the last $250 later. The other option is to pay only 6 people $500 and the other 2 people at a later stage. Miroslav will give this update tonight._”
 
-Payment for Town Hall slides, doing minutes & meeting attendance&#x20;
+Payment for Town Hall slides, doing minutes & meeting attendance
 
 **16:08 Phil** - payment in ADA as paid to treasury? Or in the future into a Stablecoin?\
 **16:09 Stephen** - Town Hall slides, doing minutes, paying for meeting attendance, deliverables, in that order
@@ -99,13 +97,13 @@ Link to slides used - [https://docs.google.com/presentation/d/1oeJD7hfa\_xACtviH
 
 **06:58 - Thorsten** - increase in standard for accountability, insurance. Community feels like the reporting … Concern that people will just take the money and run. How can quality assurance be tailored? Release funds according to achievement? Stacking of funds by Proposals - consider proposers with multiple proposals.
 
-- An interest in standards or a framework for accountability or quality assurance as such.
-- Reporting doesn’t substitute a more thorough assessment. There is still this concern that people will just take the money and run away with it, even doing the reporting.
-- How quality assurance can be tailored. There was the recognition that not everything should be looked at with the same scrutiny.
-- Release of funds according to achievement. Approval of what is spent based on time and fund.
-- The stacking of funds by proposal. Where someone has more than one proposal should be considered also in this context. If you have 300 proposals then the assessment should depend on the aggregated funds.
+* An interest in standards or a framework for accountability or quality assurance as such.
+* Reporting doesn’t substitute a more thorough assessment. There is still this concern that people will just take the money and run away with it, even doing the reporting.
+* How quality assurance can be tailored. There was the recognition that not everything should be looked at with the same scrutiny.
+* Release of funds according to achievement. Approval of what is spent based on time and fund.
+* The stacking of funds by proposal. Where someone has more than one proposal should be considered also in this context. If you have 300 proposals then the assessment should depend on the aggregated funds.
 
-(16:16) Reputation? If you don’t do assessments and audits, that might damage your reputation. Capability and qualification of the team to deliver
+**09:25 - Thorsten -**  Discussion about reputation. If you don’t do assessments and audits, that might damage your reputation. Capability and qualification of the team to deliver
 
 Action -
 
@@ -117,7 +115,7 @@ Any updates, feedback or suggestions.
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/61](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/61)
 {% endhint %}
 
-Flash CA assessments completed&#x20;
+Flash CA assessments completed
 
 {% hint style="info" %}
 **Action :** Promote F8 Audit Circle during Voting
@@ -167,9 +165,9 @@ Any updates, feedback or suggestions.
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/26](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/26)
 {% endhint %}
 
-Action from previous meetings : A Google form that is short & easy to complete. Vanessa / Phil. -&#x20;
+Action from previous meetings : A Google form that is short & easy to complete. Vanessa / Phil. -
 
-### **6.1.3 - Where do I go ?  (Survey deliverable)**
+### **6.1.3 - Where do I go ? (Survey deliverable)**
 
 Action from previous meetings : How to catch needs & expectations
 
@@ -195,11 +193,11 @@ Action - Start next week PTH - Matt - talk to Nori
 
 Any updates, feedback or suggestions.
 
-### 6.2.2 - **Using Coordinator meetings for retrospectives**&#x20;
+### 6.2.2 - **Using Coordinator meetings for retrospectives**
 
 Planned Action : How to approach and compile information
 
-Action from previous meetings : Useful info - the status coord meetings - Stephen to clarify&#x20;
+Action from previous meetings : Useful info - the status coord meetings - Stephen to clarify
 
 ### 6.3 Researching, preparing and presenting a report - 5 minutes
 
@@ -227,7 +225,7 @@ Any feedback, suggestions.
 
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/57](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/57)
 
-Action :  Suggest summary of this meeting for Daniel Ribar’s weekly newsletter.
+Action : Suggest summary of this meeting for Daniel Ribar’s weekly newsletter.
 
 #### Over run time - 5 minutes
 
@@ -237,4 +235,4 @@ Action :  Suggest summary of this meeting for Daniel Ribar’s weekly newsletter
 **Next Meeting :** 1600 UTC, 28th April 2022
 {% endhint %}
 
-\
+\\
