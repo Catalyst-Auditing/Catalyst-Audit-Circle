@@ -73,7 +73,7 @@ Hold on meeting payments until ADA recovers to Fund release level
 
 ## 2) Town Hall Slides - 5 minutes
 
-Ron - to give an update on Town Hall Slide Presentation
+**Ron** - to give an update on Town Hall Slide Presentation
 
 {% hint style="info" %}
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/33](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/33)
@@ -85,7 +85,9 @@ Link to slides used - [https://docs.google.com/presentation/d/1oeJD7hfa\_xACtviH
 **Action :** ADA payment due for 3 X TH Slide presentations at $75 each.
 {% endhint %}
 
-Any updates, feedback or suggestions.
+#### Any updates, feedback or suggestions.
+
+**05:43 - Matthias** **-** "_I have the suggestions just for for understanding that this was an introduction. That was the first time that many people knew about the audit circle. Maybe just the presentation tried to make it a little bit more concise, but I appreciate one was the presentation I dialed in for that. So just to make it more concise, I struggled with that, too_."
 
 ## 3) After Town Hall - Audit Update - 5 Minutes
 
