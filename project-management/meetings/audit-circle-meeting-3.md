@@ -167,7 +167,7 @@ All members - The present summary of Audit Circle’s scope is :
 
 According to the Fund 7 proposal we are to do an external and an internal survey.
 
-**External survey**
+#### **External survey**
 
 I'm taking an external survey as meaning the funded proposals. And the Fund 7 proposal foregrounds their needs as not whether they are delivering on audit but more what do they need?
 
