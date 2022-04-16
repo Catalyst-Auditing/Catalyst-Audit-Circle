@@ -161,7 +161,29 @@ All members - The present summary of Audit Circle’s scope is :
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/26](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/26)
 {% endhint %}
 
-Action from previous meetings : A Google form that is short & easy to complete. Vanessa / Phil. -
+**Action from previous meetings :** A Google form that is short & easy to complete. Vanessa / Phil.
+
+**18:34 - Vanessa - Updates**
+
+According to the Fund 7 proposal were to do an external and an internal survey.
+
+I'm taking an external survey as meaning the funded proposals. And the Fund 7 proposal foregrounds their needs as not whether they are delivering on audit but more what do they need?
+
+What are their issues and problems? A kind of problem sensing.
+
+Identified three possible approaches that we could take. Because I do not think a Google form should be too long. It would be good to get from this meeting what would be the best angle to take?
+
+**The first approach is about proposal attitudes to audit in general.**&#x20;
+
+Questions for that could include, what do proposers think about audit obligations? What do you think they should be? How do they perceive audit? Is it a burden?
+
+**The second approach is about monitoring & data gathering.**&#x20;
+
+In the chat someone said that you can't audit if people don't gather data. From listening and talking to people I get the sense that many funded proposals don't have a clear idea of what data they must gather. A survey that asked whether that is true or not. Sample questions would be: What are proposers measuring and counting? How are they collecting and storing that data? Do they feel confident that they know what to measure and how to store it? Is it verifiable? Is there a developing consensus within Catalyst on best practice? Is that informed by the needs of all sorts of projects? Or does it seem to be geared towards a certain type of project, and people are feeling that it doesn't fit in? &#x20;
+
+
+
+
 
 ### **6.1.3 - Where do I go ? (Survey deliverable)**
 
