@@ -8,7 +8,7 @@ coverY: 0
 
 # Catalyst-Audit-Circle
 
-
+{% embed url="https://youtu.be/1CWRy-5HR7Q" %}
 
 Since October 2021 community members with an interest in auditing and oversight initiated research into reporting and participated in the **Catalyst Auditing working group** ( see [https://catalyst-swarm.gitbook.io/catalyst-auditing/admin/meetings](https://catalyst-swarm.gitbook.io/catalyst-auditing/admin/meetings) ).
 
