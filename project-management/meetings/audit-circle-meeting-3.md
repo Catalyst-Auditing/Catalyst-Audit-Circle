@@ -151,7 +151,9 @@ All members - The present summary of Audit Circle’s scope is :
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/30](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/30)
 {% endhint %}
 
-Action from previous meetings : Gather more qualitative data in respect of what should be on the funded proposal monthly reporting form. Go out to other funded proposers & gather informal feedback - Matthias
+**Action from previous meetings :** Gather more qualitative data in respect of what should be on the funded proposal monthly reporting form. Go out to other funded proposers & gather informal feedback - Matthias
+
+**16:24 - Matthias -** "I do not have any real updates. The Fund 8 process is closing out, and now we're in voting and there is the dread of having to do reporting going forward. I was in a Twitter space where someone mentioned that they increased the budget a lot more because of the dread of reporting. And wished they did not get funded. And that's so odd thing to hear for me."
 
 Action -
 
