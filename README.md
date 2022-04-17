@@ -24,4 +24,4 @@ The **Catalyst Audit Circle** is tasked with:
 
 **Accountability** - Community Governance Oversight is accountable to ADA holders who voted for it's proposal to deliver surveys, retrospectives and a final report by June 2022.
 
-**Open Source** - Community Governance Oversight is committed to using Open Source tools to document and track its activities. This GitBook is stored on this repository with an Apache 2.0 licence.
+**Open Source** - Community Governance Oversight is committed to using Open Source tools to document and track its activities. This GitBook is stored on this [repository ](https://github.com/Catalyst-Auditing/Catalyst-Audit-Circle)with an Apache 2.0 license.
