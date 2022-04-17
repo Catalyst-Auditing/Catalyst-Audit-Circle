@@ -18,7 +18,7 @@ The **Catalyst Audit Circle** is tasked with:
 * Prioritizing proposal audit issues with the help of the community. Looking at the complexity, implementation effort and relevant concerns to guide what to solve first.
 * Coordinating and collaborating with the community to investigate and develop potential solutions to auditing issues. Any solutions developed can go through the Catalyst funding process.
 
-**Legitimacy** - the Fund 7 proposal together with the team listed were successfully voted for in February 2022.
+**Legitimacy** - the [Fund 7 proposal](https://cardano.ideascale.com/c/idea/381354) together with the team listed were successfully voted for in February 2022.
 
 **Transparency** - meetings, proposal reporting and deliverables are all documented in this GitBook.
 
