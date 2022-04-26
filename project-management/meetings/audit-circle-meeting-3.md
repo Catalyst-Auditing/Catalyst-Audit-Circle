@@ -207,6 +207,10 @@ This is a functional type of survey that asks -
 * Do people go to the coordinator meetings? And if not, why not?
 * Have they have contact with their challenge team or not? (People are perceiving Challenge teams as an audit process.)
 
+**Ron** - 22:07 - What are we auditing ?
+
+**Vanessa** - 22:31 - Scope is how funded proposers audit their projects.&#x20;
+
 ### **6.1.3 - Where do I go ? (Survey deliverable)**
 
 Action from previous meetings : How to catch needs & expectations
