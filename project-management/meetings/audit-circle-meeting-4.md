@@ -41,18 +41,21 @@ description: 'Scheduled date/time of meeting : 1600 UTC, Thursday, 28th April 20
 **Previous Meeting minutes :** https://quality-assurance-dao.gitbook.io/audit-circle/project-management/meetings/audit-circle-meeting-2
 
 ## 1) Audit Circle Treasury
+
 Andre & Mirolav - updates on Treasury setup, member payments, costs & expenses.- 5 minutes
 
 Any updates, feedback or suggestions.
+
 ## 2) Town Hall Slides - 5 minutes
-Stephen/ Ron - to give an update on Town Hall Slide Presentation
-https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/3
-Link to slides used - https://docs.google.com/presentation/d/16awJ0FGKVAjsJ_3wWGQ7UFfs1tV2HWz1B119kaXW6Y8/edit?usp=sharing
+
+Stephen/ Ron - to give an update on Town Hall Slide Presentation https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/3 Link to slides used - https://docs.google.com/presentation/d/16awJ0FGKVAjsJ\_3wWGQ7UFfs1tV2HWz1B119kaXW6Y8/edit?usp=sharing
 
 Action : ADA payment due for TH Slide presentations at $75.
 
 Any updates, feedback or suggestions.
+
 ## 3) Fund 8 - Audit Circle F8 Proposal - 5 Minutes
+
 https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/61
 
 Action : Promote F8 Audit Circle during Voting
@@ -60,8 +63,8 @@ Action : Promote F8 Audit Circle during Voting
 Any updates, feedback or suggestions.
 
 ## 4) Project Board Review
-A quick look at the state of the Audit Circle Project Board.
-https://github.com/orgs/Catalyst-Auditing/projects/7/views/1
+
+A quick look at the state of the Audit Circle Project Board. https://github.com/orgs/Catalyst-Auditing/projects/7/views/1
 
 Where we are with deliverables
 
@@ -70,52 +73,47 @@ Action :
 Any updates, feedback or suggestions.
 
 ## 5) Scope & Deliverables of Audit Circle - 25 Minutes
-All members - The present summary of Audit Circle’s scope is :
-“The Audit Circle will survey, facilitate retrospectives and report on funded proposal audit processes,”
-Survey deliverables
-### 5.1 The Funded Proposal reporting system - 10 minutes
-#### 5.1.1 Qualitative data gathering (Survey deliverable)
+
+All members - The present summary of Audit Circle’s scope is : “The Audit Circle will survey, facilitate retrospectives and report on funded proposal audit processes,” Survey deliverables
+
+## 5.1 The Funded Proposal reporting system - 10 minutes
+
+### 5.1.1 Qualitative data gathering (Survey deliverable)
+
 https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/5
 
-Action from previous meetings : Gather more qualitative data in respect of what should be on the funded proposal monthly reporting form. Go out to other funded proposers & gather informal feedback - Matthias
-Action :
+Action from previous meetings : Gather more qualitative data in respect of what should be on the funded proposal monthly reporting form. Go out to other funded proposers & gather informal feedback - Matthias Action :
 
-Any updates, feedback or suggestions.
-5.1.2 Google Form Design & Implementation (Survey deliverable)
-https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/6
-Planned Action : Creation of a focus group to look at survey - Vanessa, Phil & Ron
-5.1.3. Where do I go ?  (Survey deliverable)
-Thorsten / Stephen - After Town Halls
-https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/12
-Planned Action : Thorsten / Stephen - Writing up previous After Town Hall for final report
-Planned Action : Arrange After Town Hall to sync with monthly report 24th April - Stephen 
+Any updates, feedback or suggestions.&#x20;
 
-Any updates, feedback or suggestions.
-2 Organizing retrospectives or workshops - 10 Minutes
-Audit Circle - Office Hours
-https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/11
-Planned Action : Updates on Audit Circle - Office Hours - conversations with Pacific TH or other THs or communities - how this feeds into final report- Matthias
-Any updates, feedback or suggestions.
-Using Coordinator meetings for retrospectives 
-Planned Action : How to approach and compile information
-Action from previous meetings : Useful info - the status coord meetings - Stephen to clarify 
-3 Researching, preparing and presenting a report - 5 minutes
-https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/28
+### 5.1.2 Google Form Design & Implementation (Survey deliverable)&#x20;
 
-Planned Action : Prepare template & format for final F7 report
-Deadline : 9th June 2022
+https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/6 Planned Action : Creation of a focus group to look at survey - Vanessa, Phil & Ron 5.1.3. Where do I go ? (Survey deliverable) Thorsten / Stephen - After Town Halls https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/12 Planned Action : Thorsten / Stephen - Writing up previous After Town Hall for final report Planned Action : Arrange After Town Hall to sync with monthly report 24th April - Stephen
+
+Any updates, feedback or suggestions.&#x20;
+
+### 5.2 Organizing retrospectives or workshops - 10 Minutes
+
+&#x20;Audit Circle - Office Hours https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/11 Planned Action : Updates on Audit Circle - Office Hours - conversations with Pacific TH or other THs or communities - how this feeds into final report- Matthias Any updates, feedback or suggestions.&#x20;
+
+Using Coordinator meetings for retrospectives Planned Action : How to approach and compile information Action from previous meetings : Useful info - the status coord meetings - Stephen to clarify&#x20;
+
+## 3 Researching, preparing and presenting a report - 5 minutes
+
+&#x20;https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/28
+
+Planned Action : Prepare template & format for final F7 report Deadline : 9th June 2022
 
 ## 7) Fund 7 Proposal Reporting - 5 Minutes
-All members - The second monthly report was submitted on 24th April 2022 (https://quality-assurance-dao.gitbook.io/audit-circle/proposal-reporting/fund-7-proposal/f7-monthly-reports)
-Action :
+
+All members - The second monthly report was submitted on 24th April 2022 (https://quality-assurance-dao.gitbook.io/audit-circle/proposal-reporting/fund-7-proposal/f7-monthly-reports) Action :
 
 Any feedback, suggestions.
-## 8) Any Other Business - 5 Minutes
-Project Catalyst Weekly Newsletter - 5 Minutes
-https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/1
 
-Action :  Suggest summary of this meeting for Daniel Ribar’s weekly newsletter.
-Over run time - 5 minutes
-Next Meeting
+## 8) Any Other Business - 5 Minutes
+
+Project Catalyst Weekly Newsletter - 5 Minutes https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/1
+
+Action : Suggest summary of this meeting for Daniel Ribar’s weekly newsletter. Over run time - 5 minutes Next Meeting
 
 Next Meeting : 1600 UTC, 12th May 2022
