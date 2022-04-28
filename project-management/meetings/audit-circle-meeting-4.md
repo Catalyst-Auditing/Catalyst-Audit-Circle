@@ -1,10 +1,10 @@
 ---
-description: 'Scheduled date/time of meeting : 1600 UTC, Thursday, 14th April 2022'
+description: 'Scheduled date/time of meeting : 1600 UTC, Thursday, 28th April 2022'
 ---
 
-# Audit Circle Meeting #3
+# Audit Circle Meeting #4
 
-{% embed url="https://youtu.be/rwibnaJ0xOc" %}
+## Recording Placeholder
 
 ## Attendees:
 
@@ -19,8 +19,6 @@ description: 'Scheduled date/time of meeting : 1600 UTC, Thursday, 14th April 20
 | Andre Diamond       | Treasury     |
 | Miroslav Rajh       | Treasury     |
 | Megan               |              |
-
-## Apologies
 
 |                  |                                  |
 | ---------------- | -------------------------------- |
@@ -50,80 +48,11 @@ Megan is here to help with taking minutes
 
 Andre & Mirolav - updates on Treasury setup, member payments, costs & expenses.- 5 minutes
 
-“_It's basically that we don't have enough to pay everyone for Audit Circle meetings, There are two options I can think of. One is to pay everyone $250 for now and the last $250 later. The other option is to pay only 6 people $500 and the other 2 people at a later stage. Miroslav will give this update tonight._”
-
-Payment for Town Hall slides, doing minutes & meeting attendance
-
-**16:08 Phil** - payment in ADA as paid to treasury? Or in the future into a Stablecoin?\
-**16:09 Stephen** - Town Hall slides, doing minutes, paying for meeting attendance, deliverables, in that order
-
-{% hint style="warning" %}
-**Action :** Meet Treasury team on Friday 15th April 2022 to discuss options
-
-Post recommendation in Discord
-{% endhint %}
-
-{% hint style="info" %}
-**Update :** Recommend paying Megan $100 for minutes & Ron $ 75 for Town Hall Slides.
-
-Hold on meeting payments until ADA recovers to Fund release level
-{% endhint %}
-
 ## 2) Town Hall Slides - 5 minutes
 
-**Ron** - to give an update on Town Hall Slide Presentation
+****
 
-{% hint style="info" %}
-[https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/33](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/33)
-{% endhint %}
-
-Link to slides used - [https://docs.google.com/presentation/d/1oeJD7hfa\_xACtviHhc\_f38-k3sudPBTxlOJbog8EqK4/edit?usp=sharing](https://docs.google.com/presentation/d/1oeJD7hfa\_xACtviHhc\_f38-k3sudPBTxlOJbog8EqK4/edit?usp=sharing)
-
-{% hint style="warning" %}
-**Action :** ADA payment due for 3 X TH Slide presentations at $75 each.
-{% endhint %}
-
-#### Any updates, feedback or suggestions.
-
-**05:43 - Matthias** **-** "_I have the suggestions just for for understanding that this was an introduction. That was the first time that many people knew about the audit circle. Maybe just the presentation tried to make it a little bit more concise, but I appreciate one was the presentation I dialed in for that. So just to make it more concise, I struggled with that, too_."
-
-## 3) After Town Hall - Audit Update - 5 Minutes
-
-**Thorsten** - to give an update on last nights ATH “Audit Update”
-
-{% hint style="info" %}
-[https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/56](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/56)
-{% endhint %}
-
-**06:58 - Thorsten** - increase in standard for accountability, insurance. Community feels like the reporting … Concern that people will just take the money and run. How can quality assurance be tailored? Release funds according to achievement? Stacking of funds by Proposals - consider proposers with multiple proposals.
-
-* An interest in standards or a framework for accountability or quality assurance as such.
-* Reporting doesn’t substitute a more thorough assessment. There is still this concern that people will just take the money and run away with it, even doing the reporting.
-* How quality assurance can be tailored. There was the recognition that not everything should be looked at with the same scrutiny.
-* Release of funds according to achievement. Approval of what is spent based on time and fund.
-* The stacking of funds by proposal. Where someone has more than one proposal should be considered also in this context. If you have 300 proposals then the assessment should depend on the aggregated funds.
-
-**09:25 - Thorsten -** Discussion about reputation. If you don’t do assessments and audits, that might damage your reputation. Capability and qualification of the team to deliver.
-
-**11:05 - Thorsten -** Discussion around training and whether auditability should be self governed by the proposer. And the KPI should help with that? Or is it something an external viewpoint is required.
-
-Action -
-
-Any updates, feedback or suggestions.
-
-## 4) Fund 8 - Audit Circle F8 Proposal - 5 Minutes
-
-{% hint style="info" %}
-[https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/61](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/61)
-{% endhint %}
-
-{% hint style="info" %}
-Flash CA assessments completed
-{% endhint %}
-
-{% hint style="info" %}
-**Action :** Promote F8 Audit Circle during Voting
-{% endhint %}
+## 3) Fund 8 - Audit Circle F8 Proposal - 5 Minutes
 
 ## 5) Project Board Review
 
@@ -209,7 +138,7 @@ This is a functional type of survey that asks -
 
 **Ron** - 22:07 - What are we auditing ?
 
-**Vanessa** - 22:31 - Scope is how funded proposers audit their projects.&#x20;
+**Vanessa** - 22:31 - Scope is how funded proposers audit their projects.
 
 ### **6.1.3 - Where do I go ? (Survey deliverable)**
 
