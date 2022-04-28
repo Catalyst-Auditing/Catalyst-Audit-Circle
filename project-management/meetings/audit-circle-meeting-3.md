@@ -269,9 +269,9 @@ Action from previous meetings : Useful info - the status coord meetings - Stephe
 
 All members - The second monthly report will be due on 24th April 2022 ([https://quality-assurance-dao.gitbook.io/audit-circle/proposal-reporting/fund-7-proposal/f7-monthly-reports](https://quality-assurance-dao.gitbook.io/audit-circle/proposal-reporting/fund-7-proposal/f7-monthly-reports))
 
-Action :
-
-Any feedback, suggestions.
+{% hint style="info" %}
+A**ction :** Submit Monthly Report for F7 Audit Circle proposal - Stephen&#x20;
+{% endhint %}
 
 ## 8) Any Other Business - 5 Minutes
 
@@ -279,7 +279,9 @@ Any feedback, suggestions.
 
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/57](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/57)
 
-Action : Suggest summary of this meeting for Daniel Ribar’s weekly newsletter.
+{% hint style="info" %}
+**Action :** Suggest summary of this meeting for Daniel Ribar’s weekly newsletter. - All
+{% endhint %}
 
 #### Over run time - 5 minutes
 
