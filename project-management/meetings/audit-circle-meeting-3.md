@@ -212,7 +212,7 @@ This is a functional type of survey that asks -
 **Vanessa** - 22:31 - Scope is how funded proposers audit their projects.&#x20;
 
 {% hint style="info" %}
-**Planned Action :** Creation of a focus group to look at survey - Vanessa
+**Planned Action :** Creation of a focus group to look at survey - Vanessa, Phil
 {% endhint %}
 
 ### **6.1.3 - Where do I go ? (Survey deliverable)**
