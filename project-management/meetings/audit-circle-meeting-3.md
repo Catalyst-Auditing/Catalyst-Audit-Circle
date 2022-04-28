@@ -211,25 +211,17 @@ This is a functional type of survey that asks -
 
 **Vanessa** - 22:31 - Scope is how funded proposers audit their projects.&#x20;
 
-{% hint style="info" %}
-**Planned Action :** Creation of a focus group to look at survey - Vanessa, Phil & Ron
-{% endhint %}
-
 ### **6.1.3 - Where do I go ? (Survey deliverable)**
 
 Action from previous meetings : How to catch needs & expectations
 
-{% hint style="info" %}
-**Planned Action :** Thorsten / Stephen - Writing up previous After Town Hall for final report
-{% endhint %}
+Thorsten / Stephen - After Town Halls
 
 {% hint style="info" %}
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/56](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/56)
 {% endhint %}
 
-{% hint style="info" %}
-**Planned Action :** Arrange After Town Hall to sync with monthly report 24th April - Stephen&#x20;
-{% endhint %}
+Any updates, feedback or suggestions.
 
 ### 6.2 - Organizing retrospectives or workshops - 10 Minutes
 
@@ -239,17 +231,15 @@ Action from previous meetings : How to catch needs & expectations
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/60](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/60)
 {% endhint %}
 
-{% hint style="info" %}
-**Planned Action :** Updates on Audit Circle - Office Hours - conversations with Pacific TH or other THs or communities - how this feeds into final report-  Matthias
-{% endhint %}
+Planned Action : Audit Circle - Office Hours - conversation with Pacific TH or other THs or communities - Matthias
+
+Action - Start next week PTH - Matt - talk to Nori
 
 Any updates, feedback or suggestions.
 
 ### 6.2.2 - **Using Coordinator meetings for retrospectives**
 
-{% hint style="info" %}
-**Planned Action :** How to approach and compile information
-{% endhint %}
+Planned Action : How to approach and compile information
 
 Action from previous meetings : Useful info - the status coord meetings - Stephen to clarify
 
@@ -269,9 +259,9 @@ Action from previous meetings : Useful info - the status coord meetings - Stephe
 
 All members - The second monthly report will be due on 24th April 2022 ([https://quality-assurance-dao.gitbook.io/audit-circle/proposal-reporting/fund-7-proposal/f7-monthly-reports](https://quality-assurance-dao.gitbook.io/audit-circle/proposal-reporting/fund-7-proposal/f7-monthly-reports))
 
-{% hint style="info" %}
-A**ction :** Submit Monthly Report for F7 Audit Circle proposal - Stephen&#x20;
-{% endhint %}
+Action :
+
+Any feedback, suggestions.
 
 ## 8) Any Other Business - 5 Minutes
 
@@ -279,9 +269,7 @@ A**ction :** Submit Monthly Report for F7 Audit Circle proposal - Stephen&#x20;
 
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/57](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/57)
 
-{% hint style="info" %}
-**Action :** Suggest summary of this meeting for Daniel Ribar’s weekly newsletter. - All
-{% endhint %}
+Action : Suggest summary of this meeting for Daniel Ribar’s weekly newsletter.
 
 #### Over run time - 5 minutes
 
