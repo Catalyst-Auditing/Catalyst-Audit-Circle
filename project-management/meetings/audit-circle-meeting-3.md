@@ -211,17 +211,25 @@ This is a functional type of survey that asks -
 
 **Vanessa** - 22:31 - Scope is how funded proposers audit their projects.&#x20;
 
+{% hint style="info" %}
+**Planned Action :** Creation of a focus group to look at survey - Vanessa, Phil & Ron
+{% endhint %}
+
 ### **6.1.3 - Where do I go ? (Survey deliverable)**
 
 Action from previous meetings : How to catch needs & expectations
 
-Thorsten / Stephen - After Town Halls
+{% hint style="info" %}
+**Planned Action :** Thorsten / Stephen - Writing up previous After Town Hall for final report
+{% endhint %}
 
 {% hint style="info" %}
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/56](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/56)
 {% endhint %}
 
-Any updates, feedback or suggestions.
+{% hint style="info" %}
+**Planned Action :** Arrange After Town Hall to sync with monthly report 24th April - Stephen&#x20;
+{% endhint %}
 
 ### 6.2 - Organizing retrospectives or workshops - 10 Minutes
 
@@ -231,15 +239,17 @@ Any updates, feedback or suggestions.
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/60](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/60)
 {% endhint %}
 
-Planned Action : Audit Circle - Office Hours - conversation with Pacific TH or other THs or communities - Matthias
-
-Action - Start next week PTH - Matt - talk to Nori
+{% hint style="info" %}
+**Planned Action :** Updates on Audit Circle - Office Hours - conversations with Pacific TH or other THs or communities - how this feeds into final report-  Matthias
+{% endhint %}
 
 Any updates, feedback or suggestions.
 
 ### 6.2.2 - **Using Coordinator meetings for retrospectives**
 
-Planned Action : How to approach and compile information
+{% hint style="info" %}
+**Planned Action :** How to approach and compile information
+{% endhint %}
 
 Action from previous meetings : Useful info - the status coord meetings - Stephen to clarify
 
