@@ -50,11 +50,13 @@ Treasury: Miro: setting up an Airdrop to send to everybody the same day. Probabl
 
 ## 2) Town Hall Slides - 5 minutes
 
-Stephen/ Ron - to give an update on Town Hall Slide Presentation https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/3 Link to slides used - https://docs.google.com/presentation/d/16awJ0FGKVAjsJ\_3wWGQ7UFfs1tV2HWz1B119kaXW6Y8/edit?usp=sharing
+Town Hall slides ([1:45](https://youtu.be/STxSKquzaF8?t=105)): Ron couldn’t do them, so Stephen did. Focus is on the Survey. ([link to slides](https://docs.google.com/presentation/d/16awJ0FGKVAjsJ\_3wWGQ7UFfs1tV2HWz1B119kaXW6Y8/edit?usp=sharing))
 
-Action : ADA payment due for TH Slide presentations at $75.
+Vanessa: have you got someone lined up for next time (Town Hall slides)?&#x20;
 
-Any updates, feedback or suggestions.
+Figuring out who to do them. Settled on George or Vanessa. Toggling/changing each week, but George next week, then Vanessa.&#x20;
+
+Stephen already has some stuff prepared, can forward it to Vanessa/George
 
 ## 3) Fund 8 - Audit Circle F8 Proposal - 5 Minutes
 
