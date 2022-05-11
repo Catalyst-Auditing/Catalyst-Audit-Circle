@@ -96,11 +96,47 @@ All members - The present summary of Audit Circle’s scope is : “The Audit Ci
 
 ### 5.1.1 Qualitative data gathering (Survey deliverable)
 
-https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/5
+{% embed url="https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/5" %}
 
-Action from previous meetings : Gather more qualitative data in respect of what should be on the funded proposal monthly reporting form. Go out to other funded proposers & gather informal feedback - Matthias Action :
+Where are we on Qualitative Data Gathering, Matthias?&#x20;
 
-Any updates, feedback or suggestions.&#x20;
+Matthias: what’s on the form and when. Return-on-Intention&#x20;
+
+What things should be on progress reports, versus what shouldn’t permanently be on them.&#x20;
+
+\
+Vanessa (9:52): seems to be confusion on the reporting forms. Not a good sense of why certain things are being asked.&#x20;
+
+Size of community for projects - some folks are worried that they’re being judged negatively due to not having a big community around what they’re doing.&#x20;
+
+Matthias thinks so.&#x20;
+
+\
+George: preferred previous; current one feels “bloated” and cumbersome, and some questions aren’t relevant every week. Feels that there should be a difference, with Progress Reports simpler. “It’s a regression, not a step forward.”&#x20;
+
+Eric? Biggest issue is with the self-reporting part of it.&#x20;
+
+People don’t have a sense of what’s being asked
+
+(Matthias) You’re being judged if you don’t hype and build a community&#x20;
+
+(George \~11m) Progress reports versus \[??]
+
+Stephen: Eric, any suggestions? If you’re doing auditing, should you expect the same thing each month?&#x20;
+
+Eric (12:30): Good to understand the purpose of the reporting: accountability? Progression and deliverables??&#x20;
+
+Purpose of the reporting is important to focus on: just providing information? Accountability? We should design it around that. Design the reporting forms around what information you’re wanting.&#x20;
+
+Stephen: common theme seems to be “what is the reporting for?” ([14:00](https://youtu.be/STxSKquzaF8?t=840))
+
+Eric: feels that reporting currently is more just a “check the box that we do reporting” and hasn’t yet had much impact or mattered much. “The information that's on there, it doesn't really seem to lead anywhere, you know, increase transparency or let you track what projects are doing”
+
+Consequences going with the verification. Tokens? Community?&#x20;
+
+Stephen: what is and why is it being changed? What is it for? Auditing? Accountability?&#x20;
+
+Eric: (\~[15:00](https://youtu.be/STxSKquzaF8?t=900)) hasn’t understood why we’re doing what, what the value is
 
 ### 5.1.2 Google Form Design & Implementation (Survey deliverable)&#x20;
 
