@@ -391,4 +391,4 @@ Project Catalyst Weekly Newsletter - 5 Minutes https://github.com/Catalyst-Audit
 
 Action : Suggest summary of this meeting for Daniel Ribar’s weekly newsletter. Over run time - 5 minutes Next Meeting
 
-Next Meeting : 1600 UTC, 12th May 2022
+## Next Meeting : 1600 UTC, 12th May 2022
