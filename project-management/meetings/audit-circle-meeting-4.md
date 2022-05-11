@@ -296,7 +296,9 @@ We should do a review of this report in the next or final meeting, and sign it o
 
 ## 7) Fund 7 Proposal Reporting - 5 Minutes
 
-All members - The second monthly report was submitted on 24th April 2022 (https://quality-assurance-dao.gitbook.io/audit-circle/proposal-reporting/fund-7-proposal/f7-monthly-reports)Next monthly report will be due 24th May 2022.
+All members - The second monthly report was submitted on 24th April 2022 (https://quality-assurance-dao.gitbook.io/audit-circle/proposal-reporting/fund-7-proposal/f7-monthly-reports)
+
+Next monthly report will be due 24th May 2022.
 
 ## 8) Any Other Business - 5 Minutes
 
