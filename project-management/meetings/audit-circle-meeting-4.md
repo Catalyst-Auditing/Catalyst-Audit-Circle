@@ -54,7 +54,7 @@ Town Hall slides ([1:45](https://youtu.be/STxSKquzaF8?t=105)): Ron couldn’t do
 
 Vanessa: have you got someone lined up for next time (Town Hall slides)?&#x20;
 
-Figuring out who to do them. Settled on George or Vanessa. Toggling/changing each week, but George next week, then Vanessa.&#x20;
+Figuring out who to do them. Settled on George or Vanessa. Toggling/changing each week, but George next week, then Vanessa ?
 
 Stephen already has some stuff prepared, can forward it to Vanessa/George
 
