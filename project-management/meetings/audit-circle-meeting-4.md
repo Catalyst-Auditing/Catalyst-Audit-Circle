@@ -38,7 +38,7 @@ description: 'Scheduled date/time of meeting : 1600 UTC, Thursday, 28th April 20
 
 ## Agenda
 
-**Previous Meeting minutes :** https://quality-assurance-dao.gitbook.io/audit-circle/project-management/meetings/audit-circle-meeting-2
+**Previous Meeting minutes :** [https://quality-assurance-dao.gitbook.io/audit-circle/project-management/meetings/audit-circle-meeting-3](https://quality-assurance-dao.gitbook.io/audit-circle/project-management/meetings/audit-circle-meeting-3)
 
 ## 1) Audit Circle Treasury
 
