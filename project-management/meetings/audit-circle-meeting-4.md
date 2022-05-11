@@ -42,9 +42,11 @@ description: 'Scheduled date/time of meeting : 1600 UTC, Thursday, 28th April 20
 
 ## 1) Audit Circle Treasury
 
-Andre & Mirolav - updates on Treasury setup, member payments, costs & expenses.- 5 minutes
+Treasury: Miro: setting up an Airdrop to send to everybody the same day. Probably next week/first week of May.&#x20;
 
-Any updates, feedback or suggestions.
+{% hint style="info" %}
+**Action:** confirm with Miro and Andre tomorrow.
+{% endhint %}
 
 ## 2) Town Hall Slides - 5 minutes
 
