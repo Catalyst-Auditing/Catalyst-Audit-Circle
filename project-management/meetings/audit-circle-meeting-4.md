@@ -60,11 +60,9 @@ Stephen already has some stuff prepared, can forward it to Vanessa/George
 
 ## 3) Fund 8 - Audit Circle F8 Proposal - 5 Minutes
 
-https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/61
+Fund 8 Proposal ([4:24](https://youtu.be/STxSKquzaF8?t=264))&#x20;
 
-Action : Promote F8 Audit Circle during Voting
-
-Any updates, feedback or suggestions.
+Tweet/post/share about voting! We’re not going to entirely finish for F7, so we need to carry over some tasks into F8.
 
 ## 4) Project Board Review
 
