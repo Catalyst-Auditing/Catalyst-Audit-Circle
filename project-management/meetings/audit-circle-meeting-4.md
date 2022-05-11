@@ -138,11 +138,31 @@ Consequences going with the verification. Tokens? Community?&#x20;
 
 **Eric**: (\~[15:00](https://youtu.be/STxSKquzaF8?t=900)) hasn’t understood why we’re doing what, what the value is
 
-### 5.1.2 Google Form Design & Implementation (Survey deliverable)&#x20;
+### 5.1.2 Survey Design & Implementation (Survey deliverable)&#x20;
 
-https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/6 Planned Action : Creation of a focus group to look at survey - Vanessa, Phil & Ron 5.1.3. Where do I go ? (Survey deliverable) Thorsten / Stephen - After Town Halls https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/12 Planned Action : Thorsten / Stephen - Writing up previous After Town Hall for final report Planned Action : Arrange After Town Hall to sync with monthly report 24th April - Stephen
+{% embed url="https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/6" %}
 
-Any updates, feedback or suggestions.&#x20;
+&#x20;Planned Action : Creation of a focus group to look at survey - Vanessa, Phil & Ron&#x20;
+
+Survey Design ([15:45](https://youtu.be/STxSKquzaF8?t=945)) (Vanessa, Phil, and Ron)
+
+(screen changed over to [GitBook Audit Circle Meeting 2](https://quality-assurance-dao.gitbook.io/audit-circle/project-management/meetings/audit-circle-meeting-2) at [16:08](https://youtu.be/STxSKquzaF8?t=968))
+
+(screen back to [Audit Circle Meeting #4 GoogleDoc](https://docs.google.com/document/d/1JIUcXq4AfAISkxpBsAN5YTmc0a6i1Z1qy9Ybokd2plM/edit#) at [16:20](https://youtu.be/STxSKquzaF8?t=980))
+
+**Vanessa** (\~[16:30](https://youtu.be/STxSKquzaF8?t=990))&#x20;
+
+Focused on whether they feel confident that they know what information to gather, to make their proposals auditable. So we're looking at what people collect, how they collect it, how they share it, how they store it, and whether they feel confident that they know they're doing the right thing.
+
+We have thrown in a question which we're still working on, on what people think that audit responsibilities ought to be
+
+Anonymity would be best - as Mercy pointed out, people feel nervous about whether they’ll be judged negatively. “We don't want to demand that people tell us which project they're talking about. I think that will be counterproductive.”
+
+We're inviting people to say what the total budget of their project is, and what what their project is trying to achieve
+
+**Vanessa**: …Ron, what do you think?&#x20;
+
+Will put the link into the Discord
 
 ### 5.2 Organizing retrospectives or workshops - 10 Minutes
 
