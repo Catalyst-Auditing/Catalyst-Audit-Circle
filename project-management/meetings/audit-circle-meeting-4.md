@@ -20,6 +20,8 @@ description: 'Scheduled date/time of meeting : 1600 UTC, Thursday, 28th April 20
 | Miroslav Rajh       | Treasury     |
 | Megan               |              |
 
+### Apologies
+
 |                  |                                  |
 | ---------------- | -------------------------------- |
 | Eric Helms       | SCATDAO                          |
