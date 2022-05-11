@@ -264,11 +264,35 @@ Pacific Town Hall might be an option, just not for the next few weeks&#x20;
 
 Should Audit Circle just be observing that just to make a note of that? That “that’s what you’re doing”
 
-## 3 Researching, preparing and presenting a report - 5 minutes
+### 5.3 Final Report
 
-&#x20;https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/28
+{% embed url="https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/28" %}
 
-Planned Action : Prepare template & format for final F7 report Deadline : 9th June 2022
+{% hint style="info" %}
+**Planned Action :** Prepare template & format for final F7 report Deadline : 9th June 2022
+{% endhint %}
+
+&#x20;5.3 Final Report ([33:05](https://youtu.be/STxSKquzaF8?t=1985))
+
+**Stephen**: fill and build out the Final Report, and we’ll fill it out over the next month, so we get it finished by end of June. (17:38)
+
+Creating/writing up the [Audit Circle 1 - Final Report](https://docs.google.com/document/d/12HQPoqDqDtyJDSG9O9IC-wOMI6ck2nh303NMglFfsuM/edit?usp=sharing). Trying to get that filled out over May, to be finished by beginning of June.&#x20;
+
+We are working on Surveys. Data captured by Matthias. Context about what’s going on in the ecosystem, George (could be an informative report). Recommendations and Conclusions, Eric, and could be differing views, Eric.&#x20;
+
+**Eric**: you read my mind. I was just about to ask about a Recommendations section.&#x20;
+
+Impact Auditing vs Progress Auditing (George [35:35](https://youtu.be/STxSKquzaF8?t=2135)), and if you’ve “pivoted” making it clear what you’re delivering for the money you’ve received.&#x20;
+
+Any Recommendations or Conclusions, Eric?
+
+**Eric**: I’d rather wait until the Survey results come back, to give better recommendations. (17:40 = 36:20)
+
+**Stephen**: Between now and then I’ll work on it (Audit Circle 1 - Final Report), and what is the current landscape? We could even refer to things like LIDO Nation and SCAT
+
+Could refer to Vanessa and Ron’s and Phil’s work on surveying the focus groups, and Thorsten and Matthias’ work on more qualitative data.&#x20;
+
+We should do a review of this report in the next or final meeting, and sign it off.
 
 ## 7) Fund 7 Proposal Reporting - 5 Minutes
 
