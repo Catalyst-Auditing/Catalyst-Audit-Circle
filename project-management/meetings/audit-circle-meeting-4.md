@@ -228,9 +228,41 @@ Let’s make it 11th May. Stephen will reach out to Danny; subject of monthly re
 
 ### 5.2 Organizing retrospectives or workshops - 10 Minutes
 
-&#x20;Audit Circle - Office Hours https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/11 Planned Action : Updates on Audit Circle - Office Hours - conversations with Pacific TH or other THs or communities - how this feeds into final report- Matthias Any updates, feedback or suggestions.&#x20;
+5.2 Organizing Retrospective Workshops ([26:03](https://youtu.be/STxSKquzaF8?t=1563))&#x20;
 
-Using Coordinator meetings for retrospectives Planned Action : How to approach and compile information Action from previous meetings : Useful info - the status coord meetings - Stephen to clarify&#x20;
+{% embed url="https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/11" %}
+
+**Stephen**: Office hours w Pacific Town Hall. Matthias?&#x20;
+
+**Matthias**: the last few Pacific Town Halls haven’t been very popular, not very many Funded Proposers. Not sure if we want to keep doing that. Preference to Gimbalabs Playground?&#x20;
+
+**Matthias** has scheduled for June 7th to talk about Reporting, and May 10th a proposal for Matthias’ company.&#x20;
+
+**Stephen**: if Audit Circle is gonna stick around, then Gimbalabs Playground?&#x20;
+
+The purpose of the June 7th meeting would be? Reporting?&#x20;
+
+**Matthias**: Reporting.&#x20;
+
+Having a Form and getting qualitative data through conversation/dialogue is helpful
+
+Pacific Town Hall might be an option, just not for the next few weeks&#x20;
+
+(**Stephen**) Let’s all agree: should we take that? Gimbalabs?&#x20;
+
+**Matthias**: should we reserve the spot? The audience is usually pretty engaged. (29:28)
+
+**Stephen**: is there anything we should be doing at coordinating meetings?&#x20;
+
+**George** (30:12): clarifying what we’re doing at the coordinating meetings. Inviting to talk about auditing at the end? Letting folks know we’ll be around
+
+**Stephen**: also some crossover with the Funded Proposer’s sub-circle, right Vanessa?\
+\
+**Vanessa**: (30:52) We’re gonna try to use the coordinating meetings a bit more. Funded Proposers sub-circle is currently looking at the Proposer’s Guide. So that's what we're trying to get people to talk about. And I think the sort of people who might be interested in that might also be interested in a conversation about auditing. So let’s not divide their attention too much?&#x20;
+
+**Stephen**: what about the relationship between all these different groups? Audit Circle vs Funded Proposers.&#x20;
+
+Should Audit Circle just be observing that just to make a note of that? That “that’s what you’re doing”
 
 ## 3 Researching, preparing and presenting a report - 5 minutes
 
