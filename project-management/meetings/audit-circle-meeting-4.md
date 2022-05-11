@@ -176,17 +176,17 @@ Should we hold another ATH breakout? Should it be about \[??] and WHEN should it
 
 Was another planned Action item to do another After Town Hall to synch with monthly report timings on the 24th&#x20;
 
-Thorsten is writing up for a final report some people’s feelings
+**Thorsten** is writing up for a final report some people’s feelings
 
 Should we hold another After Town Hall? Should it be about the monthly reporting? WHEN should that be? Before the 24th of May.&#x20;
 
 Any more comments about the Survey?&#x20;
 
-Vanessa: don’t need to wait. Making it next week, then reporting is fresh in everyone’s minds.&#x20;
+**Vanessa**: don’t need to wait. Making it next week, then reporting is fresh in everyone’s minds.&#x20;
 
-Ron: we had Danny at the last ATH&#x20;
+**Ron**: we had Danny at the last ATH&#x20;
 
-Ron: will there be any action from it? Maybe engaging more in ATHs could be helpful
+**Ron**: will there be any action from it? Maybe engaging more in ATHs could be helpful
 
 Timing
 
@@ -194,33 +194,33 @@ Ron likes the idea (of another ATH)&#x20;
 
 Last time it was very general
 
-Ron: yes, a lot of people might come. It would be helpful&#x20;
+**Ron**: yes, a lot of people might come. It would be helpful&#x20;
 
 \~18th of May ATH?&#x20;
 
 Also to encourage more Funded Proposals&#x20;
 
-(22:21) Vanessa: do we really need to wait until the 18th? The reporting might be fresher in everyone’s minds if we do it earlier&#x20;
+(22:21) **Vanessa**: do we really need to wait until the 18th? The reporting might be fresher in everyone’s minds if we do it earlier&#x20;
 
-Ron: The data we’re gathering, what are we doing with it (who do we take it to, what changes are happening, can we effect any of the changes going on now?)
+**Ron**: The data we’re gathering, what are we doing with it (who do we take it to, what changes are happening, can we effect any of the changes going on now?)
 
 Danny was in the last After Town Hall; maybe we could (?? connect via Danny with IOG?) and it could lead to something else?&#x20;
 
 Stephen: the timing being earlier might provide an opportunity to engage more with IOG
 
-Stephen: When does voting end?&#x20;
+**Stephen**: When does voting end?&#x20;
 
-Vanessa: 12th?&#x20;
+**Vanessa**: 12th?&#x20;
 
-Matthias: May 5th
+**Matthias**: May 5th
 
-Stephen doesn’t want to overlap with voting, cuz that would split focus/distract.&#x20;
+**Stephen** doesn’t want to overlap with voting, cuz that would split focus/distract.&#x20;
 
 Let’s make it 11th May. Stephen will reach out to Danny; subject of monthly reporting. Anybody else from IOG?&#x20;
 
-Vanessa ([25:07](https://youtu.be/STxSKquzaF8?t=1507)): might this be better in a coordinated meeting? Cuz everyone there is a Funded Proposer
+**Vanessa** ([25:07](https://youtu.be/STxSKquzaF8?t=1507)): might this be better in a coordinated meeting? Cuz everyone there is a Funded Proposer
 
-Stephen: gotta check what’s going on in coordinated meetings, would probably prefer for it to be ATH, to open it up
+**Stephen**: gotta check what’s going on in coordinated meetings, would probably prefer for it to be ATH, to open it up
 
 {% hint style="info" %}
 **Action** - Stephen plans to schedule an ATH for 11th May, to bring IOG in
