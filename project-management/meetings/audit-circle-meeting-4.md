@@ -66,13 +66,25 @@ Tweet/post/share about voting! We’re not going to entirely finish for F7, so w
 
 ## 4) Project Board Review
 
-A quick look at the state of the Audit Circle Project Board. https://github.com/orgs/Catalyst-Auditing/projects/7/views/1
 
-Where we are with deliverables
 
-Action :
+[Project Board](https://github.com/orgs/Catalyst-Auditing/projects/7/views/1) review ([5:13](https://youtu.be/STxSKquzaF8?t=313) toggled screen over to [Audit Circle GitHub Project Board](https://github.com/orgs/Catalyst-Auditing/projects/7/views/1))
 
-Any updates, feedback or suggestions.
+(Eric Helms showed up around 17:09/6 mins into recording)
+
+GitHub Project Board: what we have planned is a Facilitation of a Retrospective, but we’re still not even sure what a “Retrospective” means in the context of what we’re Delivering.&#x20;
+
+To-do: newsletter today (summary of the meeting).&#x20;
+
+In-progress: main Deliverables:&#x20;
+
+* Surveys = Phil, Vanessa, and Ron.&#x20;
+* Gathering Qualitative Data = Matthias.&#x20;
+* Pacific Town Hall = Matthias.&#x20;
+* Audit Circle minutes & notes = Stephen & Megan.&#x20;
+* Add Megan to GitHub?
+* Fund 8 Proposal
+* Slides - done&#x20;
 
 ## 5) Scope & Deliverables of Audit Circle - 25 Minutes
 
