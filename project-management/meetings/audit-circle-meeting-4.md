@@ -4,7 +4,9 @@ description: 'Scheduled date/time of meeting : 1600 UTC, Thursday, 28th April 20
 
 # Audit Circle Meeting #4
 
-## Recording Placeholder
+{% embed url="https://youtu.be/STxSKquzaF8" %}
+Audit Circle Meeting #4 - YouTube Recording
+{% endembed %}
 
 ## Attendees:
 
@@ -34,9 +36,9 @@ description: 'Scheduled date/time of meeting : 1600 UTC, Thursday, 28th April 20
 
 **F7 Ideascale Proposal** - [https://cardano.ideascale.com/c/idea/381354](https://cardano.ideascale.com/c/idea/381354)
 
-**F8 Ideascale Proposal** - https://cardano.ideascale.com/c/idea/399163
+**F8 Ideascale Proposal** - h[ttps://cardano.ideascale.com/c/idea/399163](ttps://cardano.ideascale.com/c/idea/399163)
 
-**GitBook** - https://quality-assurance-dao.gitbook.io/catalyst-audit-circle/
+**GitBook** - [https://quality-assurance-dao.gitbook.io/catalyst-audit-circle/](https://quality-assurance-dao.gitbook.io/catalyst-audit-circle/)
 
 ## Agenda
 

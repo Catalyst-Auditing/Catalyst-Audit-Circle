@@ -5,6 +5,8 @@ description: 'Scheduled date/time of meeting : 1600 UTC, Thursday, 17th March 20
 # Audit Circle Meeting #2
 
 {% embed url="https://youtu.be/oWgrf0gnaxA" %}
+Audit Circle Meeting #2 - YouTube Recording
+{% endembed %}
 
 ## Attendees:
 
@@ -33,9 +35,9 @@ description: 'Scheduled date/time of meeting : 1600 UTC, Thursday, 17th March 20
 
 **F7 Ideascale Proposa**l - [https://cardano.ideascale.com/c/idea/381354](https://cardano.ideascale.com/c/idea/381354)
 
-**F8 Ideascale Proposal** - https://cardano.ideascale.com/c/idea/399163
+**F8 Ideascale Proposal** - [https://cardano.ideascale.com/c/idea/399163](https://cardano.ideascale.com/c/idea/399163)
 
-**GitBook** - https://quality-assurance-dao.gitbook.io/catalyst-audit-circle/
+**GitBook** - [https://quality-assurance-dao.gitbook.io/catalyst-audit-circle/](https://quality-assurance-dao.gitbook.io/catalyst-audit-circle/)
 
 ## Agenda
 

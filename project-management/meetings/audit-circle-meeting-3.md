@@ -5,6 +5,8 @@ description: 'Scheduled date/time of meeting : 1600 UTC, Thursday, 14th April 20
 # Audit Circle Meeting #3
 
 {% embed url="https://youtu.be/rwibnaJ0xOc" %}
+Audit Circle Meeting #3 - YouTube Recording
+{% endembed %}
 
 ## Attendees:
 
@@ -34,13 +36,13 @@ description: 'Scheduled date/time of meeting : 1600 UTC, Thursday, 14th April 20
 
 **F7 Ideascale Proposal** - [https://cardano.ideascale.com/c/idea/381354](https://cardano.ideascale.com/c/idea/381354)
 
-**F8 Ideascale Proposal** - https://cardano.ideascale.com/c/idea/399163
+**F8 Ideascale Proposal** - [https://cardano.ideascale.com/c/idea/399163](https://cardano.ideascale.com/c/idea/399163)
 
-**GitBook** - https://quality-assurance-dao.gitbook.io/catalyst-audit-circle/
+**GitBook** - [https://quality-assurance-dao.gitbook.io/catalyst-audit-circle/](https://quality-assurance-dao.gitbook.io/catalyst-audit-circle/)
 
 ## Agenda
 
-**Previous Meeting minutes :** https://quality-assurance-dao.gitbook.io/audit-circle/project-management/meetings/audit-circle-meeting-2
+**Previous Meeting minutes :** [https://quality-assurance-dao.gitbook.io/audit-circle/project-management/meetings/audit-circle-meeting-2](https://quality-assurance-dao.gitbook.io/audit-circle/project-management/meetings/audit-circle-meeting-2)
 
 ## Updates
 
@@ -211,17 +213,25 @@ This is a functional type of survey that asks -
 
 **Vanessa** - 22:31 - Scope is how funded proposers audit their projects.&#x20;
 
+{% hint style="info" %}
+**Planned Action :** Creation of a focus group to look at survey - Vanessa, Phil & Ron
+{% endhint %}
+
 ### **6.1.3 - Where do I go ? (Survey deliverable)**
 
 Action from previous meetings : How to catch needs & expectations
 
-Thorsten / Stephen - After Town Halls
+{% hint style="info" %}
+**Planned Action :** Thorsten / Stephen - Writing up previous After Town Hall for final report
+{% endhint %}
 
 {% hint style="info" %}
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/56](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/56)
 {% endhint %}
 
-Any updates, feedback or suggestions.
+{% hint style="info" %}
+**Planned Action :** Arrange After Town Hall to sync with monthly report 24th April - Stephen&#x20;
+{% endhint %}
 
 ### 6.2 - Organizing retrospectives or workshops - 10 Minutes
 
@@ -231,15 +241,17 @@ Any updates, feedback or suggestions.
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/60](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/60)
 {% endhint %}
 
-Planned Action : Audit Circle - Office Hours - conversation with Pacific TH or other THs or communities - Matthias
-
-Action - Start next week PTH - Matt - talk to Nori
+{% hint style="info" %}
+**Planned Action :** Updates on Audit Circle - Office Hours - conversations with Pacific TH or other THs or communities - how this feeds into final report-  Matthias
+{% endhint %}
 
 Any updates, feedback or suggestions.
 
 ### 6.2.2 - **Using Coordinator meetings for retrospectives**
 
-Planned Action : How to approach and compile information
+{% hint style="info" %}
+**Planned Action :** How to approach and compile information
+{% endhint %}
 
 Action from previous meetings : Useful info - the status coord meetings - Stephen to clarify
 
@@ -259,9 +271,9 @@ Action from previous meetings : Useful info - the status coord meetings - Stephe
 
 All members - The second monthly report will be due on 24th April 2022 ([https://quality-assurance-dao.gitbook.io/audit-circle/proposal-reporting/fund-7-proposal/f7-monthly-reports](https://quality-assurance-dao.gitbook.io/audit-circle/proposal-reporting/fund-7-proposal/f7-monthly-reports))
 
-Action :
-
-Any feedback, suggestions.
+{% hint style="info" %}
+A**ction :** Submit Monthly Report for F7 Audit Circle proposal - Stephen&#x20;
+{% endhint %}
 
 ## 8) Any Other Business - 5 Minutes
 
@@ -269,7 +281,9 @@ Any feedback, suggestions.
 
 [https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/57](https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/57)
 
-Action : Suggest summary of this meeting for Daniel Ribar’s weekly newsletter.
+{% hint style="info" %}
+**Action :** Suggest summary of this meeting for Daniel Ribar’s weekly newsletter. - All
+{% endhint %}
 
 #### Over run time - 5 minutes
 

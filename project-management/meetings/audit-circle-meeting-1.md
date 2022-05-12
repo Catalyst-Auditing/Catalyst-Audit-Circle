@@ -35,15 +35,15 @@ Audit Circle Meeting #1 - YouTube Recording
 
 **F7 Ideascale Proposa**l - [https://cardano.ideascale.com/c/idea/381354](https://cardano.ideascale.com/c/idea/381354)
 
-**F8 Ideascale Proposal** - https://cardano.ideascale.com/c/idea/399163
+**F8 Ideascale Proposal** - [https://cardano.ideascale.com/c/idea/399163](https://cardano.ideascale.com/c/idea/399163)
 
-**GitBook** - https://quality-assurance-dao.gitbook.io/catalyst-audit-circle/
+**GitBook** - [https://quality-assurance-dao.gitbook.io/catalyst-audit-circle/](https://quality-assurance-dao.gitbook.io/catalyst-audit-circle/)
 
 ## Agenda
 
 ## 1) Audit Circle Treasury
 
-Andre & Mirolav - updates on Treasury setup, member payments, costs & expenses.- 5 minutes
+Andre & Miroslav - updates on Treasury setup, member payments, costs & expenses.- 5 minutes
 
 ## 2) Meeting Times
 
