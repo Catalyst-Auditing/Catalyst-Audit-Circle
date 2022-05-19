@@ -80,14 +80,31 @@ George would rather wait and analyze a bit.
 
 ## Town Hall Slides
 
-&#x20;(9:46)&#x20;
+(9:46)&#x20;
 
 Ron We did the slides and tried to draw attention to the Survey that we had. (screen share to Catalyst Audit Circle 5 Town Hall Presentation slides) Ron sent a message to Danny, hoping to get this onto IdeaScale and onto the Catalyst announcement channel. (screen share to GitHub.com/projects/7/views/1 at 10:30; back to Google Docs notes 10:31)
 
-Ron: Does anyone else want to do it next time? I don’t have to do it each time. “You’re doing great” Matthias would like to see more diversity, noticed all the faces at Town Hall yesterday (30:04 of Town Hall recording): would like to put Vanessa on the spot, if she’s up for it Vanessa doesn’t want to be “tokenized”. It’s not that she’s not up for it. Ron did it very well. Stephen encourages others to do it, to get the feel for what it’s like and how it feels; welcomes new participation to “mix it up” 3) Fund 8 - Audit Circle F8 Proposal - 5 Minutes (12:31) Depends on whether we get funded for Fund8. Votes should come in tomorrow. Let’s wait and see whether Audit Circle gets funded for Fund8.
+Ron: Does anyone else want to do it next time? I don’t have to do it each time. “You’re doing great”&#x20;
 
-1. Project Board Review (13:18) (screen share back over to GitHub/orgs/Catalyst-Auditing/ at 13:28) To-Do: newsletter. If you have anything to put in, let us know. In-Progress: Pacific Town Hall office hours, Proposal, Survey Design, Gathering Qualitative Data Completed: Town Hall slides, and the last newsletter (screen share back to Audit Circle Meeting #5 at 14:31)
-2. Scope & Deliverables of Audit Circle - 25 Minutes (14:31) 5.1.1 Qualitative data gathering (Survey deliverable) Matthias linked the recording to the GitHub issue, did an analysis. His reactions would be biased, so he needs someone else to look at the recording and see what was being said” Vanessa: “how long is that meeting?” Matthias: The whole Gimbalabs Playground session was about 1h30m; it was about 80 minutes Vanessa might have a look, from the QA-DAO transcription service. Did it feel like an important meeting that should be transcribed and shared more widely? Matthias Yes. Will link to the Miro Board that was used Vanessa will do that early next week (16-20 May) Stephen: let’s do some documentation of that. That’ll help feed into what we’re working on, of Qualitative Data, for Fund7.
+Matthias would like to see more diversity, noticed all the faces at Town Hall yesterday (30:04 of Town Hall recording): would like to put Vanessa on the spot, if she’s up for it Vanessa doesn’t want to be “tokenized”. It’s not that she’s not up for it. Ron did it very well.&#x20;
+
+Stephen encourages others to do it, to get the feel for what it’s like and how it feels; welcomes new participation to “mix it up”&#x20;
+
+## Fund 8 - Audit Circle F8 Proposal
+
+&#x20;5 Minutes (12:31)&#x20;
+
+Depends on whether we get funded for Fund8. Votes should come in tomorrow. Let’s wait and see whether Audit Circle gets funded for Fund8.
+
+## Project Board Review
+
+&#x20;(13:18) (screen share back over to GitHub/orgs/Catalyst-Auditing/ at 13:28) To-Do: newsletter. If you have anything to put in, let us know. In-Progress: Pacific Town Hall office hours, Proposal, Survey Design, Gathering Qualitative Data Completed: Town Hall slides, and the last newsletter (screen share back to Audit Circle Meeting #5 at 14:31)
+
+## Scope & Deliverables of Audit Circle
+
+\- 25 Minutes (14:31)&#x20;
+
+5.1.1 Qualitative data gathering (Survey deliverable) Matthias linked the recording to the GitHub issue, did an analysis. His reactions would be biased, so he needs someone else to look at the recording and see what was being said” Vanessa: “how long is that meeting?” Matthias: The whole Gimbalabs Playground session was about 1h30m; it was about 80 minutes Vanessa might have a look, from the QA-DAO transcription service. Did it feel like an important meeting that should be transcribed and shared more widely? Matthias Yes. Will link to the Miro Board that was used Vanessa will do that early next week (16-20 May) Stephen: let’s do some documentation of that. That’ll help feed into what we’re working on, of Qualitative Data, for Fund7.
 
 5.1.2 Google Form Design & Implementation (Survey deliverable) (17:58) Vanessa, Phil, Ron. Updates? V: we did it, it’s out, Ron launched it last night (Weds 11 May). Vanessa has posted it all over the Catalyst Telegram and Discord. Can other people post it too? We’ll probably also need to do a re-post in about a week We’ve only had 8 responses so far. The process of putting it together was alright. Let’s wait and see what kind of results we get. Will it be us 3 that analyze it also when the results come in?
 
