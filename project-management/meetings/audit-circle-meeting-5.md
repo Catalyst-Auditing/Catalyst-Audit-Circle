@@ -38,25 +38,51 @@ Audit Circle Meeting #5 - YouTube Recording
 
 
 
-In attendance: Stephen Whitenstall QA-DAO, Thorsten Pottenbaum, Miro, Phil Khoo, Andre Diamond, Ron Hill, George Lovegrove, Matthias Sieber, Vanessa Cardui QA-DAO
+## Audit Circle Treasury
 
-Screen sharing to Stephen’s “Audit Circle Meeting #5” notes began 00:24
+&#x20;(0:45)&#x20;
 
-1. Audit Circle Treasury (0:45) Andre & Miroslav, updates? Andre: Only 1 payment from IOG still has to come in. \~$4,233 USD. We still need to pay this group, and that payment will be $4,000. After we pay Megan and Ron, there’s ±2,000 ADA left for Deliverables, plus $230.
+Updates from Andre & Miroslav
 
-Concerns about market exchange rates for ADA (Stephen) We don’t usually spend much time on Treasury, but, given what’s going on in the markets, we should. The decision we had made previously was to hold on to the ADA, as ADA, in the wallet, and to wait until we had come to the closing of the project (Eric joined 1:59), then to have a final meeting and divide it up – what we should pay all of us between us, what we between us equally – but the market value of ADA is going down, so how would the group like to proceed? We could pay each other now (option 1), we could hold on to it, with the potential of it going down even further (option 2). We don’t have the option of putting it into a Stablecoin; we’re not set up for that. Phil: and that last payment will come when we do our Close-Out Report, right? Unrelated Andre & Miro (treasury) confirmed, yes. Stephen: that’s still a month away, and we don’t know what the market will do. We do have some ADA left, right, Andre? Andre: yes, 2,750 ADA left in the wallet. Phil: what was that meant to pay for? Stephen: for “Regular Costs,” which are to pay Megan for notes/“minutes” and Ron for the Town Hall slides. Everything else is for Deliverables. We could account for that, cuz we know when we’re gonna pay Megan and Ron. We could pay that in advance? We could also pay out all the remainder to each other as well.
+**Andre**: Only 1 payment from IOG still has to come in. \~$4,233 USD. We still need to pay this group, and that payment will be $4,000. After we pay Megan and Ron, there’s ±2,000 ADA left for Deliverables, plus $230.
 
-Miro: we have to pay attention to the exchange rate. Had been $0.91, today it’s less than half that. ADA can drop considerably between when IOG sends the ADA and when we pay members for work.
+### Concerns about market exchange rates for ADA&#x20;
 
-Vanessa: is the payment that’s still to come the payment that’s conditional upon us doing a report? Stephen: yes. Vanessa: we won’t be writing the Report for well over a month, and who knows where the market price of ADA will be then
+**Stephen** - We don’t usually spend much time on Treasury, but, given what’s going on in the markets, we should. The decision we had made previously was to hold on to the ADA, as ADA, in the wallet, and to wait until we had come to the closing of the project, then to have a final meeting and divide it up – what we should pay all of us between us, what we between us equally – but the market value of ADA is going down, so how would the group like to proceed? We could pay each other now (option 1), we could hold on to it, with the potential of it going down even further (option 2). We don’t have the option of putting it into a Stablecoin; we’re not set up for that.&#x20;
 
-Phil: (5:27) that’ll be in USD equivalent, so that doesn’t matter, that payment. Stephen: let’s vote or discuss in Discord how to proceed regarding payout. How to pay out or divide the remainder among everyone.
+**Phil**: and that last payment will come when we do our Close-Out Report, right? Unrelated Andre & Miro (treasury) confirmed, yes.&#x20;
 
-Phil: Andre was motioning to distribute the rest now. Andre: yes. The last IOG payment can go straight to meeting attendance, then there will be \~$230 left. We can distribute it now, share the $2,000, keep the $750 for the meeting minutes and Town Hall slides. Stephen: we don’t know where the price is going to go, due to the prices going down. We’re gonna lose regardless. Phil: does anyone dissent to paying it out now? Take a vote, regarding dividing the $2,000 we have remaining among our wallets? George would rather wait and analyze a bit.
+**Stephen**: that’s still a month away, and we don’t know what the market will do. We do have some ADA left, right, Andre?&#x20;
 
-Stephen: Theoretically it was supposed to be for Deliverables, but there’s a sense of urgency right now (given the market price). Let’s take a vote as soon as possible, to pay out as soon as possible.
+**Andre**: yes, 2,750 ADA left in the wallet.&#x20;
 
-1. Town Hall Slides (9:46) Ron We did the slides and tried to draw attention to the Survey that we had. (screen share to Catalyst Audit Circle 5 Town Hall Presentation slides) Ron sent a message to Danny, hoping to get this onto IdeaScale and onto the Catalyst announcement channel. (screen share to GitHub.com/projects/7/views/1 at 10:30; back to Google Docs notes 10:31)
+**Phil**: what was that meant to pay for?&#x20;
+
+**Stephen**: for “Regular Costs,” which are to pay Megan for notes/“minutes” and Ron for the Town Hall slides. Everything else is for Deliverables. We could account for that, cuz we know when we’re gonna pay Megan and Ron. We could pay that in advance? We could also pay out all the remainder to each other as well.
+
+**Miro**: we have to pay attention to the exchange rate. Had been $0.91, today it’s less than half that. ADA can drop considerably between when IOG sends the ADA and when we pay members for work.
+
+**Vanessa**: is the payment that’s still to come the payment that’s conditional upon us doing a report? Stephen: yes. Vanessa: we won’t be writing the Report for well over a month, and who knows where the market price of ADA will be then
+
+**Phil**: (5:27) that’ll be in USD equivalent, so that doesn’t matter, that payment.&#x20;
+
+**Stephen**: let’s vote or discuss in Discord how to proceed regarding payout. How to pay out or divide the remainder among everyone.
+
+**Phil**: Andre was motioning to distribute the rest now.&#x20;
+
+**Andre**: yes. The last IOG payment can go straight to meeting attendance, then there will be \~$230 left. We can distribute it now, share the $2,000, keep the $750 for the meeting minutes and Town Hall slides.&#x20;
+
+**Stephen**: we don’t know where the price is going to go, due to the prices going down. We’re gonna lose regardless. Phil: does anyone dissent to paying it out now? Take a vote, regarding dividing the $2,000 we have remaining among our wallets?&#x20;
+
+George would rather wait and analyze a bit.
+
+**Stephen**: Theoretically it was supposed to be for Deliverables, but there’s a sense of urgency right now (given the market price). Let’s take a vote as soon as possible, to pay out as soon as possible.
+
+## Town Hall Slides
+
+&#x20;(9:46)&#x20;
+
+Ron We did the slides and tried to draw attention to the Survey that we had. (screen share to Catalyst Audit Circle 5 Town Hall Presentation slides) Ron sent a message to Danny, hoping to get this onto IdeaScale and onto the Catalyst announcement channel. (screen share to GitHub.com/projects/7/views/1 at 10:30; back to Google Docs notes 10:31)
 
 Ron: Does anyone else want to do it next time? I don’t have to do it each time. “You’re doing great” Matthias would like to see more diversity, noticed all the faces at Town Hall yesterday (30:04 of Town Hall recording): would like to put Vanessa on the spot, if she’s up for it Vanessa doesn’t want to be “tokenized”. It’s not that she’s not up for it. Ron did it very well. Stephen encourages others to do it, to get the feel for what it’s like and how it feels; welcomes new participation to “mix it up” 3) Fund 8 - Audit Circle F8 Proposal - 5 Minutes (12:31) Depends on whether we get funded for Fund8. Votes should come in tomorrow. Let’s wait and see whether Audit Circle gets funded for Fund8.
 
