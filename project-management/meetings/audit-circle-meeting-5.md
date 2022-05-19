@@ -104,32 +104,92 @@ Depends on whether we get funded for Fund8. Votes should come in tomorrow. Let�
 
 \- 25 Minutes (14:31)&#x20;
 
-5.1.1 Qualitative data gathering (Survey deliverable) Matthias linked the recording to the GitHub issue, did an analysis. His reactions would be biased, so he needs someone else to look at the recording and see what was being said” Vanessa: “how long is that meeting?” Matthias: The whole Gimbalabs Playground session was about 1h30m; it was about 80 minutes Vanessa might have a look, from the QA-DAO transcription service. Did it feel like an important meeting that should be transcribed and shared more widely? Matthias Yes. Will link to the Miro Board that was used Vanessa will do that early next week (16-20 May) Stephen: let’s do some documentation of that. That’ll help feed into what we’re working on, of Qualitative Data, for Fund7.
+### Qualitative data gathering (Survey deliverable)&#x20;
 
-5.1.2 Google Form Design & Implementation (Survey deliverable) (17:58) Vanessa, Phil, Ron. Updates? V: we did it, it’s out, Ron launched it last night (Weds 11 May). Vanessa has posted it all over the Catalyst Telegram and Discord. Can other people post it too? We’ll probably also need to do a re-post in about a week We’ve only had 8 responses so far. The process of putting it together was alright. Let’s wait and see what kind of results we get. Will it be us 3 that analyze it also when the results come in?
+**Matthias** linked the recording to the GitHub issue, did an analysis. His reactions would be biased, so he needs someone else to look at the recording and see what was being said”&#x20;
 
-Phil: what was the close date we put on that? May 29th was the close date Phil: we might need to have a special interim meeting Stephen: wait until the results are in? To look at the data? Thorsten: both. Phil: last Fund, did a funded-voter survey to 4,000 Japanese ADA holders, and only got 100 replies. And that was incentivized! Vanessa: all the places (Coordinator, Funded Proposer meetings) that the Survey is being mentioned. “Proof of Life” is for people who have never been funded before Confusion about potential parameter changes regarding Challenge Teams requirements for Proof of Life (still in 5.1.2) (Phil) Did you post it to the Proposer Telegram chat? Stephen: Bring it up in any meetings where there’s going to be Funded Proposers (Stephen) Any other thoughts or feelings?
+**Vanessa**: “how long is that meeting?”&#x20;
 
-Moving on to 5.1.3. 5.1.3. Where do I go ? (Survey deliverable) Originally posted by Joe, “where do I go” Stephen would like to do another ATH Thorsten: 18th ATH might work Stephen: last time we kept it quite open. Should we focus in this time? Like potentially focus on the monthly report? Thorsten: Ron: survey question 9 or 10, the checklist of what’s mandatory or useful, might be a valuable point for an After Town Hall. Stephen: “what should be mandatory?”
+**Matthias**: The whole Gimbalabs Playground session was about 1h30m; it was about 80 minutes Vanessa might have a look, from the QA-DAO transcription service. Did it feel like an important meeting that should be transcribed and shared more widely?&#x20;
 
-Stephen (29:01) Should we refer to the Survey, and use the questions asked there as possible ways to frame the After Town Hall discussion? Thorsten: Challenge Teams, what are they good for? Help without accountability? Ron’s idea: referring to the Survey as a framing device
+**Matthias** Yes. Will link to the Miro Board that was used Vanessa will do that early next week (16-20 May)&#x20;
 
-Thorsten (31:20) potential that people might rant about certain things again, therefore he’d rather have a more concrete Proposal Vanessa (32:07) the Survey gets more the Proposer’s view on Audit; maybe have the After Town Hall the community wants to know what projects are doing (Proposer’s perspective vs community perspective). If we focus it too much around the Survey then we’re getting the same views. Vanessa: conundrum, of people wanting to know how to hold Proposers to account, “how do we audit it?” The Survey looks at monitoring and evaluation Phil: “Proposal Reporting: Proposal and Community”
+**Stephen**: let’s do some documentation of that. That’ll help feed into what we’re working on, of Qualitative Data, for Fund7.
 
-Stephen: “Maybe we should be looking for something more solution-based” Matthias: during Gimbalabs, discussion about updating the community
+### Google Form Design & Implementation (Survey deliverable)
+
+(17:58) Vanessa, Phil, Ron. Updates
+
+**Vanessa**: we did it, it’s out, Ron launched it last night (Weds 11 May). Vanessa has posted it all over the Catalyst Telegram and Discord. Can other people post it too? We’ll probably also need to do a re-post in about a week We’ve only had 8 responses so far. The process of putting it together was alright. Let’s wait and see what kind of results we get. Will it be us 3 that analyze it also when the results come in?
+
+Phil: what was the close date we put on that? May 29th was the close date&#x20;
+
+Phil: we might need to have a special interim meeting&#x20;
+
+Stephen: wait until the results are in? To look at the data?&#x20;
+
+Thorsten: both.&#x20;
+
+Phil: last Fund, did a funded-voter survey to 4,000 Japanese ADA holders, and only got 100 replies. And that was incentivized!&#x20;
+
+Vanessa: all the places (Coordinator, Funded Proposer meetings) that the Survey is being mentioned. “Proof of Life” is for people who have never been funded before Confusion about potential parameter changes regarding Challenge Teams requirements for Proof of Life (still in 5.1.2) (Phil) Did you post it to the Proposer Telegram chat? Stephen: Bring it up in any meetings where there’s going to be Funded Proposers (Stephen) Any other thoughts or feelings?
+
+Moving on to 5.1.3.&#x20;
+
+5.1.3. Where do I go ? (Survey deliverable)
+
+&#x20;Originally posted by Joe, “where do I go” Stephen would like to do another ATH&#x20;
+
+Thorsten: 18th ATH might work Stephen: last time we kept it quite open. Should we focus in this time? Like potentially focus on the monthly report?&#x20;
+
+Thorsten: Ron: survey question 9 or 10, the checklist of what’s mandatory or useful, might be a valuable point for an After Town Hall.&#x20;
+
+Stephen: “what should be mandatory?”
+
+Stephen (29:01) Should we refer to the Survey, and use the questions asked there as possible ways to frame the After Town Hall discussion?&#x20;
+
+Thorsten: Challenge Teams, what are they good for? Help without accountability?&#x20;
+
+Ron’s idea: referring to the Survey as a framing device
+
+Thorsten (31:20) potential that people might rant about certain things again, therefore he’d rather have a more concrete Proposal&#x20;
+
+Vanessa (32:07) the Survey gets more the Proposer’s view on Audit; maybe have the After Town Hall the community wants to know what projects are doing (Proposer’s perspective vs community perspective). If we focus it too much around the Survey then we’re getting the same views.&#x20;
+
+Vanessa: conundrum, of people wanting to know how to hold Proposers to account, “how do we audit it?” The Survey looks at monitoring and evaluation Phil: “Proposal Reporting: Proposal and Community”
+
+Stephen: “Maybe we should be looking for something more solution-based”&#x20;
+
+Matthias: during Gimbalabs, discussion about updating the community
 
 Vanessa: backtrack to Survey (5.1.2.): there’s an internal and an external survey. Google Form is an External Survey, Internal is like Matthias’ Qualitative Data, problem-sensing. Would like a Focus-Group or something to send to IOG. Could we talk about this further, Matthias?
 
 (revisiting Item 5.1.3 for the Survey)
 
-Thorsten: when you figure out when you’re gonna chat, could you put it on Discord, so folks could join that might be interested Stephen: maybe schedule a meeting with IOG? Focus-Group meeting with pre-briefing. It’s not really relevant to Harris, cuz he’s more into governance. TK, Marek, Danny, Kriss, Khalid
+Thorsten: when you figure out when you’re gonna chat, could you put it on Discord, so folks could join that might be interested&#x20;
+
+Stephen: maybe schedule a meeting with IOG? Focus-Group meeting with pre-briefing. It’s not really relevant to Harris, cuz he’s more into governance. TK, Marek, Danny, Kriss, Khalid
 
 Stephen: what about timing? After the survey? Vanessa: we need to collate it in with the report, so what about the last week of the survey? Week of the 23rd. Stephen put that as an Action
 
-On to item 2 Organizing Retrospectives or Workshops 5.2 Organizing retrospectives or workshops (40:57) Kind of a repetition of Gimbalabs Playground. Oops, this was an error in the Agenda.
+On to item&#x20;
 
-5.3 Researching, preparing and presenting a report (41:28) How to coordinate who does what: owners? Who works together? Do we want to do \[teams Stephen said]. Yes, teams.\
-Action: Postpone meeting 6 for Final Report Stephen: don’t want the meeting to clash with Community Governance Oversight meeting. Postpone to 9th June 2022 Postponing so we have time to “digest” the Survey results, to prepare Matthias: Qualitative stuff, can be helped by Stephen. Stephen and Thorsten on \[??]. Ron, Phil, Vanessa: Survey Results
+2 Organizing Retrospectives or Workshops
+
+&#x20;5.2 Organizing retrospectives or workshops (40:57)&#x20;
+
+Kind of a repetition of Gimbalabs Playground. Oops, this was an error in the Agenda.
+
+5.3 Researching, preparing and presenting a report (41:28)&#x20;
+
+How to coordinate who does what: owners? Who works together? Do we want to do \[teams Stephen said]. Yes, teams.
+
+\
+Action: Postpone meeting 6 for Final Report&#x20;
+
+Stephen: don’t want the meeting to clash with Community Governance Oversight meeting. Postpone to 9th June 2022 Postponing so we have time to “digest” the Survey results, to prepare&#x20;
+
+Matthias: Qualitative stuff, can be helped by Stephen. Stephen and Thorsten on \[??]. Ron, Phil, Vanessa: Survey Results
 
 On the final meeting will be a review of the Final Report, and the Survey Results
 
