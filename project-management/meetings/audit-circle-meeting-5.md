@@ -82,13 +82,13 @@ George would rather wait and analyze a bit.
 
 (9:46)&#x20;
 
-Ron We did the slides and tried to draw attention to the Survey that we had. (screen share to Catalyst Audit Circle 5 Town Hall Presentation slides) Ron sent a message to Danny, hoping to get this onto IdeaScale and onto the Catalyst announcement channel. (screen share to GitHub.com/projects/7/views/1 at 10:30; back to Google Docs notes 10:31)
+**Ron** We did the slides and tried to draw attention to the Survey that we had. (screen share to Catalyst Audit Circle 5 Town Hall Presentation slides) Ron sent a message to Danny, hoping to get this onto IdeaScale and onto the Catalyst announcement channel. (screen share to GitHub.com/projects/7/views/1 at 10:30; back to Google Docs notes 10:31)
 
-Ron: Does anyone else want to do it next time? I don’t have to do it each time. “You’re doing great”&#x20;
+**Ron**: Does anyone else want to do it next time? I don’t have to do it each time. “You’re doing great”&#x20;
 
-Matthias would like to see more diversity, noticed all the faces at Town Hall yesterday (30:04 of Town Hall recording): would like to put Vanessa on the spot, if she’s up for it Vanessa doesn’t want to be “tokenized”. It’s not that she’s not up for it. Ron did it very well.&#x20;
+**Matthias** would like to see more diversity, noticed all the faces at Town Hall yesterday (30:04 of Town Hall recording): would like to put Vanessa on the spot, if she’s up for it **Vanessa** doesn’t want to be “tokenized”. It’s not that she’s not up for it. Ron did it very well.&#x20;
 
-Stephen encourages others to do it, to get the feel for what it’s like and how it feels; welcomes new participation to “mix it up”&#x20;
+**Stephen** encourages others to do it, to get the feel for what it’s like and how it feels; welcomes new participation to “mix it up”&#x20;
 
 ## Fund 8 - Audit Circle F8 Proposal
 
@@ -98,11 +98,15 @@ Depends on whether we get funded for Fund8. Votes should come in tomorrow. Let�
 
 ## Project Board Review
 
-&#x20;(13:18) (screen share back over to GitHub/orgs/Catalyst-Auditing/ at 13:28) To-Do: newsletter. If you have anything to put in, let us know. In-Progress: Pacific Town Hall office hours, Proposal, Survey Design, Gathering Qualitative Data Completed: Town Hall slides, and the last newsletter (screen share back to Audit Circle Meeting #5 at 14:31)
+&#x20;(13:18) (screen share back over to GitHub/orgs/Catalyst-Auditing/ at 13:28)&#x20;
+
+To-Do: newsletter. If you have anything to put in, let us know.&#x20;
+
+In-Progress: Pacific Town Hall office hours, Proposal, Survey Design, Gathering Qualitative Data Completed: Town Hall slides, and the last newsletter (screen share back to Audit Circle Meeting #5 at 14:31)
 
 ## Scope & Deliverables of Audit Circle
 
-\- 25 Minutes (14:31)&#x20;
+25 Minutes (14:31)&#x20;
 
 ### Qualitative data gathering (Survey deliverable)&#x20;
 
@@ -122,33 +126,37 @@ Depends on whether we get funded for Fund8. Votes should come in tomorrow. Let�
 
 **Vanessa**: we did it, it’s out, Ron launched it last night (Weds 11 May). Vanessa has posted it all over the Catalyst Telegram and Discord. Can other people post it too? We’ll probably also need to do a re-post in about a week We’ve only had 8 responses so far. The process of putting it together was alright. Let’s wait and see what kind of results we get. Will it be us 3 that analyze it also when the results come in?
 
-Phil: what was the close date we put on that? May 29th was the close date&#x20;
+**Phil**: what was the close date we put on that? May 29th was the close date&#x20;
 
-Phil: we might need to have a special interim meeting&#x20;
+**Phil**: we might need to have a special interim meeting&#x20;
 
-Stephen: wait until the results are in? To look at the data?&#x20;
+**Stephen**: wait until the results are in? To look at the data?&#x20;
 
-Thorsten: both.&#x20;
+**Thorsten**: both.&#x20;
 
-Phil: last Fund, did a funded-voter survey to 4,000 Japanese ADA holders, and only got 100 replies. And that was incentivized!&#x20;
+**Phil**: last Fund, did a funded-voter survey to 4,000 Japanese ADA holders, and only got 100 replies. And that was incentivized!&#x20;
 
-Vanessa: all the places (Coordinator, Funded Proposer meetings) that the Survey is being mentioned. “Proof of Life” is for people who have never been funded before Confusion about potential parameter changes regarding Challenge Teams requirements for Proof of Life (still in 5.1.2) (Phil) Did you post it to the Proposer Telegram chat? Stephen: Bring it up in any meetings where there’s going to be Funded Proposers (Stephen) Any other thoughts or feelings?
+Vanessa: all the places (Coordinator, Funded Proposer meetings) that the Survey is being mentioned. “Proof of Life” is for people who have never been funded before Confusion about potential parameter changes regarding Challenge Teams requirements for Proof of Life (still in 5.1.2)&#x20;
+
+**Phil** Did you post it to the Proposer Telegram chat?&#x20;
+
+**Stephen**: Bring it up in any meetings where there’s going to be Funded Proposers (Stephen) Any other thoughts or feelings?
 
 Moving on to 5.1.3.&#x20;
 
-5.1.3. Where do I go ? (Survey deliverable)
+### 5.1.3. Where do I go ? (Survey deliverable)
 
-&#x20;Originally posted by Joe, “where do I go” Stephen would like to do another ATH&#x20;
+Originally posted by Jo, “where do I go” Stephen would like to do another ATH&#x20;
 
-Thorsten: 18th ATH might work Stephen: last time we kept it quite open. Should we focus in this time? Like potentially focus on the monthly report?&#x20;
+**Thorsten**: 18th ATH might work Stephen: last time we kept it quite open. Should we focus in this time? Like potentially focus on the monthly report?&#x20;
 
-Thorsten: Ron: survey question 9 or 10, the checklist of what’s mandatory or useful, might be a valuable point for an After Town Hall.&#x20;
+**Thorsten**: Ron: survey question 9 or 10, the checklist of what’s mandatory or useful, might be a valuable point for an After Town Hall.&#x20;
 
-Stephen: “what should be mandatory?”
+**Stephen**: “what should be mandatory?”
 
-Stephen (29:01) Should we refer to the Survey, and use the questions asked there as possible ways to frame the After Town Hall discussion?&#x20;
+**Stephen** (29:01) Should we refer to the Survey, and use the questions asked there as possible ways to frame the After Town Hall discussion?&#x20;
 
-Thorsten: Challenge Teams, what are they good for? Help without accountability?&#x20;
+**Thorsten**: Challenge Teams, what are they good for? Help without accountability?&#x20;
 
 Ron’s idea: referring to the Survey as a framing device
 
