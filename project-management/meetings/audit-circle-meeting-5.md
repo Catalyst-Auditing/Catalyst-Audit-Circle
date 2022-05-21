@@ -1,5 +1,5 @@
 ---
-description: 'Scheduled date/time of meeting : 1600 UTC, Thursday, 12th May 2022'''
+description: 'Scheduled date/time of meeting : 1600 UTC, Thursday, 12th May 2022'
 ---
 
 # Audit Circle Meeting #5
@@ -102,7 +102,9 @@ Depends on whether we get funded for Fund8. Votes should come in tomorrow. Letâ€
 
 To-Do: newsletter. If you have anything to put in, let us know.&#x20;
 
-In-Progress: Pacific Town Hall office hours, Proposal, Survey Design, Gathering Qualitative Data Completed: Town Hall slides, and the last newsletter (screen share back to Audit Circle Meeting #5 at 14:31)
+In-Progress: Pacific Town Hall office hours, Proposal, Survey Design, Gathering Qualitative Data&#x20;
+
+Completed: Town Hall slides, and the last newsletter (screen share back to Audit Circle Meeting #5 at 14:31)
 
 ## Scope & Deliverables of Audit Circle
 
