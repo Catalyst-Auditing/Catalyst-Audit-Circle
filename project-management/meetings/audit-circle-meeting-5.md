@@ -112,6 +112,7 @@ Completed: Town Hall slides, and the last newsletter (screen share back to Audit
 
 ### Qualitative data gathering (Survey deliverable)&#x20;
 
+
 **Matthias** linked the recording to the GitHub issue, did an analysis. His reactions would be biased, so he needs someone else to look at the recording and see what was being said”&#x20;
 
 **Vanessa**: “how long is that meeting?”&#x20;
