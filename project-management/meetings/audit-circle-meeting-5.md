@@ -152,6 +152,10 @@ Moving on to 5.1.3.
 
 Originally posted by Jo, “where do I go” Stephen would like to do another ATH
 
+{% hint style="info" %}
+**Action :** After Town Hall - SWOT of Monthly Reports
+{% endhint %}
+
 **Thorsten**: 18th ATH might work Stephen: last time we kept it quite open. Should we focus in this time? Like potentially focus on the monthly report?
 
 **Thorsten**: Ron: survey question 9 or 10, the checklist of what’s mandatory or useful, might be a valuable point for an After Town Hall.
