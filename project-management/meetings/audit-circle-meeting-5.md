@@ -186,13 +186,9 @@ Stephen: what about timing? After the survey? Vanessa: we need to collate it in 
 
 On to item
 
-2 Organizing Retrospectives or Workshops
+### Researching, preparing and presenting a report&#x20;
 
-5.2 Organizing retrospectives or workshops (40:57)
-
-Kind of a repetition of Gimbalabs Playground. Oops, this was an error in the Agenda.
-
-5.3 Researching, preparing and presenting a report (41:28)
+(41:28)
 
 How to coordinate who does what: owners? Who works together? Do we want to do \[teams Stephen said]. Yes, teams.
 
@@ -211,8 +207,12 @@ Vanessa: can’t we use our Final Report for the IOG report?
 
 Stephen: was thinking about altering some of the beginning of the report (“preamble”)
 
-Next item: Fund 7 reporting 7) Fund 7 Proposal Reporting (47:19) Stephen: was from 24th April 2022. Stephen is documenting them. This is what they look like: (screen share pan to) Catalyst Audit Circle - F7 Monthly Reports Phil: might add what the Survey is up to Stephen: other places to refer to the Survey Eric: good idea about putting the link to the survey into the Reporting (49:10) Thorsten: use the “Optional: Please share any suitable Evidence of Progress.” to embed the Survey Stephen: let’s ask if they can put that in. Good point, Eric. Get in touch with Khalid?
+## Fund 7 Proposal Reporting&#x20;
 
-1. Any Other Business (51:07) If anyone wants to put the summary or any content from this week’s meeting in the newsletter, there’s a thread in Discord to do that George: to share the Survey a bit wider, Tweet from QA-DAO, so we can reTweet, or he shares on https://forum.cardano.org/ to get people to see, and on the Cardano Reddit George: last concern: split between what was left with the Deliverables Stephen: we had the “luxury” of sitting on the ADA before, but with the value going down, now we don’t
+(47:19) Stephen: was from 24th April 2022. Stephen is documenting them. This is what they look like: (screen share pan to) Catalyst Audit Circle - F7 Monthly Reports Phil: might add what the Survey is up to Stephen: other places to refer to the Survey Eric: good idea about putting the link to the survey into the Reporting (49:10) Thorsten: use the “Optional: Please share any suitable Evidence of Progress.” to embed the Survey Stephen: let’s ask if they can put that in. Good point, Eric. Get in touch with Khalid?
+
+## Any Other Business
+
+&#x20;(51:07) If anyone wants to put the summary or any content from this week’s meeting in the newsletter, there’s a thread in Discord to do that George: to share the Survey a bit wider, Tweet from QA-DAO, so we can reTweet, or he shares on https://forum.cardano.org/ to get people to see, and on the Cardano Reddit George: last concern: split between what was left with the Deliverables Stephen: we had the “luxury” of sitting on the ADA before, but with the value going down, now we don’t
 
 (recording stopped 17:55 UTC)
