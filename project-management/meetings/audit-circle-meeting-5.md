@@ -82,6 +82,8 @@ George would rather wait and analyze a bit.
 
 (9:46)&#x20;
 
+[https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/23](https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/23)
+
 **Ron** We did the slides and tried to draw attention to the Survey that we had. (screen share to Catalyst Audit Circle 5 Town Hall Presentation slides) Ron sent a message to Danny, hoping to get this onto IdeaScale and onto the Catalyst announcement channel. (screen share to GitHub.com/projects/7/views/1 at 10:30; back to Google Docs notes 10:31)
 
 **Ron**: Does anyone else want to do it next time? I don’t have to do it each time. “You’re doing great”&#x20;
@@ -149,7 +151,7 @@ Moving on to 5.1.3.&#x20;
 ### Where do I go ? (Survey deliverable)
 
 {% hint style="info" %}
-**Action :** After Town Hall - SWOT of Monthly Reports
+**Action :** [After Town Hall - SWOT of Monthly Reports](https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/26)
 {% endhint %}
 
 Originally posted by Jo, “where do I go” Stephen would like to do another ATH&#x20;
