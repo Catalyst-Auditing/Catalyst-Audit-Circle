@@ -82,7 +82,9 @@ George would rather wait and analyze a bit.
 
 (9:46)&#x20;
 
-[https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/23](https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/23)
+{% hint style="success" %}
+**Issue** : [https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/23](https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/23)
+{% endhint %}
 
 **Ron** We did the slides and tried to draw attention to the Survey that we had. (screen share to Catalyst Audit Circle 5 Town Hall Presentation slides) Ron sent a message to Danny, hoping to get this onto IdeaScale and onto the Catalyst announcement channel. (screen share to GitHub.com/projects/7/views/1 at 10:30; back to Google Docs notes 10:31)
 
