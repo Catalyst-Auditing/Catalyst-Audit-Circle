@@ -96,7 +96,11 @@ George would rather wait and analyze a bit.
 
 ## Fund 8 - Audit Circle F8 Proposal
 
-&#x20;5 Minutes (12:31)&#x20;
+&#x20;5 Minutes (12:31)
+
+{% hint style="success" %}
+**Issue :** [ https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/2](https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/2)
+{% endhint %}
 
 Depends on whether we get funded for Fund8. Votes should come in tomorrow. Let’s wait and see whether Audit Circle gets funded for Fund8.
 
