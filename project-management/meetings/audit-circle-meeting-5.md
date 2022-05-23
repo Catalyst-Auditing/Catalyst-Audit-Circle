@@ -150,6 +150,8 @@ Vanessa: all the places (Coordinator, Funded Proposer meetings) that the Survey 
 
 Originally posted by Jo, “where do I go” Stephen would like to do another ATH
 
+(25:57)
+
 {% hint style="info" %}
 **Action :** [After Town Hall - SWOT of Monthly Reports](https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/26)
 {% endhint %}
