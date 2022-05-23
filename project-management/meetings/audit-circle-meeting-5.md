@@ -138,7 +138,7 @@ Completed: Town Hall slides, and the last newsletter (screen share back to Audit
 
 **Phil**: last Fund, did a funded-voter survey to 4,000 Japanese ADA holders, and only got 100 replies. And that was incentivized!&#x20;
 
-Vanessa: all the places (Coordinator, Funded Proposer meetings) that the Survey is being mentioned. “Proof of Life” is for people who have never been funded before Confusion about potential parameter changes regarding Challenge Teams requirements for Proof of Life (still in 5.1.2)&#x20;
+**Vanessa**: all the places (Coordinator, Funded Proposer meetings) that the Survey is being mentioned. “Proof of Life” is for people who have never been funded before Confusion about potential parameter changes regarding Challenge Teams requirements for Proof of Life (still in 5.1.2)&#x20;
 
 **Phil** Did you post it to the Proposer Telegram chat?&#x20;
 
@@ -146,7 +146,7 @@ Vanessa: all the places (Coordinator, Funded Proposer meetings) that the Survey 
 
 Moving on to 5.1.3.&#x20;
 
-### 5.1.3. Where do I go ? (Survey deliverable)
+### Where do I go ? (Survey deliverable)
 
 Originally posted by Jo, “where do I go” Stephen would like to do another ATH&#x20;
 
@@ -160,57 +160,76 @@ Originally posted by Jo, “where do I go” Stephen would like to do another AT
 
 **Thorsten**: Challenge Teams, what are they good for? Help without accountability?&#x20;
 
-Ron’s idea: referring to the Survey as a framing device
+**Ron’s idea**: referring to the Survey as a framing device
 
-Thorsten (31:20) potential that people might rant about certain things again, therefore he’d rather have a more concrete Proposal&#x20;
+**Thorsten** (31:20) potential that people might rant about certain things again, therefore he’d rather have a more concrete Proposal&#x20;
 
-Vanessa (32:07) the Survey gets more the Proposer’s view on Audit; maybe have the After Town Hall the community wants to know what projects are doing (Proposer’s perspective vs community perspective). If we focus it too much around the Survey then we’re getting the same views.&#x20;
+**Vanessa** (32:07) the Survey gets more the Proposer’s view on Audit; maybe have the After Town Hall the community wants to know what projects are doing (Proposer’s perspective vs community perspective). If we focus it too much around the Survey then we’re getting the same views.&#x20;
 
-Vanessa: conundrum, of people wanting to know how to hold Proposers to account, “how do we audit it?” The Survey looks at monitoring and evaluation Phil: “Proposal Reporting: Proposal and Community”
+**Vanessa**: conundrum, of people wanting to know how to hold Proposers to account, “how do we audit it?” The Survey looks at monitoring and evaluation&#x20;
 
-Stephen: “Maybe we should be looking for something more solution-based”&#x20;
+**Phil**: “Proposal Reporting: Proposal and Community”
 
-Matthias: during Gimbalabs, discussion about updating the community
+**Stephen**: “Maybe we should be looking for something more solution-based”&#x20;
 
-Vanessa: backtrack to Survey (5.1.2.): there’s an internal and an external survey. Google Form is an External Survey, Internal is like Matthias’ Qualitative Data, problem-sensing. Would like a Focus-Group or something to send to IOG. Could we talk about this further, Matthias?
+**Matthias**: during Gimbalabs, discussion about updating the community
+
+**Vanessa**: backtrack to Survey (5.1.2.): there’s an internal and an external survey. Google Form is an External Survey, Internal is like Matthias’ Qualitative Data, problem-sensing. Would like a Focus-Group or something to send to IOG. Could we talk about this further, Matthias?
 
 (revisiting Item 5.1.3 for the Survey)
 
-Thorsten: when you figure out when you’re gonna chat, could you put it on Discord, so folks could join that might be interested&#x20;
+**Thorsten**: when you figure out when you’re gonna chat, could you put it on Discord, so folks could join that might be interested&#x20;
 
-Stephen: maybe schedule a meeting with IOG? Focus-Group meeting with pre-briefing. It’s not really relevant to Harris, cuz he’s more into governance. TK, Marek, Danny, Kriss, Khalid
+**Stephen**: maybe schedule a meeting with IOG? Focus-Group meeting with pre-briefing. It’s not really relevant to Harris, cuz he’s more into governance. TK, Marek, Danny, Kriss, Khalid
 
-Stephen: what about timing? After the survey? Vanessa: we need to collate it in with the report, so what about the last week of the survey? Week of the 23rd. Stephen put that as an Action
+**Stephen**: what about timing? After the survey? Vanessa: we need to collate it in with the report, so what about the last week of the survey? Week of the 23rd. Stephen put that as an Action
 
-On to item&#x20;
+### Researching, preparing and presenting a report
 
-2 Organizing Retrospectives or Workshops
-
-&#x20;5.2 Organizing retrospectives or workshops (40:57)&#x20;
-
-Kind of a repetition of Gimbalabs Playground. Oops, this was an error in the Agenda.
-
-5.3 Researching, preparing and presenting a report (41:28)&#x20;
+&#x20;(41:28)&#x20;
 
 How to coordinate who does what: owners? Who works together? Do we want to do \[teams Stephen said]. Yes, teams.
 
-\
-Action: Postpone meeting 6 for Final Report&#x20;
+{% hint style="success" %}
+**Action:** Postpone meeting 6 for Final Report - Postpone to 9th June 2022
+{% endhint %}
 
-Stephen: don’t want the meeting to clash with Community Governance Oversight meeting. Postpone to 9th June 2022 Postponing so we have time to “digest” the Survey results, to prepare&#x20;
+**Stephen**: don’t want the meeting to clash with Community Governance Oversight meeting. Postpone to 9th June 2022 Postponing so we have time to “digest” the Survey results, to prepare&#x20;
 
-Matthias: Qualitative stuff, can be helped by Stephen. Stephen and Thorsten on \[??]. Ron, Phil, Vanessa: Survey Results
+**Matthias**: Qualitative stuff, can be helped by Stephen. Stephen and Thorsten on \[??].&#x20;
+
+**Ron, Phil, Vanessa:** Survey Results
 
 On the final meeting will be a review of the Final Report, and the Survey Results
 
 (over to https://github.com/orgs/Catalyst-Auditing/projects/7/views/1 at 45:28) We’ll also have to discuss the IOG Final Report…
 
-Vanessa: can’t we use our Final Report for the IOG report?
+**Vanessa**: can’t we use our Final Report for the IOG report?
 
-Stephen: was thinking about altering some of the beginning of the report (“preamble”)
+**Stephen**: was thinking about altering some of the beginning of the report (“preamble”)
 
-Next item: Fund 7 reporting 7) Fund 7 Proposal Reporting (47:19) Stephen: was from 24th April 2022. Stephen is documenting them. This is what they look like: (screen share pan to) Catalyst Audit Circle - F7 Monthly Reports Phil: might add what the Survey is up to Stephen: other places to refer to the Survey Eric: good idea about putting the link to the survey into the Reporting (49:10) Thorsten: use the “Optional: Please share any suitable Evidence of Progress.” to embed the Survey Stephen: let’s ask if they can put that in. Good point, Eric. Get in touch with Khalid?
 
-1. Any Other Business (51:07) If anyone wants to put the summary or any content from this week’s meeting in the newsletter, there’s a thread in Discord to do that George: to share the Survey a bit wider, Tweet from QA-DAO, so we can reTweet, or he shares on https://forum.cardano.org/ to get people to see, and on the Cardano Reddit George: last concern: split between what was left with the Deliverables Stephen: we had the “luxury” of sitting on the ADA before, but with the value going down, now we don’t
+
+## Fund 7 Proposal Reporting
+
+&#x20;(47:19)
+
+&#x20;**Stephen**: was from 24th April 2022. Stephen is documenting them. This is what they look like: (screen share pan to) Catalyst Audit Circle - F7 Monthly Reports&#x20;
+
+**Phil**: might add what the Survey is up to Stephen: other places to refer to the Survey&#x20;
+
+**Eric**: good idea about putting the link to the survey into the Reporting (49:10)&#x20;
+
+**Thorsten**: use the “Optional: Please share any suitable Evidence of Progress.” to embed the Survey&#x20;
+
+**Stephen**: let’s ask if they can put that in. Good point, Eric. Get in touch with Khalid?
+
+## Any Other Business
+
+&#x20;(51:07)&#x20;
+
+If anyone wants to put the summary or any content from this week’s meeting in the newsletter, there’s a thread in Discord to do that George: to share the Survey a bit wider, Tweet from QA-DAO, so we can reTweet, or he shares on https://forum.cardano.org/ to get people to see, and on the Cardano Reddit&#x20;
+
+George: last concern: split between what was left with the Deliverables Stephen: we had the “luxury” of sitting on the ADA before, but with the value going down, now we don’t
 
 (recording stopped 17:55 UTC)
