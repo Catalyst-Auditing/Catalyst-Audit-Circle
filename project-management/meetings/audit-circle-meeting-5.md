@@ -153,7 +153,7 @@ Moving on to 5.1.3.
 Originally posted by Jo, “where do I go” Stephen would like to do another ATH
 
 {% hint style="info" %}
-**Action :** After Town Hall - SWOT of Monthly Reports
+**Action :** [After Town Hall - SWOT of Monthly Reports](https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/26)
 {% endhint %}
 
 **Thorsten**: 18th ATH might work Stephen: last time we kept it quite open. Should we focus in this time? Like potentially focus on the monthly report?
