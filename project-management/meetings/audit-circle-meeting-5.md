@@ -80,6 +80,10 @@ George would rather wait and analyze a bit.
 
 (9:46)
 
+{% hint style="info" %}
+**Issue :** [https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/23](https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/23)
+{% endhint %}
+
 **Ron** We did the slides and tried to draw attention to the Survey that we had. (screen share to Catalyst Audit Circle 5 Town Hall Presentation slides) Ron sent a message to Danny, hoping to get this onto IdeaScale and onto the Catalyst announcement channel. (screen share to GitHub.com/projects/7/views/1 at 10:30; back to Google Docs notes 10:31)
 
 **Ron**: Does anyone else want to do it next time? I don’t have to do it each time. “You’re doing great”
@@ -92,9 +96,17 @@ George would rather wait and analyze a bit.
 
 5 Minutes (12:31)
 
+{% hint style="info" %}
+**Issue :** [https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/2](https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/2)
+{% endhint %}
+
 Depends on whether we get funded for Fund8. Votes should come in tomorrow. Let’s wait and see whether Audit Circle gets funded for Fund8.
 
 ## Project Board Review
+
+{% hint style="info" %}
+**Project Board** - [https://github.com/orgs/Catalyst-Auditing/projects/7/views/1](https://github.com/orgs/Catalyst-Auditing/projects/7/views/1)
+{% endhint %}
 
 (13:18) (screen share back over to GitHub/orgs/Catalyst-Auditing/ at 13:28)
 
