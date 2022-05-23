@@ -218,7 +218,21 @@ On the final meeting will be a review of the Final Report, and the Survey Result
 
 ## Fund 7 Proposal Reporting&#x20;
 
-(47:19) Stephen: was from 24th April 2022. Stephen is documenting them. This is what they look like: (screen share pan to) Catalyst Audit Circle - F7 Monthly Reports Phil: might add what the Survey is up to Stephen: other places to refer to the Survey Eric: good idea about putting the link to the survey into the Reporting (49:10) Thorsten: use the “Optional: Please share any suitable Evidence of Progress.” to embed the Survey Stephen: let’s ask if they can put that in. Good point, Eric. Get in touch with Khalid?
+(47:19)&#x20;
+
+{% hint style="info" %}
+**Issue :** [https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/28](https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/28)
+{% endhint %}
+
+**Stephen**: was from 24th April 2022. Stephen is documenting them. This is what they look like: (screen share pan to) Catalyst Audit Circle - F7 Monthly Reports&#x20;
+
+**Phil**: might add what the Survey is up to Stephen: other places to refer to the Survey&#x20;
+
+**Eric**: good idea about putting the link to the survey into the Reporting (49:10)&#x20;
+
+**Thorsten**: use the “Optional: Please share any suitable Evidence of Progress.” to embed the Survey&#x20;
+
+**Stephen**: let’s ask if they can put that in. Good point, Eric. Get in touch with Khalid?
 
 ## Any Other Business
 
