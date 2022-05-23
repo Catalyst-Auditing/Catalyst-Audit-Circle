@@ -196,20 +196,21 @@ Originally posted by Jo, “where do I go” Stephen would like to do another AT
 
 How to coordinate who does what: owners? Who works together? Do we want to do \[teams Stephen said]. Yes, teams.
 
-\
+{% hint style="success" %}
 Action: Postpone meeting 6 for Final Report
+{% endhint %}
 
-Stephen: don’t want the meeting to clash with Community Governance Oversight meeting. Postpone to 9th June 2022 Postponing so we have time to “digest” the Survey results, to prepare
+**Stephen**: don’t want the meeting to clash with Community Governance Oversight meeting. Postpone to 9th June 2022 Postponing so we have time to “digest” the Survey results, to prepare
 
-Matthias: Qualitative stuff, can be helped by Stephen. Stephen and Thorsten on \[??]. Ron, Phil, Vanessa: Survey Results
+**Matthias**: Qualitative stuff, can be helped by Stephen. Stephen and Thorsten on \[??]. Ron, Phil, Vanessa: Survey Results
 
 On the final meeting will be a review of the Final Report, and the Survey Results
 
 (over to https://github.com/orgs/Catalyst-Auditing/projects/7/views/1 at 45:28) We’ll also have to discuss the IOG Final Report…
 
-Vanessa: can’t we use our Final Report for the IOG report?
+**Vanessa**: can’t we use our Final Report for the IOG report?
 
-Stephen: was thinking about altering some of the beginning of the report (“preamble”)
+**Stephen**: was thinking about altering some of the beginning of the report (“preamble”)
 
 ## Fund 7 Proposal Reporting&#x20;
 
