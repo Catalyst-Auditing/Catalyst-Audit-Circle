@@ -148,6 +148,10 @@ Moving on to 5.1.3.&#x20;
 
 ### Where do I go ? (Survey deliverable)
 
+{% hint style="info" %}
+**Action :** After Town Hall - SWOT of Monthly Reports
+{% endhint %}
+
 Originally posted by Jo, “where do I go” Stephen would like to do another ATH&#x20;
 
 **Thorsten**: 18th ATH might work Stephen: last time we kept it quite open. Should we focus in this time? Like potentially focus on the monthly report?&#x20;
@@ -188,6 +192,10 @@ Originally posted by Jo, “where do I go” Stephen would like to do another AT
 
 &#x20;(41:28)&#x20;
 
+{% hint style="info" %}
+**Issue :** [https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/10](https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/10)
+{% endhint %}
+
 How to coordinate who does what: owners? Who works together? Do we want to do \[teams Stephen said]. Yes, teams.
 
 {% hint style="success" %}
@@ -201,6 +209,8 @@ How to coordinate who does what: owners? Who works together? Do we want to do \[
 **Ron, Phil, Vanessa:** Survey Results
 
 On the final meeting will be a review of the Final Report, and the Survey Results
+
+
 
 (over to https://github.com/orgs/Catalyst-Auditing/projects/7/views/1 at 45:28) We’ll also have to discuss the IOG Final Report…
 
@@ -230,6 +240,6 @@ On the final meeting will be a review of the Final Report, and the Survey Result
 
 If anyone wants to put the summary or any content from this week’s meeting in the newsletter, there’s a thread in Discord to do that George: to share the Survey a bit wider, Tweet from QA-DAO, so we can reTweet, or he shares on https://forum.cardano.org/ to get people to see, and on the Cardano Reddit&#x20;
 
-George: last concern: split between what was left with the Deliverables Stephen: we had the “luxury” of sitting on the ADA before, but with the value going down, now we don’t
+**George**: last concern: split between what was left with the Deliverables Stephen: we had the “luxury” of sitting on the ADA before, but with the value going down, now we don’t
 
 (recording stopped 17:55 UTC)
