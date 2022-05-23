@@ -40,6 +40,10 @@ Audit Circle Meeting #5 - YouTube Recording
 
 (0:45)
 
+{% hint style="info" %}
+**Treasury :** [https://treasury-guild.gitbook.io/community-governance-oversight/transactions/fund-7/catalyst-audit-circle](https://treasury-guild.gitbook.io/community-governance-oversight/transactions/fund-7/catalyst-audit-circle)
+{% endhint %}
+
 Updates from Andre & Miroslav
 
 **Andre**: Only 1 payment from IOG still has to come in. \~$4,233 USD. We still need to pay this group, and that payment will be $4,000. After we pay Megan and Ron, there’s ±2,000 ADA left for Deliverables, plus $230.
