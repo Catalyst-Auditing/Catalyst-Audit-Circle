@@ -36,7 +36,7 @@ Audit Circle Meeting #5 - YouTube Recording
 
 **Project Board** - [https://github.com/orgs/Catalyst-Auditing/projects/7/views/1](https://github.com/orgs/Catalyst-Auditing/projects/7/views/1)
 
-
+**Meeting Issue** - [https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/24](https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/24)
 
 ## Audit Circle Treasury
 
