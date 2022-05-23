@@ -148,7 +148,7 @@ Vanessa: all the places (Coordinator, Funded Proposer meetings) that the Survey 
 
 Moving on to 5.1.3.
 
-### 5.1.3. Where do I go ? (Survey deliverable)
+### Where do I go ? (Survey deliverable)
 
 Originally posted by Jo, “where do I go” Stephen would like to do another ATH
 
@@ -162,29 +162,29 @@ Originally posted by Jo, “where do I go” Stephen would like to do another AT
 
 **Thorsten**: Challenge Teams, what are they good for? Help without accountability?
 
-Ron’s idea: referring to the Survey as a framing device
+**Ron’s idea:** referring to the Survey as a framing device
 
-Thorsten (31:20) potential that people might rant about certain things again, therefore he’d rather have a more concrete Proposal
+**Thorsten** (31:20) potential that people might rant about certain things again, therefore he’d rather have a more concrete Proposal
 
-Vanessa (32:07) the Survey gets more the Proposer’s view on Audit; maybe have the After Town Hall the community wants to know what projects are doing (Proposer’s perspective vs community perspective). If we focus it too much around the Survey then we’re getting the same views.
+**Vanessa** (32:07) the Survey gets more the Proposer’s view on Audit; maybe have the After Town Hall the community wants to know what projects are doing (Proposer’s perspective vs community perspective). If we focus it too much around the Survey then we’re getting the same views.
 
-Vanessa: conundrum, of people wanting to know how to hold Proposers to account, “how do we audit it?” The Survey looks at monitoring and evaluation Phil: “Proposal Reporting: Proposal and Community”
+**Vanessa**: conundrum, of people wanting to know how to hold Proposers to account, “how do we audit it?” The Survey looks at monitoring and evaluation&#x20;
 
-Stephen: “Maybe we should be looking for something more solution-based”
+**Phil**: “Proposal Reporting: Proposal and Community”
 
-Matthias: during Gimbalabs, discussion about updating the community
+**Stephen**: “Maybe we should be looking for something more solution-based”
 
-Vanessa: backtrack to Survey (5.1.2.): there’s an internal and an external survey. Google Form is an External Survey, Internal is like Matthias’ Qualitative Data, problem-sensing. Would like a Focus-Group or something to send to IOG. Could we talk about this further, Matthias?
+**Matthias**: during Gimbalabs, discussion about updating the community
+
+**Vanessa**: backtrack to Survey (5.1.2.): there’s an internal and an external survey. Google Form is an External Survey, Internal is like Matthias’ Qualitative Data, problem-sensing. Would like a Focus-Group or something to send to IOG. Could we talk about this further, Matthias?
 
 (revisiting Item 5.1.3 for the Survey)
 
-Thorsten: when you figure out when you’re gonna chat, could you put it on Discord, so folks could join that might be interested
+**Thorsten**: when you figure out when you’re gonna chat, could you put it on Discord, so folks could join that might be interested
 
-Stephen: maybe schedule a meeting with IOG? Focus-Group meeting with pre-briefing. It’s not really relevant to Harris, cuz he’s more into governance. TK, Marek, Danny, Kriss, Khalid
+**Stephen**: maybe schedule a meeting with IOG? Focus-Group meeting with pre-briefing. It’s not really relevant to Harris, cuz he’s more into governance. TK, Marek, Danny, Kriss, Khalid
 
-Stephen: what about timing? After the survey? Vanessa: we need to collate it in with the report, so what about the last week of the survey? Week of the 23rd. Stephen put that as an Action
-
-On to item
+**Stephen**: what about timing? After the survey? Vanessa: we need to collate it in with the report, so what about the last week of the survey? Week of the 23rd. Stephen put that as an Action
 
 ### Researching, preparing and presenting a report&#x20;
 
