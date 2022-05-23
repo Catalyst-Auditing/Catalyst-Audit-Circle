@@ -194,10 +194,14 @@ Originally posted by Jo, “where do I go” Stephen would like to do another AT
 
 (41:28)
 
+{% hint style="info" %}
+**Issue :** [https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/10](https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/10)
+{% endhint %}
+
 How to coordinate who does what: owners? Who works together? Do we want to do \[teams Stephen said]. Yes, teams.
 
 {% hint style="success" %}
-Action: Postpone meeting 6 for Final Report
+**Action:** Postpone meeting 6 for Final Report
 {% endhint %}
 
 **Stephen**: don’t want the meeting to clash with Community Governance Oversight meeting. Postpone to 9th June 2022 Postponing so we have time to “digest” the Survey results, to prepare
