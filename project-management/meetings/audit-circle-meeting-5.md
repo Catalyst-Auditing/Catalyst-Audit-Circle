@@ -128,6 +128,10 @@ Completed: Town Hall slides, and the last newsletter (screen share back to Audit
 
 (17:58) Vanessa, Phil, Ron. Updates
 
+{% hint style="info" %}
+**Issue :** [https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/6](https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/6)
+{% endhint %}
+
 **Vanessa**: we did it, it’s out, Ron launched it last night (Weds 11 May). Vanessa has posted it all over the Catalyst Telegram and Discord. Can other people post it too? We’ll probably also need to do a re-post in about a week We’ve only had 8 responses so far. The process of putting it together was alright. Let’s wait and see what kind of results we get. Will it be us 3 that analyze it also when the results come in?
 
 **Phil**: what was the close date we put on that? May 29th was the close date
