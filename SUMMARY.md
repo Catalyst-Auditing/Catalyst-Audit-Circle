@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Catalyst-Audit-Hub](README.md)
+* [Cardano-Audit-Hub](README.md)
 * [Fund 7 Proposal](fund-7-proposal.md)
 * [Audit Circle 1 - Draft Report](audit-circle-1-draft-report.md)
 

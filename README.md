@@ -1,12 +1,10 @@
 ---
-description: >-
-  Establish a Catalyst auditing circle to guide improvements needed to maximise
-  each funding rounds return on intention.
+description: An informal network bringing together the Cardano Audit Community
 cover: .gitbook/assets/Magnifying_glass_on_the_page_of_a_book.jpg
 coverY: 0
 ---
 
-# Catalyst-Audit-Hub
+# Cardano-Audit-Hub
 
 Since October 2021 community members with an interest in auditing and oversight initiated research into reporting and participated in the **Catalyst Auditing working group** ( see [https://catalyst-swarm.gitbook.io/catalyst-auditing/admin/meetings](https://catalyst-swarm.gitbook.io/catalyst-auditing/admin/meetings) ).
 
@@ -22,4 +20,4 @@ The **Catalyst Audit Hub** will :
 
 **Accountability** - Catalyst Audit Circle is accountable to ADA holders who voted for it's proposal to deliver surveys, retrospectives and a final report by June 2022.
 
-**Open Source** - Catalyst Audit Circle is committed to using Open Source tools to document and track its activities. This GitBook is stored on this [repository ](https://github.com/Catalyst-Auditing/Catalyst-Audit-Circle)with an [Apache 2.0 license](LICENSE).
+**Open Source** - Catalyst Audit Circle is committed to using Open Source tools to document and track its activities. This GitBook is stored on this [repository ](https://github.com/Catalyst-Auditing/Catalyst-Audit-Circle)with an [Apache 2.0 license](LICENSE/).
