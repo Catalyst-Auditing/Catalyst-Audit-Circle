@@ -2,6 +2,8 @@
 description: 'F7: Improve and Grow Auditability - Catalyst Audit Circle'
 ---
 
+{% embed url="https://youtu.be/1CWRy-5HR7Q" %}
+
 # Fund 7 Proposal
 
 Here is the text of a proposal entitled "[Catalyst Audit Circle](https://cardano.ideascale.com/c/idea/381354)" that was submitted in Fund 7 under the _Improve and Grow Auditability_ Challenge.
