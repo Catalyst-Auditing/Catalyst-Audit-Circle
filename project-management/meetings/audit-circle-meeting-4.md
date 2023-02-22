@@ -10,17 +10,17 @@ Audit Circle Meeting #4 - YouTube Recording
 
 ## Attendees:
 
-|                     |                         |
-| ------------------- | ----------------------- |
-| Matthias Sieber     | CEO Loxe Inc            |
-| Ron Hill            | SPOCRA                  |
-| Phil Khoo           | AIM                     |
-| Stephen Whitenstall | QADAO                   |
-| Thorsten Pottebaum  |                         |
-| Vanessa Cardui      | QADAO                   |
-| Andre Diamond       | Treasury                |
-| Miroslav Rajh       | Treasury                |
-| Megan Widney        | Documentation / minutes |
+|                     |              |
+| ------------------- | ------------ |
+| Matthias Sieber     | CEO Loxe Inc |
+| Ron Hill            | SPOCRA       |
+| Phil Khoo           | AIM          |
+| Stephen Whitenstall | QADAO        |
+| Thorsten Pottebaum  |              |
+| Vanessa Cardui      | QADAO        |
+| Andre Diamond       | Treasury     |
+| Miroslav Rajh       | Treasury     |
+| Megan               |              |
 
 ### Apologies
 
@@ -148,7 +148,7 @@ Survey Design ([15:45](https://youtu.be/STxSKquzaF8?t=945)) (Vanessa, Phil, and 
 
 (screen changed over to [GitBook Audit Circle Meeting 2](https://quality-assurance-dao.gitbook.io/audit-circle/project-management/meetings/audit-circle-meeting-2) at [16:08](https://youtu.be/STxSKquzaF8?t=968))
 
-(screen back to [Audit Circle Meeting #4 GoogleDoc](https://docs.google.com/document/d/1JIUcXq4AfAISkxpBsAN5YTmc0a6i1Z1qy9Ybokd2plM/edit) at [16:20](https://youtu.be/STxSKquzaF8?t=980))
+(screen back to [Audit Circle Meeting #4 GoogleDoc](https://docs.google.com/document/d/1JIUcXq4AfAISkxpBsAN5YTmc0a6i1Z1qy9Ybokd2plM/edit#) at [16:20](https://youtu.be/STxSKquzaF8?t=980))
 
 **Vanessa** (\~[16:30](https://youtu.be/STxSKquzaF8?t=990))
 
@@ -218,12 +218,12 @@ Stephen: the timing being earlier might provide an opportunity to engage more wi
 
 Let’s make it 11th May. Stephen will reach out to Danny; subject of monthly reporting. Anybody else from IOG?
 
-**Vanessa** ([25:07](https://youtu.be/STxSKquzaF8?t=1507)): might this be better in a Coordinator meeting? Cuz everyone there is a Funded Proposer
+**Vanessa** ([25:07](https://youtu.be/STxSKquzaF8?t=1507)): might this be better in a coordinated meeting? Cuz everyone there is a Funded Proposer
 
-**Stephen**: gotta check what’s going on in Coordinator meetings, would probably prefer for it to be ATH, to open it up
+**Stephen**: gotta check what’s going on in coordinated meetings, would probably prefer for it to be ATH, to open it up
 
 {% hint style="info" %}
-**Action** - Stephen to schedule an ATH for 11th May, to bring IOG in
+**Action** - Stephen plans to schedule an ATH for 11th May, to bring IOG in
 {% endhint %}
 
 ### 5.2 Organizing retrospectives or workshops - 10 Minutes
@@ -252,13 +252,13 @@ Pacific Town Hall might be an option, just not for the next few weeks
 
 **Matthias**: should we reserve the spot? The audience is usually pretty engaged. (29:28)
 
-**Stephen**: is there anything we should be doing at Coordinator meetings?
+**Stephen**: is there anything we should be doing at coordinating meetings?
 
-**George** (30:12): clarifying what we’re doing at the Coordinator meetings. Inviting to talk about auditing at the end? Letting folks know we’ll be around
+**George** (30:12): clarifying what we’re doing at the coordinating meetings. Inviting to talk about auditing at the end? Letting folks know we’ll be around
 
 **Stephen**: also some crossover with the Funded Proposer’s sub-circle, right Vanessa?\
 \
-**Vanessa**: (30:52) FP subcircle is gonna try to use the Coordinator meetings a bit more. We're currently looking at the Proposer’s Guide, so that's what we're trying to get people to talk about. I think the people who might be interested in that might also be interested in a conversation about auditing. So let’s not divide their attention too much?
+**Vanessa**: (30:52) We’re gonna try to use the coordinating meetings a bit more. Funded Proposers sub-circle is currently looking at the Proposer’s Guide. So that's what we're trying to get people to talk about. And I think the sort of people who might be interested in that might also be interested in a conversation about auditing. So let’s not divide their attention too much?
 
 **Stephen**: what about the relationship between all these different groups? Audit Circle vs Funded Proposers.
 
@@ -296,86 +296,90 @@ We should do a review of this report in the next or final meeting, and sign it o
 
 ### Retrospective terminology.
 
-**Eric**: Always been confused by Retrospective terminology. Others are probably confused. We need another way to define it.
+**Eric**: Always been confused by Retrospective terminology. Others are probably confused. We need another way to define it.&#x20;
 
-**Stephen**: Surveys, what might be called “Qualitative Data” from Matthias and Thorsten.
+**Stephen**: Surveys, what might be called “Qualitative Data” from Matthias and Thorsten.&#x20;
 
 Retrospective? It seems rather redundant, doesn’t it, Eric?
 
 \
-**Eric**: yeah, I’ve always been confused.
+**Eric**: yeah, I’ve always been confused.&#x20;
 
-**Stephen**: should we just take it out?
+**Stephen**: should we just take it out?&#x20;
 
-**George**: Results?
+**George**: Results?&#x20;
 
 **Ron**: it’s like the analysis, and then the Conclusions are what we take from it.
 
 **Vanessa**: yes, exactly. People can see what the problem is; that’s the point of it
 
-**Matthias**: I think it could be beneficial to have a Retrospective.
+**Matthias**: I think it could be beneficial to have a Retrospective.&#x20;
 
-“Layered approach”
+“Layered approach”&#x20;
 
-But maybe “Analysis” or “Discussion” is a better term. If Audit Circle continues to have it, it could be very beneficial to see/observe how we work together. Examples/why so:
+But maybe “Analysis” or “Discussion” is a better term. If Audit Circle continues to have it, it could be very beneficial to see/observe how we work together. Examples/why so:&#x20;
 
-**Vanessa** (17:47): it would be quite useful to have a Retrospective part/section in our report. Are we just saying we don’t have time? Is that why we’re getting rid of it?
+**Vanessa** (17:47): it would be quite useful to have a Retrospective part/section in our report. Are we just saying we don’t have time? Is that why we’re getting rid of it?&#x20;
 
 We have the raw data, the analysis of that data, and then us talking about how we went about it
 
 **Ron**: What is a Retrospective? Does it mean having a meeting and then reflecting on it? Could we have a meeting and (??). We’ve been grouping it with Workshops.
 
-**Vanessa**: a Retrospective is something different.
+**Vanessa**: a Retrospective is something different.&#x20;
 
-**Stephen**: that’s what we’re trying to clarify.
+**Stephen**: that’s what we’re trying to clarify.&#x20;
 
-Is it a retrospective of Audit Circle, or of analyzing the data?
+Is it a retrospective of Audit Circle, or of analyzing the data?&#x20;
 
 (12:48 call-17:52)
 
 **Stephen** ([45:15](https://youtu.be/STxSKquzaF8?t=2715)): aim for next meeting being more about analyzing the results we have
 
-**Matthias** on board to write down where we found there was a lack. Like sample size or what’s wrong with our survey. Really struggles with the term “Retrospective”
+**Matthias** on board to write down where we found there was a lack. Like sample size or what’s wrong with our survey. Really struggles with the term “Retrospective”&#x20;
 
 **Stephen**: a way of working towards that, we can discuss at the next meeting our analysis, next meeting will have more meat in the report. Then we’ll meet on the 6th to say “what is the meaning of this? This is the Retrospective, and this is our Recommendation”
 
-**George**:
+**George**:&#x20;
 
-(17:52 UTC **Vanessa** linked [Retrospective Meeting Tools](https://metroretro.io/templates) into the chat)
+(17:52 UTC **Vanessa** linked [Retrospective Meeting Tools](https://metroretro.io/templates) into the chat)&#x20;
 
-**Stephen**: the context is that the Final Report is going to answer how we’ve closed out. We could include feedback on how we ran the Proposal, George.
+**Stephen**: the context is that the Final Report is going to answer how we’ve closed out. We could include feedback on how we ran the Proposal, George.&#x20;
 
-Is that confusing?
+Is that confusing?&#x20;
 
-**George**: I like that idea. 5-10 lines. Reflection as a whole, collectively. We could talk about shortcomings in data gathering, that’s relevant to the Report.
+**George**: I like that idea. 5-10 lines. Reflection as a whole, collectively. We could talk about shortcomings in data gathering, that’s relevant to the Report.&#x20;
 
-**Eric**: how are we distributing this Report?
+**Eric**: how are we distributing this Report?&#x20;
 
 **Stephen**: it’s a Closing Report. We can do it in a few ways. Yes we can distribute and publicize it, then we can do a video, like as a Closing Report. Might be best as an Action for next meeting
 
-**Eric**: Let’s include a copy of the Report in the regular Catalyst email newsletters that go out.
+**Eric**: Let’s include a copy of the Report in the regular Catalyst email newsletters that go out.&#x20;
 
-**Stephen** (12:56): yes, let’s do that, let’s take advantage of that. We do also have a [GitBook](https://quality-assurance-dao.gitbook.io/audit-circle/)
+**Stephen** (12:56): yes, let’s do that, let’s take advantage of that. We do also have a [GitBook](https://quality-assurance-dao.gitbook.io/audit-circle/)&#x20;
 
 **Eric** likes the idea of a PDF attachment, not just a link, because lots of people don’t click links
 
-**Vanessa**: the idea of the Retrospective angle, maybe we should do that as a private meeting, which we can extrapolate from, then we could say certain things more?
+**Vanessa**: the idea of the Retrospective angle, maybe we should do that as a private meeting, which we can extrapolate from, then we could say certain things more?&#x20;
 
-Technically the rules are that we have to make a video.
+Technically the rules are that we have to make a video.&#x20;
 
-**Stephen**: yes, we do.
+**Stephen**: yes, we do.&#x20;
 
 (end of point 6)
 
-**Eric**: although people might feel more comfortable in private meetings, there’s a catch, where then community members feel suspicious about what we might be saying if it’s behind closed doors.
+**Eric**: although people might feel more comfortable in private meetings, there’s a catch, where then community members feel suspicious about what we might be saying if it’s behind closed doors.&#x20;
 
-**Stephen**: We could do a bit of both (hybrid). Yes, it is nice to have an un-recorded space, where people can open up more.&#x20;
+**Stephen**: We could do a bit of both (hybrid). Yes, it is nice to have an un-recorded space, where people can open up more. Eric?&#x20;
 
-**Stephen**: final minute: Fund 7, I submitted a report that wasn’t very informative, on 24th April. ([LINK - GitBook](https://quality-assurance-dao.gitbook.io/audit-circle/proposal-reporting/fund-7-proposal/f7-monthly-reports)). This shows the great detail that we’ve put in.
+**Eric**: yes.&#x20;
 
-(Stephen) Develop an Audit Circle token? We can discuss that next meeting.
+**Stephen**: final minute: Fund 7, I submitted a report that wasn’t very informative, on 24th April. ([LINK - GitBook](https://quality-assurance-dao.gitbook.io/audit-circle/proposal-reporting/fund-7-proposal/f7-monthly-reports)). This shows the great detail that we’ve put in.&#x20;
 
-If you’re in Discord and have input on what to put into our newsletter, please add it to the Discord, so we can pass it to Danny to put in
+(Stephen) Develop an Audit Circle token? We can discuss that next meeting.&#x20;
+
+If you’re in Discord and have input on what to put into our newsletter, please add it to the Discord, so we can pass it to Danny to put in&#x20;
+
+
 
 ## 7) Fund 7 Proposal Reporting - 5 Minutes
 
