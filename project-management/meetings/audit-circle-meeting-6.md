@@ -10,9 +10,17 @@ Recording coming soon
 
 ## Attendees
 
-|                 |          |   |   |
-| --------------- | -------- | - | - |
-| Matthias Sieber | Loxe Inc |   |   |
-| Ron Hill        | SPOCRA   |   |   |
-| Phil Khoo       | AIM      |   |   |
-|                 |          |   |   |
+|                     |                                  |
+| ------------------- | -------------------------------- |
+| Matthias Sieber     | Loxe Inc                         |
+| Ron Hill            | SPOCRA                           |
+| Phil Khoo           | AIM                              |
+| Stephen Whitenstall | QA-DAO                           |
+| Thirsten Pottebaum  |                                  |
+| Vanessa Cardui      | QA-DAO                           |
+| Andre Diamond       | Treasury Guild                   |
+| Miroslav Rajh       | Treasury Guild                   |
+| Eric Helms          | SCATDAO                          |
+| George Lovegrove    | PACE                             |
+| Jo Allum            | Auditability Challenge Team Lead |
+| Megan Widney        | Documentation / minutes          |
