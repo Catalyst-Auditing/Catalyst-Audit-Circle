@@ -10,17 +10,17 @@ Audit Circle Meeting #3 - YouTube Recording
 
 ## Attendees:
 
-|                     |              |
-| ------------------- | ------------ |
-| Matthias Sieber     | CEO Loxe Inc |
-| Ron Hill            | SPOCRA       |
-| Phil Khoo           | AIM          |
-| Stephen Whitenstall | QADAO        |
-| Thorsten Pottebaum  |              |
-| Vanessa Cardui      | QADAO        |
-| Andre Diamond       | Treasury     |
-| Miroslav Rajh       | Treasury     |
-| Megan               |              |
+|                     |                         |
+| ------------------- | ----------------------- |
+| Matthias Sieber     | CEO Loxe Inc            |
+| Ron Hill            | SPOCRA                  |
+| Phil Khoo           | AIM                     |
+| Stephen Whitenstall | QADAO                   |
+| Thorsten Pottebaum  |                         |
+| Vanessa Cardui      | QADAO                   |
+| Andre Diamond       | Treasury                |
+| Miroslav Rajh       | Treasury                |
+| Megan Widney        | Documentation / minutes |
 
 ## Apologies
 
@@ -211,7 +211,7 @@ This is a functional type of survey that asks -
 
 **Ron** - 22:07 - What are we auditing ?
 
-**Vanessa** - 22:31 - Scope is how funded proposers audit their projects.&#x20;
+**Vanessa** - 22:31 - Scope is how funded proposers audit their projects.
 
 {% hint style="info" %}
 **Planned Action :** Creation of a focus group to look at survey - Vanessa, Phil & Ron
@@ -230,7 +230,7 @@ Action from previous meetings : How to catch needs & expectations
 {% endhint %}
 
 {% hint style="info" %}
-**Planned Action :** Arrange After Town Hall to sync with monthly report 24th April - Stephen&#x20;
+**Planned Action :** Arrange After Town Hall to sync with monthly report 24th April - Stephen
 {% endhint %}
 
 ### 6.2 - Organizing retrospectives or workshops - 10 Minutes
@@ -242,7 +242,7 @@ Action from previous meetings : How to catch needs & expectations
 {% endhint %}
 
 {% hint style="info" %}
-**Planned Action :** Updates on Audit Circle - Office Hours - conversations with Pacific TH or other THs or communities - how this feeds into final report-  Matthias
+**Planned Action :** Updates on Audit Circle - Office Hours - conversations with Pacific TH or other THs or communities - how this feeds into final report- Matthias
 {% endhint %}
 
 Any updates, feedback or suggestions.
@@ -272,7 +272,7 @@ Action from previous meetings : Useful info - the status coord meetings - Stephe
 All members - The second monthly report will be due on 24th April 2022 ([https://quality-assurance-dao.gitbook.io/audit-circle/proposal-reporting/fund-7-proposal/f7-monthly-reports](https://quality-assurance-dao.gitbook.io/audit-circle/proposal-reporting/fund-7-proposal/f7-monthly-reports))
 
 {% hint style="info" %}
-A**ction :** Submit Monthly Report for F7 Audit Circle proposal - Stephen&#x20;
+A**ction :** Submit Monthly Report for F7 Audit Circle proposal - Stephen
 {% endhint %}
 
 ## 8) Any Other Business - 5 Minutes
