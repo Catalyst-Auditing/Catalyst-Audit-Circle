@@ -10,17 +10,17 @@ Audit Circle Meeting #4 - YouTube Recording
 
 ## Attendees:
 
-|                     |              |
-| ------------------- | ------------ |
-| Matthias Sieber     | CEO Loxe Inc |
-| Ron Hill            | SPOCRA       |
-| Phil Khoo           | AIM          |
-| Stephen Whitenstall | QADAO        |
-| Thorsten Pottebaum  |              |
-| Vanessa Cardui      | QADAO        |
-| Andre Diamond       | Treasury     |
-| Miroslav Rajh       | Treasury     |
-| Megan               |              |
+|                     |                         |
+| ------------------- | ----------------------- |
+| Matthias Sieber     | CEO Loxe Inc            |
+| Ron Hill            | SPOCRA                  |
+| Phil Khoo           | AIM                     |
+| Stephen Whitenstall | QADAO                   |
+| Thorsten Pottebaum  |                         |
+| Vanessa Cardui      | QADAO                   |
+| Andre Diamond       | Treasury                |
+| Miroslav Rajh       | Treasury                |
+| Megan Widney        | Documentation / minutes |
 
 ### Apologies
 
