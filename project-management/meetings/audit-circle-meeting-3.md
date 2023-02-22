@@ -181,8 +181,8 @@ Identified three possible approaches that we could take. Because I do not think 
 
 Questions for that could include -
 
-* What do proposers think about audit obligations?
-* What do you think they should be?
+* What do proposers think about their obligations towards audit?
+* What do they think their obligations _should_ be?
 * How do they perceive audit? Is it a burden?
 
 **The second approach is about monitoring & data gathering.**
@@ -204,7 +204,7 @@ This is a functional type of survey that asks -
 
 * How did your proposal account for auditability?
 * Are you doing that?
-* How do you feel about the change to monthly monitoring forms?
+* How do you feel about the changes in the monthly monitoring forms?
 * Any specific questions about the monitoring form? How do people feel about it?
 * Do people go to the coordinator meetings? And if not, why not?
 * Have they have contact with their challenge team or not? (People are perceiving Challenge teams as an audit process.)
