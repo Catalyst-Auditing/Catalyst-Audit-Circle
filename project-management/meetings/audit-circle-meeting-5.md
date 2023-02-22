@@ -12,17 +12,17 @@ Audit Circle Meeting #5 - YouTube Recording
 
 ### Attendees:
 
-|                     |                         |
-| ------------------- | ----------------------- |
-| Matthias Sieber     | CEO Loxe Inc            |
-| Ron Hill            | SPOCRA                  |
-| Phil Khoo           | AIM                     |
-| Stephen Whitenstall | QADAO                   |
-| Thorsten Pottebaum  |                         |
-| Vanessa Cardui      | QADAO                   |
-| Andre Diamond       | Treasury                |
-| Miroslav Rajh       | Treasury                |
-| Megan Widney        | Documentation / minutes |
+|                     |              |
+| ------------------- | ------------ |
+| Matthias Sieber     | CEO Loxe Inc |
+| Ron Hill            | SPOCRA       |
+| Phil Khoo           | AIM          |
+| Stephen Whitenstall | QADAO        |
+| Thorsten Pottebaum  |              |
+| Vanessa Cardui      | QADAO        |
+| Andre Diamond       | Treasury     |
+| Miroslav Rajh       | Treasury     |
+| Megan               |              |
 
 #### Apologies
 
@@ -60,7 +60,7 @@ Updates from Andre & Miroslav
 
 **Phil**: what was that meant to pay for?
 
-**Stephen**: for “Regular Costs,” which are to pay Megan for notes/ minutes, and Ron for the Town Hall slides. Everything else is for Deliverables. We could account for that, cuz we know when we’re gonna pay Megan and Ron. We could pay that in advance? We could also pay out all the remainder to each other as well.
+**Stephen**: for “Regular Costs,” which are to pay Megan for notes/“minutes” and Ron for the Town Hall slides. Everything else is for Deliverables. We could account for that, cuz we know when we’re gonna pay Megan and Ron. We could pay that in advance? We could also pay out all the remainder to each other as well.
 
 **Miro**: we have to pay attention to the exchange rate. Had been $0.91, today it’s less than half that. ADA can drop considerably between when IOG sends the ADA and when we pay members for work.
 
@@ -92,7 +92,7 @@ George would rather wait and analyze a bit.
 
 **Ron**: Does anyone else want to do it next time? I don’t have to do it each time. “You’re doing great”
 
-**Matthias** would like to see more diversity, noticed all the faces at Town Hall yesterday (30:04 of Town Hall recording): would like to put Vanessa on the spot, if she’s up for it **Vanessa** a bit “tokenistic”? It’s not that she’s not up for it. Ron did it very well.
+**Matthias** would like to see more diversity, noticed all the faces at Town Hall yesterday (30:04 of Town Hall recording): would like to put Vanessa on the spot, if she’s up for it **Vanessa** doesn’t want to be “tokenized”. It’s not that she’s not up for it. Ron did it very well.
 
 **Stephen** encourages others to do it, to get the feel for what it’s like and how it feels; welcomes new participation to “mix it up”
 
@@ -160,7 +160,7 @@ Completed: Town Hall slides, and the last newsletter (screen share back to Audit
 
 **Phil**: last Fund, did a funded-voter survey to 4,000 Japanese ADA holders, and only got 100 replies. And that was incentivized!
 
-**Vanessa**: all the places (Coordinator, Funded Proposer meetings) that the Survey is being mentioned. “Proof of Life” is for people who have never been funded before Confusion about potential parameter changes regarding Challenge Teams requirements for Proof of Life (still in 5.1.2)
+Vanessa: all the places (Coordinator, Funded Proposer meetings) that the Survey is being mentioned. “Proof of Life” is for people who have never been funded before Confusion about potential parameter changes regarding Challenge Teams requirements for Proof of Life (still in 5.1.2)
 
 **Phil** Did you post it to the Proposer Telegram chat?
 
@@ -192,7 +192,7 @@ Originally posted by Jo, “where do I go” Stephen would like to do another AT
 
 **Vanessa** (32:07) the Survey gets more the Proposer’s view on Audit; maybe have the After Town Hall the community wants to know what projects are doing (Proposer’s perspective vs community perspective). If we focus it too much around the Survey then we’re getting the same views.
 
-**Vanessa**: conundrum, of people wanting to know how to hold Proposers to account, “how do we audit it?” The Survey looks at monitoring and evaluation
+**Vanessa**: conundrum, of people wanting to know how to hold Proposers to account, “how do we audit it?” The Survey looks at monitoring and evaluation&#x20;
 
 **Phil**: “Proposal Reporting: Proposal and Community”
 
@@ -210,7 +210,7 @@ Originally posted by Jo, “where do I go” Stephen would like to do another AT
 
 **Stephen**: what about timing? After the survey? Vanessa: we need to collate it in with the report, so what about the last week of the survey? Week of the 23rd. Stephen put that as an Action
 
-### Researching, preparing and presenting a report
+### Researching, preparing and presenting a report&#x20;
 
 (41:28)
 
@@ -236,29 +236,29 @@ On the final meeting will be a review of the Final Report, and the Survey Result
 
 **Stephen**: was thinking about altering some of the beginning of the report (“preamble”)
 
-## Fund 7 Proposal Reporting
+## Fund 7 Proposal Reporting&#x20;
 
-(47:19)
+(47:19)&#x20;
 
 {% hint style="info" %}
 **Issue :** [https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/28](https://github.com/Catalyst-Auditing/Audit-Circle-Coordination/issues/28)
 {% endhint %}
 
-**Stephen**: was from 24th April 2022. Stephen is documenting them. This is what they look like: (screen share pan to) Catalyst Audit Circle - F7 Monthly Reports
+**Stephen**: was from 24th April 2022. Stephen is documenting them. This is what they look like: (screen share pan to) Catalyst Audit Circle - F7 Monthly Reports&#x20;
 
-**Phil**: might add what the Survey is up to Stephen: other places to refer to the Survey
+**Phil**: might add what the Survey is up to Stephen: other places to refer to the Survey&#x20;
 
-**Eric**: good idea about putting the link to the survey into the Reporting (49:10)
+**Eric**: good idea about putting the link to the survey into the Reporting (49:10)&#x20;
 
-**Thorsten**: use the “Optional: Please share any suitable Evidence of Progress.” to embed the Survey
+**Thorsten**: use the “Optional: Please share any suitable Evidence of Progress.” to embed the Survey&#x20;
 
 **Stephen**: let’s ask if they can put that in. Good point, Eric. Get in touch with Khalid?
 
 ## Any Other Business
 
-(51:07)
+&#x20;(51:07)
 
-If anyone wants to put the summary or any content from this week’s meeting in the newsletter, there’s a thread in Discord to do that George: to share the Survey a bit wider, Tweet from QA-DAO, so we can reTweet, or he shares on https://forum.cardano.org/ to get people to see, and on the Cardano Reddit
+If anyone wants to put the summary or any content from this week’s meeting in the newsletter, there’s a thread in Discord to do that George: to share the Survey a bit wider, Tweet from QA-DAO, so we can reTweet, or he shares on https://forum.cardano.org/ to get people to see, and on the Cardano Reddit&#x20;
 
 George: last concern: split between what was left with the Deliverables Stephen: we had the “luxury” of sitting on the ADA before, but with the value going down, now we don’t
 

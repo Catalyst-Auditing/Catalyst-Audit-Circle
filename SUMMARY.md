@@ -25,6 +25,7 @@
   * [Audit Circle Meeting #3](project-management/meetings/audit-circle-meeting-3.md)
   * [Audit Circle Meeting #4](project-management/meetings/audit-circle-meeting-4.md)
   * [Audit Circle Meeting #5](project-management/meetings/audit-circle-meeting-5.md)
+  * [Audit Circle meeting #6](project-management/meetings/audit-circle-meeting-6.md)
 
 ## Proposal Reporting
 
