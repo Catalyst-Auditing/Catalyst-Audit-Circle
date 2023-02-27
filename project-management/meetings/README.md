@@ -10,5 +10,6 @@
 | 14th April 2022 | [Audit Circle #3](https://quality-assurance-dao.gitbook.io/audit-circle/project-management/meetings/audit-circle-meeting-3) |
 | 28th April 2022 | [Audit Circle #4](https://quality-assurance-dao.gitbook.io/audit-circle/project-management/meetings/audit-circle-meeting-4) |
 | 12th May 2022   | [Audit Circle #5](https://quality-assurance-dao.gitbook.io/audit-circle/project-management/meetings/audit-circle-meeting-5) |
+| 9th June 2022   | Audit Circle #6                                                                                                             |
 
 ###
