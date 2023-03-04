@@ -2,7 +2,7 @@
 
 * [Cardano-Audit-Hub](README.md)
 * [Fund 7 Proposal](fund-7-proposal.md)
-* [Audit Circle Fund 7 - Closing Report](audit-circle-fund-7-closing-report/README.md)
+* [Audit Circle Fund 7 - Closing Report](audit-circle-1-draft-report.md)
   * [Audit Circle external survey analysis](audit-circle-fund-7-closing-report/audit-circle-external-survey-analysis.md)
 
 ## Background
