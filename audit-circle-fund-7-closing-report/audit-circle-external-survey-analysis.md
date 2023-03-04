@@ -119,7 +119,7 @@ Note that on this question, respondents could tick all the answers that apply - 
 
 ## 7) Where do you store your data?
 
-![Forms response chart. Question title: Where do you store the data you collect about your progress? Please tick all that apply.. Number of responses: 47 responses.](https://lh5.googleusercontent.com/Rb841wDHs068Bw4PH3F3CyuXkQUREXCmrg2ZN6AhiR-L0DE7B4RVjBrklfmoCBmrsXOoTkWTY1Tp8RW8nPEj1Rkd8z9FRHopjnPYBc1FmTq9QZw4XaMCLrtGEUR8Dt6ZzkO-gX\_bpfujrx1A1pB5PFI)
+<figure><img src="https://lh5.googleusercontent.com/Rb841wDHs068Bw4PH3F3CyuXkQUREXCmrg2ZN6AhiR-L0DE7B4RVjBrklfmoCBmrsXOoTkWTY1Tp8RW8nPEj1Rkd8z9FRHopjnPYBc1FmTq9QZw4XaMCLrtGEUR8Dt6ZzkO-gX_bpfujrx1A1pB5PFI" alt=""><figcaption></figcaption></figure>
 
 The most common answer (48.9%) is Google docs, followed by a Git repo (36.2%). But a large proportion said “on paper” (18.2%) and “in my head” (25%), so there are quite a few people who are not (or not yet) storing data in discoverable and savable ways. One person explicitly says “It’s a time issue. Some of it is still in my head because I haven’t had time”, but if we also examine Question 9, on barriers to making data public, the issue may be more than just time.&#x20;
 
