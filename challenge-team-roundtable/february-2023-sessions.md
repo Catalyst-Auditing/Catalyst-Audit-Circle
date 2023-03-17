@@ -6,7 +6,7 @@ As promised, please find the recordings here (includes video, transcript, and ch
 
 👉 [Session A](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbVZIUThKTTVSOWtQTDB2eHFDUmZHd0diMzJwd3xBQ3Jtc0trZ3lUMURVdkp0cWFfOUJ3Y3kyeEE5a1BXeG0zOTRkMFBETmdCTjlIbElsOW1xSDJBUTBaaVM1alg5NmFFZS1qLWxyQ2JkVC1RTUdVWHhwbFQ3bXFmZ2pSaDVyWFI0OUlhZUNkZVJiZk1xUUpjbnRuSQ\&q=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FTQwwM7ye3IMlB0AeUEISUD5M-TPOx4\_RWCsPgatF2-czA3mWdXbtDvbGZ\_ob9Mbi.JIYKmMLYzRb23dar\&v=9OPDq2\_ryWs) - 9AM UTC
 
-👉 Session B - 3PM UTC (https://us06web.zoom.us/rec/share/JJOgMWnXnAPr4XK3zZ5emcgEuR1SkTQcM-l5uwLJJxrx1Q9N0PhX8yDuzqAjnVxU.7m62g38uIX3tD72l)
+👉 [Session B](https://us06web.zoom.us/rec/share/JJOgMWnXnAPr4XK3zZ5emcgEuR1SkTQcM-l5uwLJJxrx1Q9N0PhX8yDuzqAjnVxU.7m62g38uIX3tD72l) - 3PM UTC
 
 Both sessions worked out of this Miro (https://miro.com/app/board/uXjVOQvpE34=/?moveToViewport=366466,-169165,40257,20521\&embedId=996049389032%22%20frameborder%3D%220%22%20scrolling%3D%22no%22%20allowfullscreen%3E%3C%2Fiframe%3E).&#x20;
 
