@@ -1,5 +1,7 @@
 ---
 description: An informal network bringing together the Cardano Audit Community
+cover: ../.gitbook/assets/Magnifying_glass_on_the_page_of_a_book.jpg
+coverY: 0
 ---
 
 # Background
