@@ -3,6 +3,10 @@
 * [Cardano-Audit-Hub](README.md)
 * [Background](background/background.md)
 
+## Auditability Workgroup&#x20;
+
+* [Auditability Workgroup Meetings](auditability-workgroup/auditability-workgroup-meetings.md)
+
 ## Fund 7 Proposal
 
 ***
@@ -25,7 +29,3 @@
   * [F7 Monthly Reports](proposal-reporting/fund-7-proposal/f7-monthly-reports.md)
 * [Fund 8 Proposal](proposal-reporting/fund-8-proposal/README.md)
   * [Assessments](proposal-reporting/fund-8-proposal/assessments.md)
-
-## Auditability Workgroup&#x20;
-
-* [Auditability Workgroup Meetings](auditability-workgroup/auditability-workgroup-meetings.md)
