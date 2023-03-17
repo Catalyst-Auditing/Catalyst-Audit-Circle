@@ -30,8 +30,12 @@ The **Catalyst Audit Hub's objectives were** :
 
 **Accountability** - Catalyst Audit Circle is accountable to ADA holders who voted for it's proposal to deliver surveys, retrospectives and a final report by June 2022.
 
-**Open Source** - Catalyst Audit Circle is committed to using Open Source tools to document and track its activities. This GitBook is stored on this [repository ](https://github.com/Catalyst-Auditing/Catalyst-Audit-Circle)with an [Apache 2.0 license](LICENSE/).
+**Open Source** - Catalyst Audit Circle is committed to using Open Source tools to document and&#x20;
+
+track its activities. This GitBook is stored on this [repository ](https://github.com/Catalyst-Auditing/Catalyst-Audit-Circle)with an [Apache 2.0 license](LICENSE/).
+
+## ****
 
 ## **2023 - Auditability Workgroup**
 
-An Auditability Workgroup continued community work on month 202
+An Auditability Workgroup continued community work in March 2023\
