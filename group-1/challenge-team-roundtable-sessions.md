@@ -1,2 +1,0 @@
-# Challenge Team roundtable sessions
-

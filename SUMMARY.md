@@ -30,6 +30,6 @@
   * [Fund 8 Proposal](proposal-reporting/fund-8-proposal/README.md)
     * [Assessments](proposal-reporting/fund-8-proposal/assessments.md)
 
-## Group 1
+## Challenge Team roundtable
 
-* [Challenge Team roundtable sessions](group-1/challenge-team-roundtable-sessions.md)
+* [Roundtable sessions](challenge-team-roundtable/roundtable-sessions.md)
