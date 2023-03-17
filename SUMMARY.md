@@ -26,6 +26,6 @@
 * [Fund 8 Proposal](proposal-reporting/fund-8-proposal/README.md)
   * [Assessments](proposal-reporting/fund-8-proposal/assessments.md)
 
-## Group 1
+## Auditability Workgroup&#x20;
 
-* [Auditability Workgroup Meetings](group-1/auditability-workgroup-meetings.md)
+* [Auditability Workgroup Meetings](auditability-workgroup/auditability-workgroup-meetings.md)
