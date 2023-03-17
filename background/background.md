@@ -1,3 +1,7 @@
+---
+description: An informal network bringing together the Cardano Audit Community
+---
+
 # Background
 
 ## **Catalyst Auditing working group**
