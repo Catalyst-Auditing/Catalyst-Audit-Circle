@@ -55,20 +55,20 @@ System has been set up and people are paid for meeting attendance
 
 #### 5 minutes
 
-**Stephen -** The Town Hall Slides should alternate between Governance Oversight & Audit Circle. With slides for the Audit Circle presented the day before the meeting.&#x20;
+**Stephen -** The Town Hall Slides should alternate between Governance Oversight & Audit Circle. With slides for the Audit Circle presented the day before the meeting.
 
-There was no one available to present yesterday - can someone commit to presenting at Town Halls going forward ?.&#x20;
+There was no one available to present yesterday - can someone commit to presenting at Town Halls going forward ?.
 
 {% hint style="warning" %}
-**Action :**  Who will commit to presenting Audit Circle Slides at the Town Hall of the 13th April 2022 onwards ?
+**Action :** Who will commit to presenting Audit Circle Slides at the Town Hall of the 13th April 2022 onwards ?
 {% endhint %}
 
 {% hint style="info" %}
-&#x20;**Decision:** Ron will present next time at Town Hall - Stephen has prepared a slide template, Ron and Stephen to work on it in Discord. It will need to be an intro to what we are as a group and what we do.
+**Decision:** Ron will present next time at Town Hall - Stephen has prepared a slide template, Ron and Stephen to work on it in Discord. It will need to be an intro to what we are as a group and what we do.
 {% endhint %}
 
 {% hint style="warning" %}
-**Question:**  do we need an ATH for next few weeks to support the survey process? It’s not in scope of the proposal - Thorsten / Stephen
+**Question:** do we need an ATH for next few weeks to support the survey process? It’s not in scope of the proposal - Thorsten / Stephen
 {% endhint %}
 
 ## 4) Project Catalyst Weekly Newsletter
@@ -98,7 +98,7 @@ All to look at assessments - useful to see how the project is perceived
 
 **Stephen** - A brief review of the current Audit Circle Project Board
 
-[https://github.com/orgs/Catalyst-Auditing/projects/7/views/1](https://github.com/orgs/Catalyst-Auditing/projects/7/views/1)&#x20;
+[https://github.com/orgs/Catalyst-Auditing/projects/7/views/1](https://github.com/orgs/Catalyst-Auditing/projects/7/views/1)
 
 ## 7) Scope & Deliverables of Audit Circle
 
@@ -132,7 +132,7 @@ Report fest - Phil
 
 Weekly cadence - Matt
 
-weekly for every project would be a heavy administrative burden on all.  once every 2-3 weeks would be the most I'd want, on the oversight front - Randall
+weekly for every project would be a heavy administrative burden on all. once every 2-3 weeks would be the most I'd want, on the oversight front - Randall
 
 Fluid opp - weekly opportunity nice - Randall
 
@@ -142,17 +142,17 @@ Proposer side - who engaged audience here ? - Voters want to see simple dashboar
 
 IOG & CT operate reports in secret - confidentiality issues ? - Phil
 
-Not in line in open discussion - Phil&#x20;
+Not in line in open discussion - Phil
 
 ### **Google Form Design & Implementation (Survey deliverable)**
 
 Planned Action : A Google form that is short & easy to complete. In a meeting where funded proposers gather - e.g. coordinator meetings or a Town Hall breakout. But needs to have sufficient responses to be valid. Commence after Matthias has done some sensing. Vanessa / Phil.
 
-What are we surveying ? Community perception of auditing ? From proposers (external) - from IOG (internal) - from voter etc - current status of auditing - role of Audit oversight group - what could we be responsible for - Phil&#x20;
+What are we surveying ? Community perception of auditing ? From proposers (external) - from IOG (internal) - from voter etc - current status of auditing - role of Audit oversight group - what could we be responsible for - Phil
 
 Submit multiple times - Van
 
-Different perspectives - good idea - regular quick & easy questions - Risk questions ? - Ron&#x20;
+Different perspectives - good idea - regular quick & easy questions - Risk questions ? - Ron
 
 Audit purpose - mitigate risk or issue - potential problems with Cat - funded proposal - biggest concerns - how to improve auditing to address. Assurance of delivery - tabs on people - Eric
 
@@ -164,14 +164,14 @@ Invite Eric to Oversight Discord to join conversation - Stephen
 **Action** - deliver next 2 weeks (audit meeting 3) - Phil / Vanessa
 {% endhint %}
 
-### **Where do I go ?  (Survey deliverable)**
+### **Where do I go ? (Survey deliverable)**
 
 Planned Action : Where do I go ? - “where is the human” - shape a deliverable - Jo. CT 1 to 1 mentoring - Phil - CT good suggestion for oversight - Matt
 
 How to catch needs & expectations - interested parties - dialogue helps - survey questions may be off mark - Thorsten
 
 {% hint style="info" %}
-**Action -** next two weeks ATH - Audit - Thorsten / Stephen/ Matt - survey prep&#x20;
+**Action -** next two weeks ATH - Audit - Thorsten / Stephen/ Matt - survey prep
 {% endhint %}
 
 ### 2 Organizing retrospectives or workshops - 10 Minutes
@@ -190,20 +190,20 @@ Planned Action : Using Tik Tok for async updates - suggested by Nori - Matt -Whe
 
 As above - Loom mentioned in Gimbalabs TPBL work - what is the purpose of this aysnc - how fit into our deliverable - suggestions - Matt - next funding to pick up changes
 
-### **Using Coordinator meetings for retrospectives**&#x20;
+### **Using Coordinator meetings for retrospectives**
 
 Planned Action : How to approach and compile information
 
 The direction of the coordinator - how can Audit Circle use - Vanessa
 
 {% hint style="info" %}
-**Action** - Useful info - the status coord meetings - Stephen to clarify&#x20;
+**Action** - Useful info - the status coord meetings - Stephen to clarify
 {% endhint %}
 
 ### 3 Researching, preparing and presenting a report - 5 minutes
 
 {% hint style="info" %}
-**Planned Action :** Prepare template & format for final F7 report. Deadline : 26th May 2022&#x20;
+**Planned Action :** Prepare template & format for final F7 report. Deadline : 26th May 2022
 {% endhint %}
 
 ## Fund 7 Proposal Reporting - 5 Minutes
@@ -214,14 +214,14 @@ The direction of the coordinator - how can Audit Circle use - Vanessa
 
 Over run time - - 5 minutes
 
-Legitimacy & participation&#x20;
+Legitimacy & participation
 
-Incorporate in survey form&#x20;
+Incorporate in survey form
 
 {% hint style="info" %}
 **Next Meeting** : 1600 UTC, 14th April 2022
 {% endhint %}
 
-Leave Google invite as is&#x20;
+Leave Google invite as is
 
-Update with Randall’s email&#x20;
+Update with Randall’s email

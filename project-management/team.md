@@ -8,7 +8,7 @@ description: Catalyst Audit Circle Team Commitments
 
 ### Bi-weekly Meetings
 
-#### Starting 1800 UTC on Thursday 17th March 2022&#x20;
+#### Starting 1800 UTC on Thursday 17th March 2022
 
 | Name                | Role | Status    |
 | ------------------- | ---- | --------- |

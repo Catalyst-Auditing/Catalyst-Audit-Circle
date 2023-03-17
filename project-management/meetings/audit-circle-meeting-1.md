@@ -8,26 +8,26 @@ description: 'Scheduled date/time of meeting : 1800 UTC, Thursday, 17th March 20
 Audit Circle Meeting #1 - YouTube Recording
 {% endembed %}
 
-### Attendees:&#x20;
+### Attendees:
 
-| Name                 | Organisation                        | Status |
-| -------------------- | ----------------------------------- | ------ |
-| Andre Diamond        | Treasury                            |        |
-| George Lovegrove     | PACE                                |        |
-| Jo Allum             | F7 Auditability Challenge Team Lead |        |
-| Matthias Sieber      | CEO Loxe Inc                        |        |
-| Miroslav Rajh        |  Treasury                           |        |
-| Phil Khoo            |  AIM                                |        |
-| Ron Hill             |  CEO of SPOCRA                      |        |
-| Stephen Whitenstall  |  QADAO                              |        |
-| Thorsten Pottebaum   |                                     |        |
-| Vanessa Cardui       |  QADAO                              |        |
+| Name                | Organisation                        | Status |
+| ------------------- | ----------------------------------- | ------ |
+| Andre Diamond       | Treasury                            |        |
+| George Lovegrove    | PACE                                |        |
+| Jo Allum            | F7 Auditability Challenge Team Lead |        |
+| Matthias Sieber     | CEO Loxe Inc                        |        |
+| Miroslav Rajh       | Treasury                            |        |
+| Phil Khoo           | AIM                                 |        |
+| Ron Hill            | CEO of SPOCRA                       |        |
+| Stephen Whitenstall | QADAO                               |        |
+| Thorsten Pottebaum  |                                     |        |
+| Vanessa Cardui      | QADAO                               |        |
 
 ### Apologies:
 
-| Name       | Organization  | Status |
-| ---------- | ------------- | ------ |
-| Eric Helms | SCATDAO       |        |
+| Name       | Organization | Status |
+| ---------- | ------------ | ------ |
+| Eric Helms | SCATDAO      |        |
 
 ## Information
 
@@ -55,13 +55,13 @@ Stephen - 1800 UTC is too late for Eric Helms - is an earlier time possible ? - 
 
 Stephen - The Town Hall Slides should alternate between Governance Oversight & Audit Circle. With slides for the Audit Circle presented the day before the meeting. This week due to proposal workload slides were skipped. - 5 minutes
 
-Action :  Who would like to present Audit Circle Slides at the Town Hall of the 30th March 2022 ?
+Action : Who would like to present Audit Circle Slides at the Town Hall of the 30th March 2022 ?
 
 Jo, George or Ron
 
 ## 4) Fund 8 - Audit Circle Proposal
 
-Stephen - The Fund 8 Audit Circle Proposal has been submitted ([https://cardano.ideascale.com/c/idea/399163](https://cardano.ideascale.com/c/idea/399163)) and is based on the Fund 7 proposal.  - 5 minutes
+Stephen - The Fund 8 Audit Circle Proposal has been submitted ([https://cardano.ideascale.com/c/idea/399163](https://cardano.ideascale.com/c/idea/399163)) and is based on the Fund 7 proposal. - 5 minutes
 
 ## 5) Scope of Audit Circle
 
@@ -72,17 +72,17 @@ All members - The present summary of Audit Circle’s scope is :
 Possible areas to focus on :
 
 * **The reporting system** - _George_ highlighted looking at common, open-source tools and access to funded proposal reporting data. _Matthias_ - a survey of the amount of funded proposals, how to maximize Return on Intention and incentivize careful planning.
-* &#x20;**Oversight of Challenge Teams** (CT) - _Phil_ - In particular to check their methods & processes  - _George_ - Agrees. We should extend an invite to CT team members on Audit Circle. _Phil_ - Perhaps a specific rep for CT. _Stephen_ - A few Audit Circle members are already on CT. (But we could invite specfic guests ?).
+* **Oversight of Challenge Teams** (CT) - _Phil_ - In particular to check their methods & processes - _George_ - Agrees. We should extend an invite to CT team members on Audit Circle. _Phil_ - Perhaps a specific rep for CT. _Stephen_ - A few Audit Circle members are already on CT. (But we could invite specfic guests ?).
 * **Auditing how we audit**. Common knowledge - _Jo_
-* **Auditing processes that are already in place** - _Vanessa_  - such as how CTs operate and the new reporting form. _Ron_ - echo - defining what these methods / process are we should overseeing. _George & Stephen_ - track IOG thinking on changing report formats. Reference the Audit GitBook / things we can audit - _George_ - collab with Matthias to establish real world concerns
-* **Proposal financials** -&#x20;
+* **Auditing processes that are already in place** - _Vanessa_ - such as how CTs operate and the new reporting form. _Ron_ - echo - defining what these methods / process are we should overseeing. _George & Stephen_ - track IOG thinking on changing report formats. Reference the Audit GitBook / things we can audit - _George_ - collab with Matthias to establish real world concerns
+* **Proposal financials** -
 
-NOT : Auditing individual proposals&#x20;
+NOT : Auditing individual proposals
 
 This focus will form the basis of our Fund 7 proposal reporting.
 
 {% hint style="info" %}
-**Action** : Decide an area to focus on.&#x20;
+**Action** : Decide an area to focus on.
 {% endhint %}
 
 ## 6) Deliverables
@@ -101,7 +101,7 @@ I would like to gather more qualitative data to establish what should be on the 
 
 We could use the funded proposal monthly reporting form to gather feedback ? - _Ron_
 
-A Google form that is short & easy to complete. In a meeting where funded proposers gather - e.g. coordinator meetings or a Town Hall breakout. But needs to have sufficient responses to be valid.  _Vanessa / Phil._ Commence after Matthias has done some sensing. How can reporting encourage a better Return On Intention - _Matthias_&#x20;
+A Google form that is short & easy to complete. In a meeting where funded proposers gather - e.g. coordinator meetings or a Town Hall breakout. But needs to have sufficient responses to be valid. _Vanessa / Phil._ Commence after Matthias has done some sensing. How can reporting encourage a better Return On Intention - _Matthias_
 
 Where do I go ? - human resources - Jo - “where is the human” - shape a deliverable - CT 1 to 1 mentoring - Phil - CT good suggestion for oversight - Matt
 
@@ -117,7 +117,7 @@ Audit Circle - Office Hours - conversation with Pacific TH or other THs or commu
 
 Using Tik Tok for async updates - suggested by Nori - Matt -When you do not meet milestones - weekly check-ins - coordinator meeting not fit for purpose - long form not accessible - Matt
 
-#### Using Coordinator meetings for retrospectives&#x20;
+#### Using Coordinator meetings for retrospectives
 
 Next Tuesday Coordinator meeting - go from room to room - Vanessa
 
@@ -127,19 +127,19 @@ CT taking over funded proposal feedback loop from coordinator meeting - Phil K
 
 Short form videos - Ron
 
-Each of us communicate that Audit Circle exists etc. in coord breakout room - Phil&#x20;
+Each of us communicate that Audit Circle exists etc. in coord breakout room - Phil
 
-Make it informal to start with - mix it up - Matt&#x20;
+Make it informal to start with - mix it up - Matt
 
-Do not say “Audit Circle” - we are a community auditing group - Phil&#x20;
+Do not say “Audit Circle” - we are a community auditing group - Phil
 
 For transparency - tell people who we are - Vanessa
 
 Keep confidentiality - Matt
 
-Networking opps in coord meetings - support for building on Cardano - community component - Matt&#x20;
+Networking opps in coord meetings - support for building on Cardano - community component - Matt
 
-Auditors adding support - guidance on countermeasures -&#x20;
+Auditors adding support - guidance on countermeasures -
 
 NB : Funded Proposal Sub Circle can also get involved - Vanessa
 
@@ -147,7 +147,7 @@ Use coordinator meetings to do breakout sessions retrospectives - asking about p
 
 ### Researching, preparing and presenting a report
 
-#### Due - 26th May 2022&#x20;
+#### Due - 26th May 2022
 
 Evolve naturally - Stephen
 
@@ -175,7 +175,7 @@ All members - A decision on scope and deliverables will be reported to IOG in th
 
 Over run time - - 5 minutes
 
-_Thorsten Pottebaum_ - Include the voter perspective - what do voters want to know in terms of audit re the proposals they voted for?&#x20;
+_Thorsten Pottebaum_ - Include the voter perspective - what do voters want to know in terms of audit re the proposals they voted for?
 
 Should a survey also include voters’ perspective on audit?
 
@@ -196,4 +196,4 @@ Should a survey also include voters’ perspective on audit?
 \
 \
 \
-\
+\\

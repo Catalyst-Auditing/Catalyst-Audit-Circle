@@ -1,7 +1,5 @@
 # Assessments
 
-
-
 ## Assessment 1
 
 ### Impact / Alignment
@@ -113,6 +111,3 @@ It seems that behind this project there is a large number of professionals in th
 ### Auditability
 
 The proposal has a very solid foundation. This makes me think that the promoters have clear ideas and know how to carry out the project. They explain step by step how they will work and what their ultimate goal is, describing it with a timeline and specifying the training and experience of their members. I think the information is enough to ensure that it is a great design.
-
-
-
