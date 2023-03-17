@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Cardano-Audit-Hub](README.md)
-* [Background](background/background.md)
+* [Background](README.md)
 
 ## Auditability Workgroup&#x20;
 
@@ -29,3 +28,4 @@
   * [F7 Monthly Reports](proposal-reporting/fund-7-proposal/f7-monthly-reports.md)
 * [Fund 8 Proposal](proposal-reporting/fund-8-proposal/README.md)
   * [Assessments](proposal-reporting/fund-8-proposal/assessments.md)
+* [Fund 7 Project Management](fund-7-project-management.md)
