@@ -17,3 +17,7 @@ In case of doubt, please reply here. 🙌
 ## Session A - 9AM UTC
 
 {% embed url="https://youtu.be/BmRc5kehfSM" %}
+
+## Session B - 3PM UTC
+
+{% embed url="https://youtu.be/9OPDq2_ryWs" %}
