@@ -4,7 +4,7 @@ Thank you all who managed to find time out of your busy lives and attend one of 
 
 As promised, please find the recordings here (includes video, transcript, and chat)
 
-👉 Session A - 9AM UTC (https://us06web.zoom.us/rec/share/TQwwM7ye3IMlB0AeUEISUD5M-TPOx4\_RWCsPgatF2-czA3mWdXbtDvbGZ\_ob9Mbi.JIYKmMLYzRb23dar)&#x20;
+👉 [Session A](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbVZIUThKTTVSOWtQTDB2eHFDUmZHd0diMzJwd3xBQ3Jtc0trZ3lUMURVdkp0cWFfOUJ3Y3kyeEE5a1BXeG0zOTRkMFBETmdCTjlIbElsOW1xSDJBUTBaaVM1alg5NmFFZS1qLWxyQ2JkVC1RTUdVWHhwbFQ3bXFmZ2pSaDVyWFI0OUlhZUNkZVJiZk1xUUpjbnRuSQ\&q=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FTQwwM7ye3IMlB0AeUEISUD5M-TPOx4\_RWCsPgatF2-czA3mWdXbtDvbGZ\_ob9Mbi.JIYKmMLYzRb23dar\&v=9OPDq2\_ryWs) - 9AM UTC
 
 👉 Session B - 3PM UTC (https://us06web.zoom.us/rec/share/JJOgMWnXnAPr4XK3zZ5emcgEuR1SkTQcM-l5uwLJJxrx1Q9N0PhX8yDuzqAjnVxU.7m62g38uIX3tD72l)
 
