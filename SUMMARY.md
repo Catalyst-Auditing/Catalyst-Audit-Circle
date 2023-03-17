@@ -25,3 +25,7 @@
   * [F7 Monthly Reports](proposal-reporting/fund-7-proposal/f7-monthly-reports.md)
 * [Fund 8 Proposal](proposal-reporting/fund-8-proposal/README.md)
   * [Assessments](proposal-reporting/fund-8-proposal/assessments.md)
+
+## Group 1
+
+* [Auditability Workgroup Meetings](group-1/auditability-workgroup-meetings.md)
