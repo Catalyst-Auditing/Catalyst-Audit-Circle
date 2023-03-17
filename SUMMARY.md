@@ -4,7 +4,7 @@
 
 ## Auditability Workgroup&#x20;
 
-* [Meeting 3](auditability-workgroup/meeting-3.md)
+* [Meeting 2](auditability-workgroup/meeting-2.md)
 
 ## Fund 7 Proposal
 
