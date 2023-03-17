@@ -40,12 +40,6 @@ The **Catalyst Audit Hub's objectives were** :
 
 track its activities. This GitBook is stored on this [repository ](https://github.com/Catalyst-Auditing/Catalyst-Audit-Circle)with an [Apache 2.0 license](LICENSE/).
 
-## ****
-
-## ****
-
-## ****
-
 ## **2023**
 
 ## **Challenge Team Roundtable**
