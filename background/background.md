@@ -4,11 +4,17 @@ description: An informal network bringing together the Cardano Audit Community
 
 # Background
 
-## **Catalyst Auditing working group**
+## 2020 - Accountability in Funding from Voltaire
+
+Charles Hoskinson - 7 Oct 2020
+
+{% embed url="https://youtu.be/3_wJOF4Y8gU" %}
+
+## 2021 - **Catalyst Auditing working group**
 
 Since October 2021 community members with an interest in auditing and oversight initiated research into reporting and participated in the **Catalyst Auditing working group** ( see [https://catalyst-swarm.gitbook.io/catalyst-auditing/admin/meetings](https://catalyst-swarm.gitbook.io/catalyst-auditing/admin/meetings) ).
 
-## **Catalyst Audit Hub Proposal**
+## **2022 - Catalyst Audit Hub Proposal**
 
 The **Catalyst Audit Hub's objectives were** :
 
@@ -24,12 +30,6 @@ The **Catalyst Audit Hub's objectives were** :
 
 **Open Source** - Catalyst Audit Circle is committed to using Open Source tools to document and track its activities. This GitBook is stored on this [repository ](https://github.com/Catalyst-Auditing/Catalyst-Audit-Circle)with an [Apache 2.0 license](../LICENSE/).
 
-## **Auditability Workgroup**
+## **2023 - Auditability Workgroup**
 
 An Auditability Workgroup continued community work on month 202
-
-## Accountability in Funding from Voltaire
-
-Charles Hoskinson - 7 Oct 2020
-
-{% embed url="https://youtu.be/3_wJOF4Y8gU" %}
