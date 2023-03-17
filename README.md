@@ -6,7 +6,7 @@ coverY: 0
 
 # Background
 
-## 2020 - Accountability in Funding from Voltaire
+## c2020 - Accountability in Funding from Voltaire
 
 Charles Hoskinson - 7 Oct 2020
 
@@ -36,6 +36,14 @@ track its activities. This GitBook is stored on this [repository ](https://githu
 
 ## ****
 
-## **2023 - Auditability Workgroup**
+## ****
+
+## ****
+
+## **2023**
+
+## **Challenge Team Roundtable**
+
+## **Auditability Workgroup**
 
 An Auditability Workgroup continued community work in March 2023\
