@@ -32,4 +32,4 @@
 
 ## Challenge Team roundtable
 
-* [Roundtable sessions](challenge-team-roundtable/roundtable-sessions.md)
+* [February 2023 Sessions](challenge-team-roundtable/february-2023-sessions.md)
