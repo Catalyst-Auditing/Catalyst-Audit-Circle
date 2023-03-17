@@ -44,6 +44,8 @@ track its activities. This GitBook is stored on this [repository ](https://githu
 
 ## **Challenge Team Roundtable**
 
+Two Challenge Team roundtable sessions took place on February 16th 2023.
+
 ## **Auditability Workgroup**
 
-An Auditability Workgroup continued community work in March 2023\
+An Auditability Workgroup continued community work in March 2023.\
