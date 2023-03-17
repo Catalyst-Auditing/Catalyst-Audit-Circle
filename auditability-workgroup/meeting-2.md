@@ -1,6 +1,6 @@
 # Meeting 2
 
-n November 2022 we kicked off the auditability workgroup re-boot. Earlier this week, the second round was held. What were the key highlights?
+In November 2022 we kicked off the auditability workgroup re-boot. Earlier this week, the second round was held. What were the key highlights?
 
 * Review of the past meeting outcomes
 * Received a great presentation from a funded project named Audit Circle
