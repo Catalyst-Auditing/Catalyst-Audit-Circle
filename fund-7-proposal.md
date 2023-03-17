@@ -2,33 +2,35 @@
 description: 'F7: Improve and Grow Auditability - Catalyst Audit Circle'
 ---
 
+# Fund 7 Proposal
+
 {% embed url="https://youtu.be/1CWRy-5HR7Q" %}
 
-# Fund 7 Proposal
+## Fund 7 Proposal
 
 Here is the text of a proposal entitled "[Catalyst Audit Circle](https://cardano.ideascale.com/c/idea/381354)" that was submitted in Fund 7 under the _Improve and Grow Auditability_ Challenge.
 
-## **Problem statement :**
+### **Problem statement :**
 
 Catalyst lacks a governing circle whose focus is on problem sensing prioritisation of problems surrounding auditing for funded proposals.
 
-## **Describe your solution to the problem**
+### **Describe your solution to the problem**
 
 Establish a Catalyst auditing circle to guide improvements needed to maximise each funding rounds return on intention.
 
-## **Relevant experience**
+### **Relevant experience**
 
 The Audit Circle will consist of members from the Catalyst Audit Community. See Detailed plan.
 
-## **Website/GitHub repository (not required)**
+### **Website/GitHub repository (not required)**
 
 {% embed url="https://quality-assurance-dao.gitbook.io/catalyst-audit-circle" %}
 
-## **Detailed plan**
+### **Detailed plan**
 
-#### **Fill in here any additional details**
+**Fill in here any additional details**
 
-### **Overview**
+#### **Overview**
 
 _(Conceived by George Lovegrove. Adapted by Stephen Whitenstall.)_
 
@@ -42,13 +44,13 @@ The **Catalyst Audit Circle** would be tasked with:
 * Prioritizing funded proposals issues with the help of the community by looking at the complexity, implementation effort and relevant concerns to guide what to solve first.
 * Coordinating and collaborating with the community to investigate and develop potential solutions to auditing issues. Any solutions developed can go through the Catalyst funding process.
 
-### **Catalyst Auditing Circle proposal Intent**
+#### **Catalyst Auditing Circle proposal Intent**
 
 This proposal's intent is to problem sense and prioritize problems that can be solved by the community.
 
 A complementary proposal "Community Governance Oversight" ( [https://cardano.ideascale.com/a/dtd/Community-Governance-Oversight/383517-48088](https://cardano.ideascale.com/a/dtd/Community-Governance-Oversight/383517-48088) ) will provide oversight of improvements to and innovations in Catalyst Governance.
 
-### **Team**
+#### **Team**
 
 _The Catalyst Audit Circle (up to 8 paid members) including :_
 
@@ -66,7 +68,7 @@ _The Catalyst Audit Circle (up to 8 paid members) including :_
 
 **Stephen Whitenstall** (@swhitenstall) - Quality-Assurance DAO, Circle V2 representative for funded proposers. Funded proposer in F6: Improve and Grow Auditability.
 
-### **Roadmap**
+#### **Roadmap**
 
 _Present - December 2021 to January 2021_
 
@@ -80,7 +82,7 @@ _After Funding - February 2022 to April 2022_
 4. The Audit Circle will produce a report for Funded Proposals providing an assessment whether they meet the success criteria.
 5. A Fund 8 proposal will be prepared by the Audit Circle and submitted in an appropriate Challenge to resource its ongoing activities in proportion to the scope of Catalyst governance changes in Spring 2022.
 
-### **Budget**
+#### **Budget**
 
 _Budget breakdown:_
 
@@ -134,6 +136,6 @@ $ 500
 
 Subtotal : 3,700
 
-### Requested funds
+#### Requested funds
 
 Requested funds in USD $ 12,700
