@@ -1,6 +1,6 @@
 ---
 description: An informal network bringing together the Cardano Audit Community
-cover: ../.gitbook/assets/Magnifying_glass_on_the_page_of_a_book.jpg
+cover: .gitbook/assets/Magnifying_glass_on_the_page_of_a_book.jpg
 coverY: 0
 ---
 
@@ -30,7 +30,7 @@ The **Catalyst Audit Hub's objectives were** :
 
 **Accountability** - Catalyst Audit Circle is accountable to ADA holders who voted for it's proposal to deliver surveys, retrospectives and a final report by June 2022.
 
-**Open Source** - Catalyst Audit Circle is committed to using Open Source tools to document and track its activities. This GitBook is stored on this [repository ](https://github.com/Catalyst-Auditing/Catalyst-Audit-Circle)with an [Apache 2.0 license](../LICENSE/).
+**Open Source** - Catalyst Audit Circle is committed to using Open Source tools to document and track its activities. This GitBook is stored on this [repository ](https://github.com/Catalyst-Auditing/Catalyst-Audit-Circle)with an [Apache 2.0 license](LICENSE/).
 
 ## **2023 - Auditability Workgroup**
 
