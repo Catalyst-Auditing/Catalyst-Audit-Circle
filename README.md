@@ -6,17 +6,23 @@ coverY: 0
 
 # Background
 
-## c2020 - Accountability in Funding from Voltaire
+## 2020
+
+## Accountability in Funding from Voltaire
 
 Charles Hoskinson - 7 Oct 2020
 
 {% embed url="https://youtu.be/3_wJOF4Y8gU" %}
 
-## 2021 - **Catalyst Auditing working group**
+## 2021
+
+## **Catalyst Auditing working group**
 
 Since October 2021 community members with an interest in auditing and oversight initiated research into reporting and participated in the **Catalyst Auditing working group** ( see [https://catalyst-swarm.gitbook.io/catalyst-auditing/admin/meetings](https://catalyst-swarm.gitbook.io/catalyst-auditing/admin/meetings) ).
 
-## **2022 - Catalyst Audit Hub Proposal**
+## **2022**
+
+## **Catalyst Audit Hub Proposal**
 
 The **Catalyst Audit Hub's objectives were** :
 
