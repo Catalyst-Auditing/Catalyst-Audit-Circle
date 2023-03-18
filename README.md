@@ -6,6 +6,12 @@ coverY: 0
 
 # Background
 
+##
+
+{% hint style="info" %}
+In the past, auditing was typically carried out by centralized institutions such as governments or corporations, and was focused on ensuring compliance with regulations and accounting standards. However, with the rise of decentralized technologies such as blockchain, there has been a growing interest in developing community-driven auditing systems that are transparent, decentralized, and accountable to the community.
+{% endhint %}
+
 ## 2020
 
 ## Accountability in Funding from Voltaire
