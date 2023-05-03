@@ -17,7 +17,7 @@
 {% hint style="info" %}
 Broadly, <mark style="color:red;">**audit**</mark> is something external, where someone else assesses your project, often involving a value-judgement; and <mark style="color:red;">**monitoring**</mark> is the data, both quantitative and qualitative, that you collect internally, often as you go along, to make it possible for audit to be conducted.\
 \
-There are several ways to define the difference between ** **<mark style="color:red;">**output**</mark> and <mark style="color:red;">**outcome**</mark> - but in simple terms, outputs are the things you produce (both tangible and intangible), and outcomes are what happens as a result of producing them. In some fields, the line can be blurry.
+There are several ways to define the difference between <mark style="color:red;">**output**</mark> and <mark style="color:red;">**outcome**</mark> - but in simple terms, outputs are the things you produce (both tangible and intangible), and outcomes are what happens as a result of producing them. In some fields, the line can be blurry.
 {% endhint %}
 
 3\) What proposers are measuring doesn’t always correlate with what their proposal says it will achieve; so they’re not really evidencing their work. This is true whether they are intending to evidence process, outputs, or outcomes - in many cases, they’re simply not collecting data that is demonstrates what they say they want to show. Some training, support, or wider community thinking on how to design a metric  - and indeed, what a metric is in the context of different types of proposal - might help here.

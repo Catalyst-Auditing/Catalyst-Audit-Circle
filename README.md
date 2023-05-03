@@ -48,6 +48,12 @@ The **Catalyst Audit Hub's objectives were** :
 
 track its activities. This GitBook is stored on this [repository ](https://github.com/Catalyst-Auditing/Catalyst-Audit-Circle)with an [Apache 2.0 license](LICENSE/).
 
+### Auditability Workgroups
+
+In August 2022, Danny Ribar sent out a call for regular work group meetings for audit/oversight of projects on Cardano’s Project Catalyst.
+
+<figure><img src=".gitbook/assets/Screenshot from 2023-05-03 19-13-32.png" alt=""><figcaption></figcaption></figure>
+
 ## **2023**
 
 ## **Challenge Team Roundtable**
