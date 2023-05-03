@@ -52,6 +52,8 @@ track its activities. This GitBook is stored on this [repository ](https://githu
 
 In August 2022, Danny Ribar sent out a call for regular work group meetings for audit/oversight of projects on Cardano’s Project Catalyst.
 
+{% embed url="https://forum.cardano.org/t/q-would-you-be-interested-in-attending-regular-monthly-work-group-meetings-for-audit-oversight-of-projects-on-cardano-s-project-catalyst/106592" %}
+
 <figure><img src=".gitbook/assets/Screenshot from 2023-05-03 19-13-32.png" alt=""><figcaption></figcaption></figure>
 
 ## **2023**
