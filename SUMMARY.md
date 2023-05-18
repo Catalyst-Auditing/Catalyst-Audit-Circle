@@ -2,9 +2,12 @@
 
 * [Background](README.md)
 
-## Auditability Workgroup&#x20;
+## Meetings
 
-## Challenge Team roundtable
+* [Auditability Workshop](meetings/auditability-workshop/README.md)
+  * [Meeting 2 - March 2023](meetings/auditability-workshop/meeting-2-march-2023.md)
+* [Challenge Team Roundtable](meetings/challenge-team-roundtable/README.md)
+  * [February 2023 Sessions](challenge-team-roundtable/february-2023-sessions.md)
 
 ## Fund 7 Proposal
 
@@ -29,10 +32,3 @@
     * [F7 Monthly Reports](proposal-reporting/fund-7-proposal/f7-monthly-reports.md)
   * [Fund 8 Proposal](proposal-reporting/fund-8-proposal/README.md)
     * [Assessments](proposal-reporting/fund-8-proposal/assessments.md)
-
-## Meetings
-
-* [Auditability Workshop](meetings/auditability-workshop/README.md)
-  * [Meeting 2](meetings/auditability-workshop/meeting-2.md)
-* [Challenge Team Roundtable](meetings/challenge-team-roundtable/README.md)
-  * [February 2023 Sessions](meetings/challenge-team-roundtable/february-2023-sessions.md)
