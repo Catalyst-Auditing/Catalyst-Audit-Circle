@@ -5,7 +5,8 @@
 ## Meetings
 
 * [Auditability Workshop](meetings/auditability-workshop/README.md)
-  * [Meeting 2 - March 2023](meetings/auditability-workshop/meeting-2-march-2023.md)
+  * [Meeting 3 - May 2023](meetings/auditability-workshop/meeting-3-may-2023.md)
+  * [Meeting 2 - March 2023](auditability-workgroup/meeting-2.md)
 * [Challenge Team Roundtable](meetings/challenge-team-roundtable/README.md)
   * [February 2023 Sessions](challenge-team-roundtable/february-2023-sessions.md)
 
